@@ -120,7 +120,7 @@ namespace Server
             else if (eventName == "choose_existing_character")
             {
                 dynamic c = charList[(int)args[0]];
-                API.sendChatMessageToPlayer(player, c.Id.ToString());
+                API.sendChatMessageToPlayer(player, "Logged in as " + c.Name + " with ID: " + c.Id.ToString());
             }
         }
     }
