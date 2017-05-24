@@ -1,0 +1,886 @@
+-> SERVER STARTED AT 5/24/2017 3:43:24 PM[15:43:24] Starting...
+[15:43:24] Loading resources...
+[15:43:24] Starting freeroam
+[15:43:26] Resource freeroam started!
+[15:43:26] Starting login
+[15:43:26] Error/warning while compiling script!
+[15:43:26] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\login\login.cs:1: The type or namespace name 'GTANetworkServer' could not be found (are you missing a using directive or an assembly reference?)
+[15:43:26] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\login\login.cs:2: The type or namespace name 'GTANetworkShared' could not be found (are you missing a using directive or an assembly reference?)
+[15:43:26] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\login\login.cs:11: The type or namespace name 'Script' could not be found (are you missing a using directive or an assembly reference?)
+[15:43:26] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\login\login.cs:38: The type or namespace name 'Client' could not be found (are you missing a using directive or an assembly reference?)
+[15:43:26] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\login\login.cs:47: The type or namespace name 'Client' could not be found (are you missing a using directive or an assembly reference?)
+[15:43:26] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\login\login.cs:52: The type or namespace name 'Client' could not be found (are you missing a using directive or an assembly reference?)
+[15:43:26] Resource login started!
+[15:43:26] Started! Waiting for connections.
+[15:45:08] Terminating...
+[15:45:08] Stopping login
+[15:45:08] Stopped login!
+[15:45:08] Stopping freeroam
+[15:45:08] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 3:45:08 PM[15:45:08] Starting...
+[15:45:09] Loading resources...
+[15:45:09] Starting freeroam
+[15:45:09] Resource freeroam started!
+[15:45:09] Starting login
+[15:45:09] Resource login started!
+[15:45:09] Started! Waiting for connections.
+[15:47:54] Terminating...
+[15:47:54] Stopping login
+[15:47:54] Stopped login!
+[15:47:54] Stopping freeroam
+[15:47:54] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 3:48:26 PM[15:48:26] Starting...
+[15:48:26] Loading resources...
+[15:48:27] Starting freeroam
+[15:48:27] Resource freeroam started!
+[15:48:27] Starting login
+[15:48:27] ERROR STARTING RESOURCE login
+[15:48:27] System.IO.FileNotFoundException: Resource does not exist.
+   at GrandTheftMultiplayer.Server.GameServer.StartResource(String resourceName, String father)
+[15:48:27] Started! Waiting for connections.
+[15:50:19] Terminating...
+[15:50:19] Stopping freeroam
+[15:50:19] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 3:50:20 PM[15:50:20] Starting...
+[15:50:20] Loading resources...
+[15:50:20] Starting freeroam
+[15:50:20] Resource freeroam started!
+[15:50:20] Starting main
+[15:50:20] ERROR STARTING RESOURCE main
+[15:50:20] System.IO.FileNotFoundException: meta.xml has not been found.
+   at GrandTheftMultiplayer.Server.GameServer.StartResource(String resourceName, String father)
+[15:50:20] Started! Waiting for connections.
+[15:50:35] Terminating...
+[15:50:35] Stopping freeroam
+[15:50:35] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 3:50:35 PM[15:50:35] Starting...
+[15:50:36] Loading resources...
+[15:50:36] Starting freeroam
+[15:50:36] Resource freeroam started!
+[15:50:36] Starting main/login
+[15:50:37] Resource main/login started!
+[15:50:37] Started! Waiting for connections.
+[15:55:26] Initiating connection: [192.168.0.10:64037]
+[15:55:26] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[15:55:27] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[16:06:59] Terminating...
+[16:06:59] Stopping main/login
+[16:06:59] Stopped main/login!
+[16:06:59] Stopping freeroam
+[16:06:59] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:06:59 PM[16:06:59] Starting...
+[16:07:00] Loading resources...
+[16:07:00] Starting freeroam
+[16:07:00] Resource freeroam started!
+[16:07:00] Starting main/login
+[16:07:01] Resource main/login started!
+[16:07:01] Started! Waiting for connections.
+[16:07:08] Initiating connection: [192.168.0.10:64037]
+[16:07:08] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[16:07:08] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[16:09:29] Terminating...
+[16:09:29] Stopping main/login
+[16:09:29] Stopped main/login!
+[16:09:29] Stopping freeroam
+[16:09:29] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:09:29 PM[16:09:29] Starting...
+[16:09:30] Loading resources...
+[16:09:30] Starting freeroam
+[16:09:30] Resource freeroam started!
+[16:09:30] Starting main/login
+[16:09:31] Resource main/login started!
+[16:09:31] Started! Waiting for connections.
+[16:09:37] Initiating connection: [192.168.0.10:64037]
+[16:09:37] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[16:09:37] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[16:10:25] Terminating...
+[16:10:25] Stopping main/login
+[16:10:25] Stopped main/login!
+[16:10:25] Stopping freeroam
+[16:10:25] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:10:25 PM[16:10:25] Starting...
+[16:10:25] Loading resources...
+[16:10:25] Starting freeroam
+[16:10:26] Resource freeroam started!
+[16:10:26] Starting main/login
+[16:10:26] Resource main/login started!
+[16:10:26] Started! Waiting for connections.
+[16:10:32] Initiating connection: [192.168.0.10:64037]
+[16:10:32] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[16:10:32] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[16:13:09] Terminating...
+[16:13:09] Stopping main/login
+[16:13:09] Stopped main/login!
+[16:13:09] Stopping freeroam
+[16:13:09] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:13:09 PM[16:13:09] Starting...
+[16:13:09] Loading resources...
+[16:13:09] Starting freeroam
+[16:13:10] Resource freeroam started!
+[16:13:10] Starting main/login
+[16:13:10] Resource main/login started!
+[16:13:10] Started! Waiting for connections.
+[16:13:22] Initiating connection: [192.168.0.10:64037]
+[16:13:22] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[16:13:23] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[16:16:02] Terminating...
+[16:16:02] Stopping main/login
+[16:16:02] Stopped main/login!
+[16:16:02] Stopping freeroam
+[16:16:02] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:16:02 PM[16:16:02] Starting...
+[16:16:03] Loading resources...
+[16:16:03] Starting freeroam
+[16:16:03] Resource freeroam started!
+[16:16:03] Starting main/login
+[16:16:03] Resource main/login started!
+[16:16:03] Started! Waiting for connections.
+[16:16:11] Initiating connection: [192.168.0.10:64037]
+[16:16:11] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[16:16:11] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[16:16:35] Terminating...
+[16:16:35] Stopping main/login
+[16:16:35] Stopped main/login!
+[16:16:35] Stopping freeroam
+[16:16:35] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:16:35 PM[16:16:35] Starting...
+[16:16:36] Loading resources...
+[16:16:36] Starting freeroam
+[16:16:36] Resource freeroam started!
+[16:16:36] Starting main/login
+[16:16:36] Resource main/login started!
+[16:16:36] Started! Waiting for connections.
+[16:16:44] Initiating connection: [192.168.0.10:64037]
+[16:16:44] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[16:16:45] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[16:20:09] Terminating...
+[16:20:09] Stopping main/login
+[16:20:09] Stopped main/login!
+[16:20:09] Stopping freeroam
+[16:20:09] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:20:10 PM[16:20:10] Starting...
+[16:20:10] Loading resources...
+[16:20:10] Starting freeroam
+[16:20:11] Resource freeroam started!
+[16:20:11] Starting main/login
+[16:20:11] Error/warning while compiling script!
+[16:20:11] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:115: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:20:11] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:115: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:20:11] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:116: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:20:11] Resource main/login started!
+[16:20:11] Started! Waiting for connections.
+[16:20:29] Terminating...
+[16:20:29] Stopping main/login
+[16:20:29] Stopped main/login!
+[16:20:29] Stopping freeroam
+[16:20:29] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:20:29 PM[16:20:29] Starting...
+[16:20:29] Loading resources...
+[16:20:29] Starting freeroam
+[16:20:30] Resource freeroam started!
+[16:20:30] Starting main/login
+[16:20:30] Error/warning while compiling script!
+[16:20:30] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:11: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:20:30] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:116: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:20:30] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:116: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:20:30] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:117: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:20:30] Resource main/login started!
+[16:20:30] Started! Waiting for connections.
+[16:20:52] Terminating...
+[16:20:52] Stopping main/login
+[16:20:52] Stopped main/login!
+[16:20:52] Stopping freeroam
+[16:20:52] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:20:52 PM[16:20:52] Starting...
+[16:20:53] Loading resources...
+[16:20:53] Starting freeroam
+[16:20:53] Resource freeroam started!
+[16:20:53] Starting main/login
+[16:20:53] Error/warning while compiling script!
+[16:20:53] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:11: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:20:53] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:116: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:20:53] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:116: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:20:53] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:117: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:20:53] Resource main/login started!
+[16:20:53] Started! Waiting for connections.
+[16:21:13] Terminating...
+[16:21:13] Stopping main/login
+[16:21:13] Stopped main/login!
+[16:21:13] Stopping freeroam
+[16:21:13] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:21:13 PM[16:21:13] Starting...
+[16:21:14] Loading resources...
+[16:21:14] Starting freeroam
+[16:21:14] Resource freeroam started!
+[16:21:14] Starting main/login
+[16:21:14] Error/warning while compiling script!
+[16:21:14] Error (CS1001) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:11: Identifier expected
+[16:21:14] Resource main/login started!
+[16:21:14] Started! Waiting for connections.
+[16:21:25] Terminating...
+[16:21:25] Stopping main/login
+[16:21:25] Stopped main/login!
+[16:21:25] Stopping freeroam
+[16:21:25] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:21:26 PM[16:21:26] Starting...
+[16:21:26] Loading resources...
+[16:21:26] Starting freeroam
+[16:21:27] Resource freeroam started!
+[16:21:27] Starting main/login
+[16:21:27] Error/warning while compiling script!
+[16:21:27] Error (CS1001) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:11: Identifier expected
+[16:21:27] Resource main/login started!
+[16:21:27] Started! Waiting for connections.
+[16:29:44] Terminating...
+[16:29:45] Stopping main/login
+[16:29:45] Stopped main/login!
+[16:29:45] Stopping freeroam
+[16:29:45] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:29:45 PM[16:29:45] Starting...
+[16:29:45] Loading resources...
+[16:29:45] Starting freeroam
+[16:29:46] Resource freeroam started!
+[16:29:46] Starting main/login
+[16:29:46] Error/warning while compiling script!
+[16:29:46] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:11: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:29:46] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:116: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:29:46] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:116: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:29:46] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:117: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:29:46] Resource main/login started!
+[16:29:46] Started! Waiting for connections.
+[16:30:07] Terminating...
+[16:30:07] Stopping main/login
+[16:30:07] Stopped main/login!
+[16:30:07] Stopping freeroam
+[16:30:07] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:30:07 PM[16:30:07] Starting...
+[16:30:07] Loading resources...
+[16:30:07] Starting freeroam
+[16:30:08] Resource freeroam started!
+[16:30:08] Starting main/login
+[16:30:08] Error/warning while compiling script!
+[16:30:08] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:115: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:30:08] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:115: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:30:08] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:116: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:30:08] Resource main/login started!
+[16:30:08] Started! Waiting for connections.
+[16:30:37] Terminating...
+[16:30:37] Stopping main/login
+[16:30:37] Stopped main/login!
+[16:30:37] Stopping freeroam
+[16:30:37] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:30:37 PM[16:30:37] Starting...
+[16:30:38] Loading resources...
+[16:30:38] Starting freeroam
+[16:30:38] Resource freeroam started!
+[16:30:38] Starting main/login
+[16:30:38] Error/warning while compiling script!
+[16:30:38] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:11: The type or namespace name 'main' could not be found (are you missing a using directive or an assembly reference?)
+[16:30:38] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:116: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:30:38] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:116: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:30:38] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:117: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:30:38] Resource main/login started!
+[16:30:38] Started! Waiting for connections.
+[16:30:51] Terminating...
+[16:30:51] Stopping main/login
+[16:30:51] Stopped main/login!
+[16:30:51] Stopping freeroam
+[16:30:51] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:30:51 PM[16:30:51] Starting...
+[16:30:52] Loading resources...
+[16:30:52] Starting freeroam
+[16:30:52] Resource freeroam started!
+[16:30:52] Starting main/login
+[16:30:52] Error/warning while compiling script!
+[16:30:52] Error (CS0234) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:11: The type or namespace name 'UserAccount' does not exist in the namespace 'Server' (are you missing an assembly reference?)
+[16:30:52] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:116: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:30:52] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:116: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:30:52] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:117: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:30:52] Resource main/login started!
+[16:30:52] Started! Waiting for connections.
+[16:31:21] Terminating...
+[16:31:21] Stopping main/login
+[16:31:21] Stopped main/login!
+[16:31:21] Stopping freeroam
+[16:31:21] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:31:21 PM[16:31:21] Starting...
+[16:31:22] Loading resources...
+[16:31:22] Starting freeroam
+[16:31:22] Resource freeroam started!
+[16:31:22] Starting main/login
+[16:31:22] Error/warning while compiling script!
+[16:31:22] Error (CS0234) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:11: The type or namespace name 'UserAccount' does not exist in the namespace 'Server' (are you missing an assembly reference?)
+[16:31:22] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:116: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:31:22] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:116: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:31:22] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:117: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:31:22] Resource main/login started!
+[16:31:22] Started! Waiting for connections.
+[16:31:30] Terminating...
+[16:31:30] Stopping main/login
+[16:31:30] Stopped main/login!
+[16:31:30] Stopping freeroam
+[16:31:30] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:31:30 PM[16:31:30] Starting...
+[16:31:30] Loading resources...
+[16:31:31] Starting freeroam
+[16:31:31] Resource freeroam started!
+[16:31:31] Starting main/login
+[16:31:31] Error/warning while compiling script!
+[16:31:31] Error (CS0234) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:11: The type or namespace name 'UserAccount' does not exist in the namespace 'Server' (are you missing an assembly reference?)
+[16:31:31] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:116: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:31:31] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:116: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:31:31] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:117: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:31:31] Resource main/login started!
+[16:31:31] Started! Waiting for connections.
+[16:32:30] Terminating...
+[16:32:30] Stopping main/login
+[16:32:30] Stopped main/login!
+[16:32:30] Stopping freeroam
+[16:32:30] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:32:30 PM[16:32:30] Starting...
+[16:32:31] Loading resources...
+[16:32:31] Starting freeroam
+[16:32:31] Resource freeroam started!
+[16:32:31] Starting main/login
+[16:32:31] Error/warning while compiling script!
+[16:32:31] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:116: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:32:31] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:116: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:32:31] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:117: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:32:32] Resource main/login started!
+[16:32:32] Started! Waiting for connections.
+[16:34:04] Terminating...
+[16:34:04] Stopping main/login
+[16:34:04] Stopped main/login!
+[16:34:04] Stopping freeroam
+[16:34:04] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:34:04 PM[16:34:04] Starting...
+[16:34:05] Loading resources...
+[16:34:05] Starting freeroam
+[16:34:05] Resource freeroam started!
+[16:34:05] Starting main/login
+[16:34:05] ERROR STARTING RESOURCE main/login
+[16:34:05] System.IO.FileNotFoundException: Could not find file 'C:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\UserAccount.cs'.
+File name: 'C:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\UserAccount.cs'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at GrandTheftMultiplayer.Server.GameServer.StartResource(String resourceName, String father)
+[16:34:05] Started! Waiting for connections.
+[16:34:15] Terminating...
+[16:34:15] Stopping freeroam
+[16:34:16] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:34:16 PM[16:34:16] Starting...
+[16:34:16] Loading resources...
+[16:34:16] Starting freeroam
+[16:34:17] Resource freeroam started!
+[16:34:17] Starting main/login
+[16:34:17] Error/warning while compiling script!
+[16:34:17] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:116: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:34:17] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:116: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:34:17] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:117: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:34:17] Resource main/login started!
+[16:34:17] Started! Waiting for connections.
+[16:34:30] Terminating...
+[16:34:30] Stopping main/login
+[16:34:30] Stopped main/login!
+[16:34:30] Stopping freeroam
+[16:34:30] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:34:30 PM[16:34:30] Starting...
+[16:34:30] Loading resources...
+[16:34:31] Starting freeroam
+[16:34:31] Resource freeroam started!
+[16:34:31] Starting main/login
+[16:34:31] Error/warning while compiling script!
+[16:34:31] Error (CS0234) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:11: The type or namespace name 'UserAccount' does not exist in the namespace 'Server' (are you missing an assembly reference?)
+[16:34:31] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:116: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:34:31] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:116: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:34:31] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:117: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:34:31] Resource main/login started!
+[16:34:31] Started! Waiting for connections.
+[16:36:54] Terminating...
+[16:36:54] Stopping main/login
+[16:36:54] Stopped main/login!
+[16:36:54] Stopping freeroam
+[16:36:54] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:36:54 PM[16:36:54] Starting...
+[16:36:55] Loading resources...
+[16:36:55] Starting freeroam
+[16:36:55] Resource freeroam started!
+[16:36:55] Starting main/login
+[16:36:55] Error/warning while compiling script!
+[16:36:55] Error (CS0234) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:11: The type or namespace name 'UserAccount' does not exist in the namespace 'Server' (are you missing an assembly reference?)
+[16:36:55] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:116: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:36:55] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:116: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:36:55] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:117: The type or namespace name 'UserAccount' could not be found (are you missing a using directive or an assembly reference?)
+[16:36:55] Resource main/login started!
+[16:36:55] Started! Waiting for connections.
+[16:37:45] Terminating...
+[16:37:45] Stopping main/login
+[16:37:45] Stopped main/login!
+[16:37:45] Stopping freeroam
+[16:37:45] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:37:46 PM[16:37:46] Starting...
+[16:37:46] Loading resources...
+[16:37:46] Starting freeroam
+[16:37:47] Resource freeroam started!
+[16:37:47] Starting main/login
+[16:37:47] Error/warning while compiling script!
+[16:37:47] Error (CS0138) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:11: A using namespace directive can only be applied to namespaces; 'Server.UserAccount' is a type not a namespace
+[16:37:47] Resource main/login started!
+[16:37:47] Started! Waiting for connections.
+[16:38:11] Terminating...
+[16:38:11] Stopping main/login
+[16:38:11] Stopped main/login!
+[16:38:11] Stopping freeroam
+[16:38:11] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:38:12 PM[16:38:12] Starting...
+[16:38:12] Loading resources...
+[16:38:12] Starting freeroam
+[16:38:13] Resource freeroam started!
+[16:38:13] Starting main/login
+[16:38:13] Resource main/login started!
+[16:38:13] Started! Waiting for connections.
+[16:38:22] Terminating...
+[16:38:22] Stopping main/login
+[16:38:22] Stopped main/login!
+[16:38:22] Stopping freeroam
+[16:38:22] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:38:22 PM[16:38:22] Starting...
+[16:38:23] Loading resources...
+[16:38:23] Starting freeroam
+[16:38:23] Resource freeroam started!
+[16:38:23] Starting main/login
+[16:38:23] Resource main/login started!
+[16:38:23] Started! Waiting for connections.
+[16:38:37] Terminating...
+[16:38:37] Stopping main/login
+[16:38:37] Stopped main/login!
+[16:38:37] Stopping freeroam
+[16:38:37] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:38:37 PM[16:38:37] Starting...
+[16:38:37] Loading resources...
+[16:38:38] Starting freeroam
+[16:38:38] Resource freeroam started!
+[16:38:38] Starting main/login
+[16:38:38] Error while compiling assembly!
+[16:38:38] Could not find file 'C:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\UserAccount.cs'.
+[16:38:38]    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at Microsoft.CSharp.CSharpCodeGenerator.System.CodeDom.Compiler.ICodeCompiler.CompileAssemblyFromFileBatch(CompilerParameters options, String[] fileNames)
+   at GrandTheftMultiplayer.Server.GameServer.CompileScript(String[] script, String[] references, Boolean vbBasic)
+[16:38:38] mscorlib
+[16:38:38] Resource main/login started!
+[16:38:38] Started! Waiting for connections.
+[16:38:49] Terminating...
+[16:38:49] Stopping main/login
+[16:38:49] Stopped main/login!
+[16:38:49] Stopping freeroam
+[16:38:49] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:38:49 PM[16:38:49] Starting...
+[16:38:50] Loading resources...
+[16:38:50] Starting freeroam
+[16:38:50] Resource freeroam started!
+[16:38:50] Starting main/login
+[16:38:50] Resource main/login started!
+[16:38:50] Started! Waiting for connections.
+[16:38:56] Initiating connection: [192.168.0.10:64037]
+[16:38:56] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[16:38:56] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[16:41:54] Terminating...
+[16:41:54] Stopping main/login
+[16:41:54] Stopped main/login!
+[16:41:54] Stopping freeroam
+[16:41:54] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:41:54 PM[16:41:54] Starting...
+[16:41:55] Loading resources...
+[16:41:55] Starting freeroam
+[16:41:55] Resource freeroam started!
+[16:41:55] Starting main/login
+[16:41:55] Resource main/login started!
+[16:41:55] Started! Waiting for connections.
+[16:42:03] Initiating connection: [192.168.0.10:64037]
+[16:42:03] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[16:42:03] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[16:47:50] Terminating...
+[16:47:50] Stopping main/login
+[16:47:50] Stopped main/login!
+[16:47:50] Stopping freeroam
+[16:47:50] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:47:50 PM[16:47:51] Starting...
+[16:47:51] Loading resources...
+[16:47:51] Starting freeroam
+[16:47:51] Resource freeroam started!
+[16:47:52] Starting main/login
+[16:47:52] Resource main/login started!
+[16:47:52] Started! Waiting for connections.
+[16:51:58] Terminating...
+[16:51:58] Stopping main/login
+[16:51:58] Stopped main/login!
+[16:51:58] Stopping freeroam
+[16:51:58] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:51:58 PM[16:51:58] Starting...
+[16:51:59] Loading resources...
+[16:51:59] Starting freeroam
+[16:51:59] Resource freeroam started!
+[16:51:59] Starting main/login
+[16:51:59] Error/warning while compiling script!
+[16:51:59] Error (CS0103) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:74: The name '_characterRepository' does not exist in the current context
+[16:51:59] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:74: The type or namespace name 'ICharacterRepository' could not be found (are you missing a using directive or an assembly reference?)
+[16:51:59] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:75: The type or namespace name 'Character' could not be found (are you missing a using directive or an assembly reference?)
+[16:51:59] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:75: The type or namespace name 'List' could not be found (are you missing a using directive or an assembly reference?)
+[16:51:59] Error (CS0103) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:75: The name '_characterRepository' does not exist in the current context
+[16:51:59] Resource main/login started!
+[16:51:59] Started! Waiting for connections.
+[16:52:25] Terminating...
+[16:52:25] Stopping main/login
+[16:52:25] Stopped main/login!
+[16:52:25] Stopping freeroam
+[16:52:25] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:52:25 PM[16:52:25] Starting...
+[16:52:26] Loading resources...
+[16:52:26] Starting freeroam
+[16:52:26] Resource freeroam started!
+[16:52:26] Starting main/login
+[16:52:26] Error/warning while compiling script!
+[16:52:26] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Character.cs:6: The type or namespace name 'List' could not be found (are you missing a using directive or an assembly reference?)
+[16:52:26] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Character.cs:7: The type or namespace name 'List' could not be found (are you missing a using directive or an assembly reference?)
+[16:52:26] Resource main/login started!
+[16:52:26] Started! Waiting for connections.
+[16:53:02] Terminating...
+[16:53:02] Stopping main/login
+[16:53:02] Stopped main/login!
+[16:53:02] Stopping freeroam
+[16:53:02] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:53:02 PM[16:53:02] Starting...
+[16:53:03] Loading resources...
+[16:53:03] Starting freeroam
+[16:53:03] Resource freeroam started!
+[16:53:03] Starting main/login
+[16:53:03] Error/warning while compiling script!
+[16:53:04] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Character.cs:6: The type or namespace name 'List' could not be found (are you missing a using directive or an assembly reference?)
+[16:53:04] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Character.cs:7: The type or namespace name 'List' could not be found (are you missing a using directive or an assembly reference?)
+[16:53:04] Resource main/login started!
+[16:53:04] Started! Waiting for connections.
+[16:53:30] Terminating...
+[16:53:30] Stopping main/login
+[16:53:30] Stopped main/login!
+[16:53:30] Stopping freeroam
+[16:53:30] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:53:30 PM[16:53:30] Starting...
+[16:53:31] Loading resources...
+[16:53:31] Starting freeroam
+[16:53:31] Resource freeroam started!
+[16:53:31] Starting main/login
+[16:53:31] Error/warning while compiling script!
+[16:53:31] Error (CS0103) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:75: The name '_characterRepository' does not exist in the current context
+[16:53:31] Error (CS0103) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:76: The name '_characterRepository' does not exist in the current context
+[16:53:31] Resource main/login started!
+[16:53:31] Started! Waiting for connections.
+[16:54:09] Terminating...
+[16:54:09] Stopping main/login
+[16:54:09] Stopped main/login!
+[16:54:09] Stopping freeroam
+[16:54:09] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:54:09 PM[16:54:09] Starting...
+[16:54:10] Loading resources...
+[16:54:10] Starting freeroam
+[16:54:10] Resource freeroam started!
+[16:54:10] Starting main/login
+[16:54:10] Resource main/login started!
+[16:54:10] Started! Waiting for connections.
+[16:54:16] Initiating connection: [192.168.0.10:64037]
+[16:54:16] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[16:54:16] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[16:55:07] Terminating...
+[16:55:07] Stopping main/login
+[16:55:07] Stopped main/login!
+[16:55:07] Stopping freeroam
+[16:55:07] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:55:07 PM[16:55:07] Starting...
+[16:55:08] Loading resources...
+[16:55:08] Starting freeroam
+[16:55:08] Resource freeroam started!
+[16:55:08] Starting main/login
+[16:55:08] Resource main/login started!
+[16:55:08] Started! Waiting for connections.
+[16:55:13] Initiating connection: [192.168.0.10:64037]
+[16:55:13] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[16:55:13] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[16:58:34] Terminating...
+[16:58:34] Stopping main/login
+[16:58:35] Stopped main/login!
+[16:58:35] Stopping freeroam
+[16:58:35] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:58:35 PM[16:58:35] Starting...
+[16:58:35] Loading resources...
+[16:58:35] Starting freeroam
+[16:58:36] Resource freeroam started!
+[16:58:36] Starting main/login
+[16:58:36] Resource main/login started!
+[16:58:36] Started! Waiting for connections.
+[16:58:42] Initiating connection: [192.168.0.10:64037]
+[16:58:42] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[16:58:42] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[16:59:12] Terminating...
+[16:59:12] Stopping main/login
+[16:59:12] Stopped main/login!
+[16:59:12] Stopping freeroam
+[16:59:12] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 4:59:12 PM[16:59:12] Starting...
+[16:59:12] Loading resources...
+[16:59:13] Starting freeroam
+[16:59:13] Resource freeroam started!
+[16:59:13] Starting main/login
+[16:59:13] Resource main/login started!
+[16:59:13] Started! Waiting for connections.
+[16:59:18] Initiating connection: [192.168.0.10:64037]
+[16:59:18] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[16:59:18] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[17:08:08] Terminating...
+[17:08:08] Stopping main/login
+[17:08:08] Stopped main/login!
+[17:08:08] Stopping freeroam
+[17:08:08] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 5:08:08 PM[17:08:08] Starting...
+[17:08:08] Loading resources...
+[17:08:08] Starting freeroam
+[17:08:09] Resource freeroam started!
+[17:08:09] Starting main/login
+[17:08:09] Resource main/login started!
+[17:08:09] Started! Waiting for connections.
+[17:08:15] Initiating connection: [192.168.0.10:64037]
+[17:08:15] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[17:08:16] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[17:08:46] Terminating...
+[17:08:46] Stopping main/login
+[17:08:46] Stopped main/login!
+[17:08:46] Stopping freeroam
+[17:08:46] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 5:08:46 PM[17:08:46] Starting...
+[17:08:47] Loading resources...
+[17:08:47] Starting freeroam
+[17:08:47] Resource freeroam started!
+[17:08:47] Starting main/login
+[17:08:47] Resource main/login started!
+[17:08:47] Started! Waiting for connections.
+[17:08:53] Initiating connection: [192.168.0.10:64037]
+[17:08:53] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[17:08:53] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[17:09:45] Terminating...
+[17:09:45] Stopping main/login
+[17:09:45] Stopped main/login!
+[17:09:45] Stopping freeroam
+[17:09:45] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 5:09:45 PM[17:09:45] Starting...
+[17:09:46] Loading resources...
+[17:09:46] Starting freeroam
+[17:09:46] Resource freeroam started!
+[17:09:46] Starting main/login
+[17:09:46] Resource main/login started!
+[17:09:46] Started! Waiting for connections.
+[17:09:52] Initiating connection: [192.168.0.10:64037]
+[17:09:52] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[17:09:52] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[17:11:36] Terminating...
+[17:11:36] Stopping main/login
+[17:11:36] Stopped main/login!
+[17:11:36] Stopping freeroam
+[17:11:36] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 5:11:36 PM[17:11:36] Starting...
+[17:11:37] Loading resources...
+[17:11:37] Starting freeroam
+[17:11:37] Resource freeroam started!
+[17:11:37] Starting main/login
+[17:11:37] Resource main/login started!
+[17:11:37] Started! Waiting for connections.
+[17:11:43] Initiating connection: [192.168.0.10:64037]
+[17:11:43] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[17:11:43] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[17:17:19] Terminating...
+[17:17:19] Stopping main/login
+[17:17:19] Stopped main/login!
+[17:17:20] Stopping freeroam
+[17:17:20] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 5:17:20 PM[17:17:20] Starting...
+[17:17:20] Loading resources...
+[17:17:20] Starting freeroam
+[17:17:21] Resource freeroam started!
+[17:17:21] Starting main/login
+[17:17:21] Resource main/login started!
+[17:17:21] Started! Waiting for connections.
+[17:17:44] Initiating connection: [192.168.0.10:64037]
+[17:17:44] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[17:17:44] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[17:22:04] Terminating...
+[17:22:04] Stopping main/login
+[17:22:04] Stopped main/login!
+[17:22:04] Stopping freeroam
+[17:22:04] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 5:22:05 PM[17:22:05] Starting...
+[17:22:05] Loading resources...
+[17:22:05] Starting freeroam
+[17:22:06] Resource freeroam started!
+[17:22:06] Starting main/login
+[17:22:06] Error/warning while compiling script!
+[17:22:06] Error (CS1502) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:122: The best overloaded method match for 'System.Collections.Generic.List<Server.Character>.this[int]' has some invalid arguments
+[17:22:06] Error (CS1503) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:122: Argument 1: cannot convert from 'object' to 'int'
+[17:22:06] Resource main/login started!
+[17:22:06] Started! Waiting for connections.
+[17:22:27] Terminating...
+[17:22:27] Stopping main/login
+[17:22:27] Stopped main/login!
+[17:22:27] Stopping freeroam
+[17:22:27] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 5:22:27 PM[17:22:27] Starting...
+[17:22:28] Loading resources...
+[17:22:28] Starting freeroam
+[17:22:28] Resource freeroam started!
+[17:22:28] Starting main/login
+[17:22:28] Error/warning while compiling script!
+[17:22:28] Error (CS1502) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:122: The best overloaded method match for 'System.Collections.Generic.List<Server.Character>.this[int]' has some invalid arguments
+[17:22:28] Error (CS1503) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:122: Argument 1: cannot convert from 'object' to 'int'
+[17:22:28] Resource main/login started!
+[17:22:28] Started! Waiting for connections.
+[17:22:52] Terminating...
+[17:22:52] Stopping main/login
+[17:22:52] Stopped main/login!
+[17:22:52] Stopping freeroam
+[17:22:52] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 5:22:52 PM[17:22:52] Starting...
+[17:22:53] Loading resources...
+[17:22:53] Starting freeroam
+[17:22:53] Resource freeroam started!
+[17:22:53] Starting main/login
+[17:22:53] Error/warning while compiling script!
+[17:22:53] Error (CS1502) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:122: The best overloaded method match for 'System.Collections.Generic.List<Server.Character>.this[int]' has some invalid arguments
+[17:22:53] Error (CS1503) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:122: Argument 1: cannot convert from 'object' to 'int'
+[17:22:53] Resource main/login started!
+[17:22:53] Started! Waiting for connections.
+[17:23:24] Terminating...
+[17:23:24] Stopping main/login
+[17:23:24] Stopped main/login!
+[17:23:24] Stopping freeroam
+[17:23:24] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 5:23:24 PM[17:23:24] Starting...
+[17:23:24] Loading resources...
+[17:23:25] Starting freeroam
+[17:23:25] Resource freeroam started!
+[17:23:25] Starting main/login
+[17:23:25] Resource main/login started!
+[17:23:25] Started! Waiting for connections.
+[17:23:31] Initiating connection: [192.168.0.10:64037]
+[17:23:31] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[17:23:31] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[17:25:02] Terminating...
+[17:25:02] Stopping main/login
+[17:25:02] Stopped main/login!
+[17:25:02] Stopping freeroam
+[17:25:02] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 5:25:02 PM[17:25:02] Starting...
+[17:25:03] Loading resources...
+[17:25:03] Starting freeroam
+[17:25:03] Resource freeroam started!
+[17:25:03] Starting main/login
+[17:25:03] Resource main/login started!
+[17:25:03] Started! Waiting for connections.
+[17:25:09] Initiating connection: [192.168.0.10:64037]
+[17:25:09] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[17:25:10] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[17:26:04] Terminating...
+[17:26:04] Stopping main/login
+[17:26:04] Stopped main/login!
+[17:26:04] Stopping freeroam
+[17:26:04] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 5:26:04 PM[17:26:04] Starting...
+[17:26:04] Loading resources...
+[17:26:05] Starting freeroam
+[17:26:05] Resource freeroam started!
+[17:26:05] Starting main/login
+[17:26:05] Resource main/login started!
+[17:26:05] Started! Waiting for connections.
+[17:26:10] Initiating connection: [192.168.0.10:64037]
+[17:26:10] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[17:26:11] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[17:26:20] EXCEPTION IN RESOURCE main/login INSIDE SCRIPTENGINE Login
+[17:26:20] Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'GrandTheftMultiplayer.Server.API.ServerAPI.sendChatMessageToPlayer(GrandTheftMultiplayer.Server.Elements.Client, string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , API , Client , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid3[T0,T1,T2](CallSite site, T0 arg0, T1 arg1, T2 arg2)
+   at Server.Login.API_onClientEventTrigger(Client player, String eventName, Object[] args)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass59_0.<InvokeClientEvent>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[17:26:21] EXCEPTION IN RESOURCE main/login INSIDE SCRIPTENGINE Login
+[17:26:21] Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'GrandTheftMultiplayer.Server.API.ServerAPI.sendChatMessageToPlayer(GrandTheftMultiplayer.Server.Elements.Client, string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , API , Client , Object )
+   at Server.Login.API_onClientEventTrigger(Client player, String eventName, Object[] args)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass59_0.<InvokeClientEvent>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[17:26:21] EXCEPTION IN RESOURCE main/login INSIDE SCRIPTENGINE Login
+[17:26:21] Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'GrandTheftMultiplayer.Server.API.ServerAPI.sendChatMessageToPlayer(GrandTheftMultiplayer.Server.Elements.Client, string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , API , Client , Object )
+   at Server.Login.API_onClientEventTrigger(Client player, String eventName, Object[] args)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass59_0.<InvokeClientEvent>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[17:26:22] EXCEPTION IN RESOURCE main/login INSIDE SCRIPTENGINE Login
+[17:26:22] Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'GrandTheftMultiplayer.Server.API.ServerAPI.sendChatMessageToPlayer(GrandTheftMultiplayer.Server.Elements.Client, string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , API , Client , Object )
+   at Server.Login.API_onClientEventTrigger(Client player, String eventName, Object[] args)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass59_0.<InvokeClientEvent>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[17:26:22] EXCEPTION IN RESOURCE main/login INSIDE SCRIPTENGINE Login
+[17:26:22] Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'GrandTheftMultiplayer.Server.API.ServerAPI.sendChatMessageToPlayer(GrandTheftMultiplayer.Server.Elements.Client, string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , API , Client , Object )
+   at Server.Login.API_onClientEventTrigger(Client player, String eventName, Object[] args)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass59_0.<InvokeClientEvent>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[17:26:22] EXCEPTION IN RESOURCE main/login INSIDE SCRIPTENGINE Login
+[17:26:22] Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'GrandTheftMultiplayer.Server.API.ServerAPI.sendChatMessageToPlayer(GrandTheftMultiplayer.Server.Elements.Client, string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , API , Client , Object )
+   at Server.Login.API_onClientEventTrigger(Client player, String eventName, Object[] args)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass59_0.<InvokeClientEvent>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[17:26:24] EXCEPTION IN RESOURCE main/login INSIDE SCRIPTENGINE Login
+[17:26:24] Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'GrandTheftMultiplayer.Server.API.ServerAPI.sendChatMessageToPlayer(GrandTheftMultiplayer.Server.Elements.Client, string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , API , Client , Object )
+   at Server.Login.API_onClientEventTrigger(Client player, String eventName, Object[] args)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass59_0.<InvokeClientEvent>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[17:26:24] EXCEPTION IN RESOURCE main/login INSIDE SCRIPTENGINE Login
+[17:26:24] Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'GrandTheftMultiplayer.Server.API.ServerAPI.sendChatMessageToPlayer(GrandTheftMultiplayer.Server.Elements.Client, string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , API , Client , Object )
+   at Server.Login.API_onClientEventTrigger(Client player, String eventName, Object[] args)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass59_0.<InvokeClientEvent>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[17:26:25] EXCEPTION IN RESOURCE main/login INSIDE SCRIPTENGINE Login
+[17:26:25] Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'GrandTheftMultiplayer.Server.API.ServerAPI.sendChatMessageToPlayer(GrandTheftMultiplayer.Server.Elements.Client, string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , API , Client , Object )
+   at Server.Login.API_onClientEventTrigger(Client player, String eventName, Object[] args)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass59_0.<InvokeClientEvent>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[17:26:25] EXCEPTION IN RESOURCE main/login INSIDE SCRIPTENGINE Login
+[17:26:25] Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'GrandTheftMultiplayer.Server.API.ServerAPI.sendChatMessageToPlayer(GrandTheftMultiplayer.Server.Elements.Client, string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , API , Client , Object )
+   at Server.Login.API_onClientEventTrigger(Client player, String eventName, Object[] args)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass59_0.<InvokeClientEvent>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[17:26:25] EXCEPTION IN RESOURCE main/login INSIDE SCRIPTENGINE Login
+[17:26:25] Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'GrandTheftMultiplayer.Server.API.ServerAPI.sendChatMessageToPlayer(GrandTheftMultiplayer.Server.Elements.Client, string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , API , Client , Object )
+   at Server.Login.API_onClientEventTrigger(Client player, String eventName, Object[] args)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass59_0.<InvokeClientEvent>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[17:26:41] Terminating...
+[17:26:41] Stopping main/login
+[17:26:41] Stopped main/login!
+[17:26:41] Stopping freeroam
+[17:26:41] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 5:26:41 PM[17:26:41] Starting...
+[17:26:41] Loading resources...
+[17:26:42] Starting freeroam
+[17:26:42] Resource freeroam started!
+[17:26:42] Starting main/login
+[17:26:42] Resource main/login started!
+[17:26:42] Started! Waiting for connections.
+[17:26:47] Initiating connection: [192.168.0.10:64037]
+[17:26:48] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[17:26:48] Connection established: godsdead20 (godsdead20) [192.168.0.10]

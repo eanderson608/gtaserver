@@ -1,0 +1,95 @@
+<html>
+
+<head>
+    <style>
+    @font-face { font-family: HouseScript; src: url('SignPainter-HouseScript.TTF'); }
+
+    p {
+        font-size: 48pt;
+        font-family: HouseScript;
+        color: white;
+        }
+
+    input {
+        margin: 15px 15px 0px 15px ;
+    }
+
+    button {
+        margin: 15px;
+    }
+
+    a {
+        font-size: 10pt;
+    }
+
+    .container {
+        text-align: center;
+        align-items: center;
+    }
+
+    .login-form {
+        opacity: .85;
+        background-color: white;
+        display: inline-block;
+        box-shadow: 5px 5px 3px #888888;
+    }
+
+    #error-message {
+        font-size: 10pt;
+        margin-top: 15px;
+        color: red;
+    }
+
+    </style>
+
+    <script>
+        function login() {
+
+            var username = document.getElementById("username").value;
+            var password = document.getElementById("password").value;
+
+            if (username == null || password == null) {
+                clearTextFields();
+                document.getElementById("error-message").innerHTML = "Invalid input";
+            }
+            else {
+                resourceCall("login", username, password);
+            }
+        };
+
+        function invalidUsernameOrPassword() {
+            clearTextFields();
+            document.getElementById("error-message").innerHTML = "Invalid username or password";
+        };
+
+        function clearTextFields() {
+            document.getElementById("username").value = "";
+            document.getElementById("password").value = "";
+        };
+
+    </script>
+
+</head>
+
+<body>
+
+    <div class="container">
+
+        <p>Login</p>
+
+        <div class="login-form">
+
+            <input type="text" id="username" placeholder="Username" autofocus required /><br />
+            <input type="password" id="password" placeholder="Password" required /><br />
+            <div id="error-message"></div><br />
+            <button type="submit" onclick="login()">Submit</button>
+            <a href="register.html">Register</a>
+
+        </div>
+
+
+    </div>
+
+</body>
+
+</html>

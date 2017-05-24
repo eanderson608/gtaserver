@@ -1,0 +1,112 @@
+<html>
+
+<head>
+    <style>
+    @font-face { font-family: HouseScript; src: url('SignPainter-HouseScript.TTF'); }
+
+    p {
+        font-size: 48pt;
+        font-family: HouseScript;
+        color: white;
+        }
+
+    input {
+        margin: 15px 15px 0px 15px ;
+        width: 75%;
+    }
+
+    button {
+        margin: 15px;
+    }
+
+    a {
+        font-size: 10pt;
+    }
+
+    .container {
+        text-align: center;
+        align-items: center;
+    }
+
+    .registration-form {
+        opacity: .85;
+        background-color: white;
+        display: inline-block;
+        box-shadow: 5px 5px 5px #888888;
+    }
+
+    #error-message {
+        word-wrap: normal;
+        font-size: 10pt;
+        margin-top: 15px;
+        color: red;
+    }
+    </style>
+
+    <script>
+        function register() {
+
+            // clear errors
+            document.getElementById("error-message").innerHTML = "";
+
+            var username = document.getElementById("username").value;
+            var password1 = document.getElementById("password1").value;
+            var password2 = document.getElementById("password2").value;
+
+            if (password1 != password2) {
+                document.getElementById("password1").value = "";
+                document.getElementById("password2").value = "";
+                document.getElementById("error-message").innerHTML = "Passwords must match!";
+            }
+            else if (password1.length < 8 || password1.length > 32) {
+                document.getElementById("password1").value = "";
+                document.getElementById("password2").value = "";
+                document.getElementById("error-message").innerHTML = "Passwords must be between<br />8 and 32 characters!";
+            }
+            else if (!/^[0-9a-zA-Z_]{4,32}$/.test(username)) {
+                document.getElementById("username").value = "";
+                document.getElementById("password2").value = "";
+                document.getElementById("error-message").innerHTML = "Usernames must be between<br />4 and 31 characters and only contain<br />alphanumeric characters or underscores";
+            }
+            else {
+                resourceCall("register", username, password1);
+            }
+        }
+
+        function usernameTaken() {
+            document.getElementById("username").value = "";
+            document.getElementById("password2").value = "";
+            document.getElementById("error-message").innerHTML = "That username is taken";
+        }
+
+        function switchToLogin() {
+            window.location = "login.html";
+        }
+
+    </script>
+
+</head>
+
+<body>
+
+    <div class="container">
+
+        <p>Register</p>
+
+        <div class="registration-form">
+
+            <input type="text" id="username" placeholder="Username" autofocus /><br />
+            <input type="password" id="password1" placeholder="Password"  /><br />
+            <input type="password" id="password2" placeholder="Re-type Password"  /><br />
+            <div id="error-message"></div><br />
+            <button type="submit" onclick="register()">Register</button>
+            <a href="login.html">Sign In</a>
+
+        </div>
+
+
+    </div>
+
+</body>
+
+</html>

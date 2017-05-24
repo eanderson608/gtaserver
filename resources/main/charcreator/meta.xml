@@ -1,0 +1,5 @@
+<meta>
+  <info name="customchar" description="interface to customize character appearence" author="pocket" type="script" />
+  <script src="customchar.js" type="client" lang="javascript" />
+  <script src="customchar.cs" type="server" lang="csharp" />
+</meta>
