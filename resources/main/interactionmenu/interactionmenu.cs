@@ -20,11 +20,20 @@ namespace Server
         public interactionmenu()
         {
              API.onResourceStart += OnResourceStart;
+             API.onClientEventTrigger += OnClientEventTrigger;
         }
 
         public void OnResourceStart()
         {
           // nothing
         }
+
+        private void OnClientEventTrigger(Client player, string eventName, params object[] args)
+        {
+            switch (eventName) {
+
+            }
+        }
+
     }
 }
