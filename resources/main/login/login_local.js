@@ -1,5 +1,6 @@
 var loginBrowser = null;
 var player = API.getLocalPlayer();
+var charChosen = false;
 
 var menuPool = null;
 var charSelectMenu = null;
@@ -10,7 +11,10 @@ API.onUpdate.connect(function (sender, args) {
         menuPool.ProcessMenus();
     }
 
-    API.disableAllControlsThisFrame();
+    if (!charChosen) {
+        API.disableAllControlsThisFrame();
+    }
+
 });
 
 API.onServerEventTrigger.connect(function (eventName, args) {
@@ -106,6 +110,10 @@ function createCharSelectMenu(charList) {
             API.sendChatMessage("create new character");
         } else {
             API.sendChatMessage("choose existing character");
+            charChosen = true;
+            menuPool.CloseAllMenus();
+            API.setCanOpenChat(true);
+            API.setGameplayCameraActive();
             API.triggerServerEvent("choose_existing_character", index);
         }
     });

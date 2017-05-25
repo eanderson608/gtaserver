@@ -17,10 +17,12 @@
   <vehicle_lagcomp>true</vehicle_lagcomp>
   <onfoot_lagcomp>true</onfoot_lagcomp>
   <refresh_rate>120</refresh_rate>
-  <resource src="freeroam" />
 
+  <resource src="freeroam" />
+  <resource src="coords" />
   <resource src="main/login" />
-  
+  <resource src="main/dealerships" />
+
   <announce_lan>true</announce_lan>
   <upnp>false</upnp>
   <fqdn></fqdn>

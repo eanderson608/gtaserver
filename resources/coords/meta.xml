@@ -1,0 +1,6 @@
+<meta>
+    <info name="Coords" author="pocket" type="script" />
+
+    <script src="coords.cs" type="server" lang="csharp" />
+    <script src="coords_local.js" type="client" lang="javascript" />
+</meta>
