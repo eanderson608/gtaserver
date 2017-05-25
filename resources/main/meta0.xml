@@ -1,11 +1,7 @@
 <meta>
-    <info name="dealerships" author="pocket" type="script" />
+    <info name="main" author="pocket" type="script" />
 
-    <script src="dealerships.cs" type="server" lang="csharp" />
-    <script src="../Vehicle.cs" type="server" lang="csharp" />
-    <script src="dealerships.js" type="client" lang="javascript" />
-
-    <file src="car_door_lock.mp3" />
+    <script src="Vehicle.cs" type="server" lang="csharp" />
 
     <assembly ref="Insight.Database.Configuration.dll" />
     <assembly ref="Insight.Database.dll" />

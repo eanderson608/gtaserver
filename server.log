@@ -3207,3 +3207,3437 @@ File name: 'C:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\UserAccount.
 [21:45:04] Initiating connection: [192.168.0.10:64037]
 [21:45:04] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
 [21:45:04] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[21:52:30] Terminating...
+[21:52:30] Stopping main/dealerships
+[21:52:30] Stopped main/dealerships!
+[21:52:30] Stopping main/login
+[21:52:30] Stopped main/login!
+[21:52:30] Stopping coords
+[21:52:30] Stopped coords!
+[21:52:30] Stopping freeroam
+[21:52:30] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 9:52:30 PM[21:52:30] Starting...
+[21:52:30] Loading resources...
+[21:52:31] Starting freeroam
+[21:52:31] Resource freeroam started!
+[21:52:31] Starting coords
+[21:52:31] Resource coords started!
+[21:52:31] Starting main/login
+[21:52:31] Resource main/login started!
+[21:52:31] Starting main/dealerships
+[21:52:32] Error/warning while compiling script!
+[21:52:32] Error (CS0029) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:33: Cannot implicitly convert type 'GrandTheftMultiplayer.Server.Elements.Vehicle' to 'GrandTheftMultiplayer.Shared.VehicleHash'
+[21:52:32] Resource main/dealerships started!
+[21:52:32] Started! Waiting for connections.
+[21:54:21] Terminating...
+[21:54:21] Stopping main/dealerships
+[21:54:21] Stopped main/dealerships!
+[21:54:21] Stopping main/login
+[21:54:21] Stopped main/login!
+[21:54:21] Stopping coords
+[21:54:21] Stopped coords!
+[21:54:21] Stopping freeroam
+[21:54:21] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 9:54:21 PM[21:54:21] Starting...
+[21:54:22] Loading resources...
+[21:54:22] Starting freeroam
+[21:54:22] Resource freeroam started!
+[21:54:22] Starting coords
+[21:54:22] Resource coords started!
+[21:54:22] Starting main/login
+[21:54:22] Resource main/login started!
+[21:54:22] Starting main/dealerships
+[21:54:23] Error/warning while compiling script!
+[21:54:23] Error (CS0120) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:33: An object reference is required for the non-static field, method, or property 'GrandTheftMultiplayer.Server.API.ServerAPI.toJson(object)'
+[21:54:23] Resource main/dealerships started!
+[21:54:23] Started! Waiting for connections.
+[21:55:10] Terminating...
+[21:55:10] Stopping main/dealerships
+[21:55:10] Stopped main/dealerships!
+[21:55:10] Stopping main/login
+[21:55:10] Stopped main/login!
+[21:55:10] Stopping coords
+[21:55:10] Stopped coords!
+[21:55:10] Stopping freeroam
+[21:55:10] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 9:55:10 PM[21:55:10] Starting...
+[21:55:10] Loading resources...
+[21:55:10] Starting freeroam
+[21:55:11] Resource freeroam started!
+[21:55:11] Starting coords
+[21:55:11] Resource coords started!
+[21:55:11] Starting main/login
+[21:55:11] Resource main/login started!
+[21:55:11] Starting main/dealerships
+[21:55:11] Error/warning while compiling script!
+[21:55:11] Error (CS0120) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:30: An object reference is required for the non-static field, method, or property 'GrandTheftMultiplayer.Server.API.ServerAPI.toJson(object)'
+[21:55:11] Resource main/dealerships started!
+[21:55:11] Started! Waiting for connections.
+[21:56:07] Terminating...
+[21:56:07] Stopping main/dealerships
+[21:56:07] Stopped main/dealerships!
+[21:56:07] Stopping main/login
+[21:56:07] Stopped main/login!
+[21:56:07] Stopping coords
+[21:56:07] Stopped coords!
+[21:56:07] Stopping freeroam
+[21:56:07] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 9:56:07 PM[21:56:07] Starting...
+[21:56:08] Loading resources...
+[21:56:08] Starting freeroam
+[21:56:08] Resource freeroam started!
+[21:56:08] Starting coords
+[21:56:08] Resource coords started!
+[21:56:08] Starting main/login
+[21:56:08] Resource main/login started!
+[21:56:08] Starting main/dealerships
+[21:56:09] Error/warning while compiling script!
+[21:56:09] Error (CS0120) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:30: An object reference is required for the non-static field, method, or property 'GrandTheftMultiplayer.Server.API.ServerAPI.toJson(object)'
+[21:56:09] Error (CS0176) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:34: Member 'Server.Veh.Vehicle' cannot be accessed with an instance reference; qualify it with a type name instead
+[21:56:09] Resource main/dealerships started!
+[21:56:09] Started! Waiting for connections.
+[21:56:59] Terminating...
+[21:56:59] Stopping main/dealerships
+[21:56:59] Stopped main/dealerships!
+[21:56:59] Stopping main/login
+[21:56:59] Stopped main/login!
+[21:56:59] Stopping coords
+[21:56:59] Stopped coords!
+[21:56:59] Stopping freeroam
+[21:56:59] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 9:56:59 PM[21:56:59] Starting...
+[21:57:00] Loading resources...
+[21:57:00] Starting freeroam
+[21:57:00] Resource freeroam started!
+[21:57:00] Starting coords
+[21:57:00] Resource coords started!
+[21:57:00] Starting main/login
+[21:57:00] Resource main/login started!
+[21:57:00] Starting main/dealerships
+[21:57:01] Error/warning while compiling script!
+[21:57:01] Error (CS0176) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:33: Member 'Server.Veh.Vehicle' cannot be accessed with an instance reference; qualify it with a type name instead
+[21:57:01] Error (CS0120) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:33: An object reference is required for the non-static field, method, or property 'GrandTheftMultiplayer.Server.API.ServerAPI.toJson(object)'
+[21:57:01] Resource main/dealerships started!
+[21:57:01] Started! Waiting for connections.
+[21:57:14] Terminating...
+[21:57:14] Stopping main/dealerships
+[21:57:14] Stopped main/dealerships!
+[21:57:14] Stopping main/login
+[21:57:14] Stopped main/login!
+[21:57:14] Stopping coords
+[21:57:14] Stopped coords!
+[21:57:14] Stopping freeroam
+[21:57:14] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 9:57:14 PM[21:57:14] Starting...
+[21:57:15] Loading resources...
+[21:57:15] Starting freeroam
+[21:57:15] Resource freeroam started!
+[21:57:15] Starting coords
+[21:57:15] Resource coords started!
+[21:57:15] Starting main/login
+[21:57:16] Resource main/login started!
+[21:57:16] Starting main/dealerships
+[21:57:16] Error/warning while compiling script!
+[21:57:16] Error (CS1041) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:20: Identifier expected; 'static' is a keyword
+[21:57:16] Error (CS1519) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:20: Invalid token ')' in class, struct, or interface member declaration
+[21:57:16] Error (CS1519) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:31: Invalid token 'this' in class, struct, or interface member declaration
+[21:57:16] Error (CS1519) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:31: Invalid token '=' in class, struct, or interface member declaration
+[21:57:16] Error (CS1519) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:31: Invalid token ';' in class, struct, or interface member declaration
+[21:57:16] Error (CS1519) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:32: Invalid token '=' in class, struct, or interface member declaration
+[21:57:16] Error (CS1519) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:32: Invalid token ';' in class, struct, or interface member declaration
+[21:57:16] Error (CS1519) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:33: Invalid token '=' in class, struct, or interface member declaration
+[21:57:16] Error (CS1519) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:33: Invalid token '(' in class, struct, or interface member declaration
+[21:57:16] Error (CS1519) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:33: Invalid token ')' in class, struct, or interface member declaration
+[21:57:16] Error (CS1518) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:36: Expected class, delegate, enum, interface, or struct
+[21:57:16] Error (CS1518) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:37: Expected class, delegate, enum, interface, or struct
+[21:57:16] Error (CS1518) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:38: Expected class, delegate, enum, interface, or struct
+[21:57:16] Error (CS1518) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:39: Expected class, delegate, enum, interface, or struct
+[21:57:16] Error (CS1022) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:41: Type or namespace definition, or end-of-file expected
+[21:57:16] Resource main/dealerships started!
+[21:57:16] Started! Waiting for connections.
+[21:57:25] Terminating...
+[21:57:25] Stopping main/dealerships
+[21:57:25] Stopped main/dealerships!
+[21:57:25] Stopping main/login
+[21:57:25] Stopped main/login!
+[21:57:25] Stopping coords
+[21:57:25] Stopped coords!
+[21:57:25] Stopping freeroam
+[21:57:25] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 9:57:25 PM[21:57:25] Starting...
+[21:57:26] Loading resources...
+[21:57:26] Starting freeroam
+[21:57:26] Resource freeroam started!
+[21:57:26] Starting coords
+[21:57:26] Resource coords started!
+[21:57:26] Starting main/login
+[21:57:27] Resource main/login started!
+[21:57:27] Starting main/dealerships
+[21:57:27] Error/warning while compiling script!
+[21:57:27] Error (CS1031) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:20: Type expected
+[21:57:27] Error (CS1002) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:20: ; expected
+[21:57:27] Error (CS1519) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:31: Invalid token 'this' in class, struct, or interface member declaration
+[21:57:27] Error (CS1519) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:31: Invalid token '=' in class, struct, or interface member declaration
+[21:57:27] Error (CS1519) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:31: Invalid token ';' in class, struct, or interface member declaration
+[21:57:27] Error (CS1519) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:32: Invalid token '=' in class, struct, or interface member declaration
+[21:57:27] Error (CS1519) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:32: Invalid token ';' in class, struct, or interface member declaration
+[21:57:27] Error (CS1519) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:33: Invalid token '=' in class, struct, or interface member declaration
+[21:57:27] Error (CS1519) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:33: Invalid token '(' in class, struct, or interface member declaration
+[21:57:27] Error (CS1519) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:33: Invalid token ')' in class, struct, or interface member declaration
+[21:57:27] Error (CS1518) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:36: Expected class, delegate, enum, interface, or struct
+[21:57:27] Error (CS1518) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:37: Expected class, delegate, enum, interface, or struct
+[21:57:27] Error (CS1518) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:38: Expected class, delegate, enum, interface, or struct
+[21:57:27] Error (CS1518) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:39: Expected class, delegate, enum, interface, or struct
+[21:57:27] Error (CS1022) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:41: Type or namespace definition, or end-of-file expected
+[21:57:27] Resource main/dealerships started!
+[21:57:27] Started! Waiting for connections.
+-> SERVER STARTED AT 5/24/2017 9:59:00 PM[21:59:00] Starting...
+[21:59:01] ERROR: Socket Exception when starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted
+-> SERVER STARTED AT 5/24/2017 9:59:26 PM[21:59:26] Starting...
+[21:59:27] Loading resources...
+[21:59:27] Starting freeroam
+[21:59:27] Resource freeroam started!
+[21:59:27] Starting coords
+[21:59:27] Resource coords started!
+[21:59:27] Starting main/login
+[21:59:27] Resource main/login started!
+[21:59:27] Starting main/dealerships
+[21:59:27] Error/warning while compiling script!
+[21:59:28] Error (CS1525) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:33: Invalid expression term 'static'
+[21:59:28] Error (CS1002) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:33: ; expected
+[21:59:28] Resource main/dealerships started!
+[21:59:28] Started! Waiting for connections.
+[21:59:51] Terminating...
+[21:59:51] Stopping main/dealerships
+[21:59:51] Stopped main/dealerships!
+[21:59:51] Stopping main/login
+[21:59:51] Stopped main/login!
+[21:59:51] Stopping coords
+[21:59:51] Stopped coords!
+[21:59:51] Stopping freeroam
+[21:59:51] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 9:59:51 PM[21:59:51] Starting...
+[21:59:52] Loading resources...
+[21:59:52] Starting freeroam
+[21:59:52] Resource freeroam started!
+[21:59:52] Starting coords
+[21:59:52] Resource coords started!
+[21:59:52] Starting main/login
+[21:59:52] Resource main/login started!
+[21:59:52] Starting main/dealerships
+[21:59:53] Error/warning while compiling script!
+[21:59:53] Error (CS0176) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:33: Member 'Server.Veh.Vehicle' cannot be accessed with an instance reference; qualify it with a type name instead
+[21:59:53] Error (CS0103) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:33: The name 'JSON' does not exist in the current context
+[21:59:53] Resource main/dealerships started!
+[21:59:53] Started! Waiting for connections.
+[22:01:06] Terminating...
+[22:01:06] Stopping main/dealerships
+[22:01:06] Stopped main/dealerships!
+[22:01:06] Stopping main/login
+[22:01:06] Stopped main/login!
+[22:01:06] Stopping coords
+[22:01:06] Stopped coords!
+[22:01:06] Stopping freeroam
+[22:01:06] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 10:01:06 PM[22:01:06] Starting...
+[22:01:06] Loading resources...
+[22:01:06] Starting freeroam
+[22:01:07] Resource freeroam started!
+[22:01:07] Starting coords
+[22:01:07] Resource coords started!
+[22:01:07] Starting main/login
+[22:01:07] Resource main/login started!
+[22:01:07] Starting main/dealerships
+[22:01:07] Resource main/dealerships started!
+[22:01:07] Started! Waiting for connections.
+[22:01:36] Initiating connection: [192.168.0.10:64037]
+[22:01:36] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[22:01:36] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[22:12:32] Terminating...
+[22:12:32] Stopping main/dealerships
+[22:12:32] Stopped main/dealerships!
+[22:12:32] Stopping main/login
+[22:12:32] Stopped main/login!
+[22:12:32] Stopping coords
+[22:12:32] Stopped coords!
+[22:12:32] Stopping freeroam
+[22:12:32] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 10:12:32 PM[22:12:32] Starting...
+[22:12:33] Loading resources...
+[22:12:33] Starting freeroam
+[22:12:33] Resource freeroam started!
+[22:12:33] Starting coords
+[22:12:33] Resource coords started!
+[22:12:33] Starting main/login
+[22:12:34] Resource main/login started!
+[22:12:34] Starting main/dealerships
+[22:12:34] Error/warning while compiling script!
+[22:12:34] Error (CS0120) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:34: An object reference is required for the non-static field, method, or property 'GrandTheftMultiplayer.Server.API.ServerAPI.createVehicle(GrandTheftMultiplayer.Shared.VehicleHash, GrandTheftMultiplayer.Shared.Math.Vector3, GrandTheftMultiplayer.Shared.Math.Vector3, int, int, int)'
+[22:12:34] Resource main/dealerships started!
+[22:12:34] Started! Waiting for connections.
+[22:13:51] Terminating...
+[22:13:51] Stopping main/dealerships
+[22:13:51] Stopped main/dealerships!
+[22:13:51] Stopping main/login
+[22:13:52] Stopped main/login!
+[22:13:52] Stopping coords
+[22:13:52] Stopped coords!
+[22:13:52] Stopping freeroam
+[22:13:52] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 10:13:52 PM[22:13:52] Starting...
+[22:13:52] Loading resources...
+[22:13:52] Starting freeroam
+[22:13:53] Resource freeroam started!
+[22:13:53] Starting coords
+[22:13:53] Resource coords started!
+[22:13:53] Starting main/login
+[22:13:53] Resource main/login started!
+[22:13:53] Starting main/dealerships
+[22:13:53] Error/warning while compiling script!
+[22:13:53] Error (CS1585) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:18: Member modifier 'static' must precede the member type and name
+[22:13:53] Error (CS1519) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:18: Invalid token '=' in class, struct, or interface member declaration
+[22:13:53] Resource main/dealerships started!
+[22:13:53] Started! Waiting for connections.
+[22:14:17] Terminating...
+[22:14:17] Stopping main/dealerships
+[22:14:17] Stopped main/dealerships!
+[22:14:17] Stopping main/login
+[22:14:17] Stopped main/login!
+[22:14:17] Stopping coords
+[22:14:17] Stopped coords!
+[22:14:17] Stopping freeroam
+[22:14:17] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 10:14:17 PM[22:14:17] Starting...
+[22:14:18] Loading resources...
+[22:14:18] Starting freeroam
+[22:14:18] Resource freeroam started!
+[22:14:18] Starting coords
+[22:14:18] Resource coords started!
+[22:14:18] Starting main/login
+[22:14:18] Resource main/login started!
+[22:14:18] Starting main/dealerships
+[22:14:19] Error/warning while compiling script!
+[22:14:19] Error (CS0120) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:34: An object reference is required for the non-static field, method, or property 'GrandTheftMultiplayer.Server.API.ServerAPI.createVehicle(GrandTheftMultiplayer.Shared.VehicleHash, GrandTheftMultiplayer.Shared.Math.Vector3, GrandTheftMultiplayer.Shared.Math.Vector3, int, int, int)'
+[22:14:19] Resource main/dealerships started!
+[22:14:19] Started! Waiting for connections.
+[22:16:19] Terminating...
+[22:16:19] Stopping main/dealerships
+[22:16:19] Stopped main/dealerships!
+[22:16:19] Stopping main/login
+[22:16:19] Stopped main/login!
+[22:16:19] Stopping coords
+[22:16:19] Stopped coords!
+[22:16:19] Stopping freeroam
+[22:16:19] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 10:16:20 PM[22:16:20] Starting...
+[22:16:20] Loading resources...
+[22:16:20] Starting freeroam
+[22:16:21] Resource freeroam started!
+[22:16:21] Starting coords
+[22:16:21] Resource coords started!
+[22:16:21] Starting main/login
+[22:16:21] Resource main/login started!
+[22:16:21] Starting main/dealerships
+[22:16:21] Error/warning while compiling script!
+[22:16:21] Error (CS0120) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:34: An object reference is required for the non-static field, method, or property 'GrandTheftMultiplayer.Server.API.ServerAPI.createVehicle(GrandTheftMultiplayer.Shared.VehicleHash, GrandTheftMultiplayer.Shared.Math.Vector3, GrandTheftMultiplayer.Shared.Math.Vector3, int, int, int)'
+[22:16:21] Error (CS1729) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:34: 'GrandTheftMultiplayer.Server.Elements.Vehicle' does not contain a constructor that takes 1 arguments
+[22:16:21] Resource main/dealerships started!
+[22:16:21] Started! Waiting for connections.
+[22:16:46] Terminating...
+[22:16:46] Stopping main/dealerships
+[22:16:46] Stopped main/dealerships!
+[22:16:46] Stopping main/login
+[22:16:46] Stopped main/login!
+[22:16:46] Stopping coords
+[22:16:46] Stopped coords!
+[22:16:46] Stopping freeroam
+[22:16:46] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 10:16:46 PM[22:16:46] Starting...
+[22:16:47] Loading resources...
+[22:16:47] Starting freeroam
+[22:16:47] Resource freeroam started!
+[22:16:47] Starting coords
+[22:16:47] Resource coords started!
+[22:16:47] Starting main/login
+[22:16:48] Resource main/login started!
+[22:16:48] Starting main/dealerships
+[22:16:48] Error/warning while compiling script!
+[22:16:48] Error (CS0143) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:34: The type 'GrandTheftMultiplayer.Server.Elements.Vehicle' has no constructors defined
+[22:16:48] Error (CS0120) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:35: An object reference is required for the non-static field, method, or property 'GrandTheftMultiplayer.Server.API.ServerAPI.createVehicle(GrandTheftMultiplayer.Shared.VehicleHash, GrandTheftMultiplayer.Shared.Math.Vector3, GrandTheftMultiplayer.Shared.Math.Vector3, int, int, int)'
+[22:16:48] Resource main/dealerships started!
+[22:16:48] Started! Waiting for connections.
+[22:17:05] Terminating...
+[22:17:05] Stopping main/dealerships
+[22:17:05] Stopped main/dealerships!
+[22:17:05] Stopping main/login
+[22:17:05] Stopped main/login!
+[22:17:05] Stopping coords
+[22:17:05] Stopped coords!
+[22:17:05] Stopping freeroam
+[22:17:05] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 10:17:05 PM[22:17:05] Starting...
+[22:17:06] Loading resources...
+[22:17:06] Starting freeroam
+[22:17:06] Resource freeroam started!
+[22:17:06] Starting coords
+[22:17:07] Resource coords started!
+[22:17:07] Starting main/login
+[22:17:07] Resource main/login started!
+[22:17:07] Starting main/dealerships
+[22:17:07] Error/warning while compiling script!
+[22:17:07] Error (CS0515) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:20: 'Server.Veh.Veh(GrandTheftMultiplayer.Shared.VehicleHash)': access modifiers are not allowed on static constructors
+[22:17:07] Error (CS0132) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:20: 'Server.Veh.Veh(GrandTheftMultiplayer.Shared.VehicleHash)': a static constructor must be parameterless
+[22:17:07] Resource main/dealerships started!
+[22:17:07] Started! Waiting for connections.
+[22:17:20] Terminating...
+[22:17:20] Stopping main/dealerships
+[22:17:20] Stopped main/dealerships!
+[22:17:20] Stopping main/login
+[22:17:20] Stopped main/login!
+[22:17:20] Stopping coords
+[22:17:20] Stopped coords!
+[22:17:20] Stopping freeroam
+[22:17:20] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 10:17:20 PM[22:17:20] Starting...
+[22:17:20] Loading resources...
+[22:17:20] Starting freeroam
+[22:17:21] Resource freeroam started!
+[22:17:21] Starting coords
+[22:17:21] Resource coords started!
+[22:17:21] Starting main/login
+[22:17:21] Resource main/login started!
+[22:17:21] Starting main/dealerships
+[22:17:21] Error/warning while compiling script!
+[22:17:21] Error (CS0515) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:20: 'Server.Veh.Veh()': access modifiers are not allowed on static constructors
+[22:17:21] Resource main/dealerships started!
+[22:17:21] Started! Waiting for connections.
+[22:17:34] Terminating...
+[22:17:34] Stopping main/dealerships
+[22:17:34] Stopped main/dealerships!
+[22:17:34] Stopping main/login
+[22:17:34] Stopped main/login!
+[22:17:34] Stopping coords
+[22:17:34] Stopped coords!
+[22:17:34] Stopping freeroam
+[22:17:34] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 10:17:35 PM[22:17:35] Starting...
+[22:17:35] Loading resources...
+[22:17:35] Starting freeroam
+[22:17:36] Resource freeroam started!
+[22:17:36] Starting coords
+[22:17:36] Resource coords started!
+[22:17:36] Starting main/login
+[22:17:36] Resource main/login started!
+[22:17:36] Starting main/dealerships
+[22:17:36] Error/warning while compiling script!
+[22:17:36] Error (CS1729) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:38: 'Server.Veh' does not contain a constructor that takes 1 arguments
+[22:17:36] Error (CS0026) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:31: Keyword 'this' is not valid in a static property, static method, or static field initializer
+[22:17:36] Error (CS0026) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:32: Keyword 'this' is not valid in a static property, static method, or static field initializer
+[22:17:36] Error (CS0143) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:34: The type 'GrandTheftMultiplayer.Server.Elements.Vehicle' has no constructors defined
+[22:17:36] Error (CS0103) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:35: The name 'model' does not exist in the current context
+[22:17:36] Resource main/dealerships started!
+[22:17:36] Started! Waiting for connections.
+[22:18:25] Terminating...
+[22:18:25] Stopping main/dealerships
+[22:18:25] Stopped main/dealerships!
+[22:18:25] Stopping main/login
+[22:18:25] Stopped main/login!
+[22:18:25] Stopping coords
+[22:18:25] Stopped coords!
+[22:18:25] Stopping freeroam
+[22:18:25] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 10:18:25 PM[22:18:26] Starting...
+[22:18:26] Loading resources...
+[22:18:26] Starting freeroam
+[22:18:26] Resource freeroam started!
+[22:18:26] Starting coords
+[22:18:27] Resource coords started!
+[22:18:27] Starting main/login
+[22:18:27] Resource main/login started!
+[22:18:27] Starting main/dealerships
+[22:18:27] Error/warning while compiling script!
+[22:18:27] Error (CS1519) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:39: Invalid token ';' in class, struct, or interface member declaration
+[22:18:27] Resource main/dealerships started!
+[22:18:27] Started! Waiting for connections.
+[22:19:02] Terminating...
+[22:19:02] Stopping main/dealerships
+[22:19:02] Stopped main/dealerships!
+[22:19:02] Stopping main/login
+[22:19:02] Stopped main/login!
+[22:19:02] Stopping coords
+[22:19:02] Stopped coords!
+[22:19:02] Stopping freeroam
+[22:19:02] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 10:19:02 PM[22:19:02] Starting...
+[22:19:02] Loading resources...
+[22:19:03] Starting freeroam
+[22:19:03] Resource freeroam started!
+[22:19:03] Starting coords
+[22:19:03] Resource coords started!
+[22:19:03] Starting main/login
+[22:19:03] Resource main/login started!
+[22:19:03] Starting main/dealerships
+[22:19:03] Error/warning while compiling script!
+[22:19:03] Error (CS0176) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:33: Member 'Server.Veh.Vehicle' cannot be accessed with an instance reference; qualify it with a type name instead
+[22:19:03] Error (CS0120) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:33: An object reference is required for the non-static field, method, or property 'GrandTheftMultiplayer.Server.API.ServerAPI.createVehicle(GrandTheftMultiplayer.Shared.VehicleHash, GrandTheftMultiplayer.Shared.Math.Vector3, GrandTheftMultiplayer.Shared.Math.Vector3, int, int, int)'
+[22:19:03] Resource main/dealerships started!
+[22:19:03] Started! Waiting for connections.
+[22:19:23] Terminating...
+[22:19:23] Stopping main/dealerships
+[22:19:23] Stopped main/dealerships!
+[22:19:23] Stopping main/login
+[22:19:23] Stopped main/login!
+[22:19:23] Stopping coords
+[22:19:23] Stopped coords!
+[22:19:23] Stopping freeroam
+[22:19:23] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 10:19:23 PM[22:19:23] Starting...
+[22:19:24] Loading resources...
+[22:19:24] Starting freeroam
+[22:19:24] Resource freeroam started!
+[22:19:24] Starting coords
+[22:19:24] Resource coords started!
+[22:19:24] Starting main/login
+[22:19:24] Resource main/login started!
+[22:19:24] Starting main/dealerships
+[22:19:24] Error/warning while compiling script!
+[22:19:25] Error (CS0176) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:33: Member 'Server.Veh.Vehicle' cannot be accessed with an instance reference; qualify it with a type name instead
+[22:19:25] Error (CS0120) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:33: An object reference is required for the non-static field, method, or property 'GrandTheftMultiplayer.Server.API.ServerAPI.createVehicle(GrandTheftMultiplayer.Shared.VehicleHash, GrandTheftMultiplayer.Shared.Math.Vector3, GrandTheftMultiplayer.Shared.Math.Vector3, int, int, int)'
+[22:19:25] Resource main/dealerships started!
+[22:19:25] Started! Waiting for connections.
+[22:23:23] Terminating...
+[22:23:23] Stopping main/dealerships
+[22:23:23] Stopped main/dealerships!
+[22:23:23] Stopping main/login
+[22:23:23] Stopped main/login!
+[22:23:23] Stopping coords
+[22:23:23] Stopped coords!
+[22:23:23] Stopping freeroam
+[22:23:23] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 10:23:23 PM[22:23:23] Starting...
+[22:23:24] Loading resources...
+[22:23:24] Starting freeroam
+[22:23:24] Resource freeroam started!
+[22:23:24] Starting coords
+[22:23:24] Resource coords started!
+[22:23:24] Starting main/login
+[22:23:24] Resource main/login started!
+[22:23:25] Starting main/dealerships
+[22:23:25] Error/warning while compiling script!
+[22:23:25] Error (CS0103) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:39: The name 'r' does not exist in the current context
+[22:23:25] Error (CS0103) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:39: The name 'r' does not exist in the current context
+[22:23:25] Resource main/dealerships started!
+[22:23:25] Started! Waiting for connections.
+[22:24:10] Terminating...
+[22:24:10] Stopping main/dealerships
+[22:24:11] Stopped main/dealerships!
+[22:24:11] Stopping main/login
+[22:24:11] Stopped main/login!
+[22:24:11] Stopping coords
+[22:24:11] Stopped coords!
+[22:24:11] Stopping freeroam
+[22:24:11] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 10:24:11 PM[22:24:11] Starting...
+[22:24:11] Loading resources...
+[22:24:11] Starting freeroam
+[22:24:12] Resource freeroam started!
+[22:24:12] Starting coords
+[22:24:12] Resource coords started!
+[22:24:12] Starting main/login
+[22:24:12] Resource main/login started!
+[22:24:12] Starting main/dealerships
+[22:24:12] Resource main/dealerships started!
+[22:24:12] Started! Waiting for connections.
+[22:25:19] Terminating...
+[22:25:19] Stopping main/dealerships
+[22:25:19] Stopped main/dealerships!
+[22:25:19] Stopping main/login
+[22:25:19] Stopped main/login!
+[22:25:19] Stopping coords
+[22:25:19] Stopped coords!
+[22:25:19] Stopping freeroam
+[22:25:19] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 10:25:19 PM[22:25:19] Starting...
+[22:25:20] Loading resources...
+[22:25:20] Starting freeroam
+[22:25:20] Resource freeroam started!
+[22:25:20] Starting coords
+[22:25:21] Resource coords started!
+[22:25:21] Starting main/login
+[22:25:21] Resource main/login started!
+[22:25:21] Starting main/dealerships
+[22:25:21] Error/warning while compiling script!
+[22:25:21] Error (CS1502) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:64: The best overloaded method match for 'GrandTheftMultiplayer.Server.API.ServerAPI.fromJson(string)' has some invalid arguments
+[22:25:21] Error (CS1503) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:64: Argument 1: cannot convert from 'Server.Veh' to 'string'
+[22:25:21] Resource main/dealerships started!
+[22:25:21] Started! Waiting for connections.
+[22:25:36] Terminating...
+[22:25:36] Stopping main/dealerships
+[22:25:36] Stopped main/dealerships!
+[22:25:36] Stopping main/login
+[22:25:36] Stopped main/login!
+[22:25:36] Stopping coords
+[22:25:36] Stopped coords!
+[22:25:36] Stopping freeroam
+[22:25:36] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 10:25:36 PM[22:25:36] Starting...
+[22:25:37] Loading resources...
+[22:25:37] Starting freeroam
+[22:25:37] Resource freeroam started!
+[22:25:37] Starting coords
+[22:25:38] Resource coords started!
+[22:25:38] Starting main/login
+[22:25:38] Resource main/login started!
+[22:25:38] Starting main/dealerships
+[22:25:38] Resource main/dealerships started!
+[22:25:38] Started! Waiting for connections.
+[22:25:47] Initiating connection: [192.168.0.10:64037]
+[22:25:47] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[22:25:48] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[22:26:22] EXCEPTION IN RESOURCE main/dealerships INSIDE SCRIPTENGINE dealerships
+[22:26:22] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.dealerships.test(Client player)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass26_0.<InvokeVoidMethod>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[22:27:24] EXCEPTION IN RESOURCE main/dealerships INSIDE SCRIPTENGINE dealerships
+[22:27:24] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.dealerships.test(Client player)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass26_0.<InvokeVoidMethod>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[22:27:52] Terminating...
+[22:27:52] Stopping main/dealerships
+[22:27:52] Stopped main/dealerships!
+[22:27:52] Stopping main/login
+[22:27:52] Stopped main/login!
+[22:27:52] Stopping coords
+[22:27:52] Stopped coords!
+[22:27:52] Stopping freeroam
+[22:27:52] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 10:27:52 PM[22:27:52] Starting...
+[22:27:53] Loading resources...
+[22:27:53] Starting freeroam
+[22:27:53] Resource freeroam started!
+[22:27:53] Starting coords
+[22:27:53] Resource coords started!
+[22:27:53] Starting main/login
+[22:27:54] Resource main/login started!
+[22:27:54] Starting main/dealerships
+[22:27:54] Resource main/dealerships started!
+[22:27:54] Started! Waiting for connections.
+[22:28:24] Terminating...
+[22:28:24] Stopping main/dealerships
+[22:28:24] Stopped main/dealerships!
+[22:28:24] Stopping main/login
+[22:28:24] Stopped main/login!
+[22:28:24] Stopping coords
+[22:28:24] Stopped coords!
+[22:28:24] Stopping freeroam
+[22:28:24] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 10:28:24 PM[22:28:24] Starting...
+[22:28:25] Loading resources...
+[22:28:25] Starting freeroam
+[22:28:25] Resource freeroam started!
+[22:28:25] Starting coords
+[22:28:25] Resource coords started!
+[22:28:25] Starting main/login
+[22:28:26] Resource main/login started!
+[22:28:26] Starting main/dealerships
+[22:28:26] Resource main/dealerships started!
+[22:28:26] Started! Waiting for connections.
+[22:28:56] Terminating...
+[22:28:56] Stopping main/dealerships
+[22:28:56] Stopped main/dealerships!
+[22:28:56] Stopping main/login
+[22:28:56] Stopped main/login!
+[22:28:56] Stopping coords
+[22:28:56] Stopped coords!
+[22:28:56] Stopping freeroam
+[22:28:56] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 10:28:56 PM[22:28:56] Starting...
+[22:28:57] Loading resources...
+[22:28:57] Starting freeroam
+[22:28:57] Resource freeroam started!
+[22:28:57] Starting coords
+[22:28:57] Resource coords started!
+[22:28:57] Starting main/login
+[22:28:58] Resource main/login started!
+[22:28:58] Starting main/dealerships
+[22:28:58] Resource main/dealerships started!
+[22:28:58] Started! Waiting for connections.
+[22:29:03] Initiating connection: [192.168.0.10:64037]
+[22:29:03] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[22:29:03] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[22:38:44] Terminating...
+[22:38:44] Stopping main/dealerships
+[22:38:44] Stopped main/dealerships!
+[22:38:44] Stopping main/login
+[22:38:44] Stopped main/login!
+[22:38:44] Stopping coords
+[22:38:44] Stopped coords!
+[22:38:44] Stopping freeroam
+[22:38:44] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 10:38:44 PM[22:38:44] Starting...
+[22:38:45] Loading resources...
+[22:38:45] Starting freeroam
+[22:38:45] Resource freeroam started!
+[22:38:45] Starting coords
+[22:38:45] Resource coords started!
+[22:38:45] Starting main/login
+[22:38:45] Error/warning while compiling script!
+[22:38:45] Error (CS1002) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:124: ; expected
+[22:38:45] Resource main/login started!
+[22:38:45] Starting main/dealerships
+[22:38:46] Resource main/dealerships started!
+[22:38:46] Started! Waiting for connections.
+[22:38:57] Terminating...
+[22:38:57] Stopping main/dealerships
+[22:38:57] Stopped main/dealerships!
+[22:38:57] Stopping main/login
+[22:38:57] Stopped main/login!
+[22:38:57] Stopping coords
+[22:38:57] Stopped coords!
+[22:38:57] Stopping freeroam
+[22:38:57] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 10:38:58 PM[22:38:58] Starting...
+[22:38:58] Loading resources...
+[22:38:58] Starting freeroam
+[22:38:59] Resource freeroam started!
+[22:38:59] Starting coords
+[22:38:59] Resource coords started!
+[22:38:59] Starting main/login
+[22:38:59] Resource main/login started!
+[22:38:59] Starting main/dealerships
+[22:38:59] Resource main/dealerships started!
+[22:38:59] Started! Waiting for connections.
+[22:45:30] Terminating...
+[22:45:30] Stopping main/dealerships
+[22:45:30] Stopped main/dealerships!
+[22:45:30] Stopping main/login
+[22:45:30] Stopped main/login!
+[22:45:30] Stopping coords
+[22:45:30] Stopped coords!
+[22:45:30] Stopping freeroam
+[22:45:30] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 10:45:31 PM[22:45:31] Starting...
+[22:45:32] Loading resources...
+[22:45:32] Starting freeroam
+[22:45:33] Resource freeroam started!
+[22:45:33] Starting coords
+[22:45:34] Resource coords started!
+[22:45:34] Starting main/login
+[22:45:34] Resource main/login started!
+[22:45:34] Starting main/dealerships
+[22:45:34] Error/warning while compiling script!
+[22:45:34] Error (CS1729) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:38: 'Server.Veh' does not contain a constructor that takes 0 arguments
+[22:45:34] Error (CS0120) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:35: An object reference is required for the non-static field, method, or property 'GrandTheftMultiplayer.Server.API.ServerAPI.getVehicleDisplayName(GrandTheftMultiplayer.Shared.VehicleHash)'
+[22:45:34] Resource main/dealerships started!
+[22:45:34] Started! Waiting for connections.
+[22:45:56] Terminating...
+[22:45:56] Stopping main/dealerships
+[22:45:56] Stopped main/dealerships!
+[22:45:56] Stopping main/login
+[22:45:56] Stopped main/login!
+[22:45:57] Stopping coords
+[22:45:57] Stopped coords!
+[22:45:57] Stopping freeroam
+[22:45:57] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 10:45:57 PM[22:45:57] Starting...
+[22:45:57] Loading resources...
+[22:45:57] Starting freeroam
+[22:45:58] Resource freeroam started!
+[22:45:58] Starting coords
+[22:45:58] Resource coords started!
+[22:45:58] Starting main/login
+[22:45:58] Resource main/login started!
+[22:45:58] Starting main/dealerships
+[22:45:58] Error/warning while compiling script!
+[22:45:58] Error (CS1729) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:38: 'Server.Veh' does not contain a constructor that takes 0 arguments
+[22:45:58] Error (CS0176) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:35: Member 'Server.Veh.Name' cannot be accessed with an instance reference; qualify it with a type name instead
+[22:45:58] Error (CS0120) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:35: An object reference is required for the non-static field, method, or property 'GrandTheftMultiplayer.Server.API.ServerAPI.getVehicleDisplayName(GrandTheftMultiplayer.Shared.VehicleHash)'
+[22:45:58] Resource main/dealerships started!
+[22:45:58] Started! Waiting for connections.
+[22:46:58] Terminating...
+[22:46:58] Stopping main/dealerships
+[22:46:58] Stopped main/dealerships!
+[22:46:58] Stopping main/login
+[22:46:58] Stopped main/login!
+[22:46:58] Stopping coords
+[22:46:58] Stopped coords!
+[22:46:58] Stopping freeroam
+[22:46:58] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 10:46:58 PM[22:46:58] Starting...
+[22:46:59] Loading resources...
+[22:46:59] Starting freeroam
+[22:46:59] Resource freeroam started!
+[22:46:59] Starting coords
+[22:46:59] Resource coords started!
+[22:46:59] Starting main/login
+[22:46:59] Resource main/login started!
+[22:46:59] Starting main/dealerships
+[22:46:59] Error/warning while compiling script!
+[22:46:59] Error (CS1729) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:38: 'Server.Veh' does not contain a constructor that takes 0 arguments
+[22:46:59] Resource main/dealerships started!
+[22:46:59] Started! Waiting for connections.
+[22:47:56] Terminating...
+[22:47:56] Stopping main/dealerships
+[22:47:56] Stopped main/dealerships!
+[22:47:56] Stopping main/login
+[22:47:56] Stopped main/login!
+[22:47:56] Stopping coords
+[22:47:56] Stopped coords!
+[22:47:56] Stopping freeroam
+[22:47:56] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 10:47:56 PM[22:47:56] Starting...
+[22:47:57] Loading resources...
+[22:47:57] Starting freeroam
+[22:47:57] Resource freeroam started!
+[22:47:57] Starting coords
+[22:47:57] Resource coords started!
+[22:47:57] Starting main/login
+[22:47:57] Resource main/login started!
+[22:47:57] Starting main/dealerships
+[22:47:58] Resource main/dealerships started!
+[22:47:58] Started! Waiting for connections.
+[22:48:10] Initiating connection: [192.168.0.10:64037]
+[22:48:10] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[22:48:10] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[22:55:54] Terminating...
+[22:55:54] Stopping main/dealerships
+[22:55:54] Stopped main/dealerships!
+[22:55:54] Stopping main/login
+[22:55:54] Stopped main/login!
+[22:55:54] Stopping coords
+[22:55:54] Stopped coords!
+[22:55:54] Stopping freeroam
+[22:55:54] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 10:55:55 PM[22:55:55] Starting...
+[22:55:55] Loading resources...
+[22:55:55] Starting freeroam
+[22:55:56] Resource freeroam started!
+[22:55:56] Starting coords
+[22:55:56] Resource coords started!
+[22:55:56] Starting main/login
+[22:55:56] Resource main/login started!
+[22:55:56] Starting main/dealerships
+[22:55:56] Error/warning while compiling script!
+[22:55:56] Error (CS0103) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:56: The name 'v' does not exist in the current context
+[22:55:56] Error (CS0103) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:57: The name 'rebel' does not exist in the current context
+[22:55:56] Error (CS0103) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:110: The name 'v' does not exist in the current context
+[22:55:56] Resource main/dealerships started!
+[22:55:56] Started! Waiting for connections.
+[22:58:13] Terminating...
+[22:58:13] Stopping main/dealerships
+[22:58:13] Stopped main/dealerships!
+[22:58:13] Stopping main/login
+[22:58:13] Stopped main/login!
+[22:58:13] Stopping coords
+[22:58:13] Stopped coords!
+[22:58:13] Stopping freeroam
+[22:58:13] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 10:58:14 PM[22:58:14] Starting...
+[22:58:14] Loading resources...
+[22:58:14] Starting freeroam
+[22:58:14] Resource freeroam started!
+[22:58:14] Starting coords
+[22:58:15] Resource coords started!
+[22:58:15] Starting main/login
+[22:58:15] Resource main/login started!
+[22:58:15] Starting main/dealerships
+[22:58:15] Error/warning while compiling script!
+[22:58:15] Error (CS0103) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:56: The name 'v' does not exist in the current context
+[22:58:15] Error (CS0103) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:57: The name 'rebel' does not exist in the current context
+[22:58:15] Resource main/dealerships started!
+[22:58:15] Started! Waiting for connections.
+[23:03:17] Terminating...
+[23:03:17] Stopping main/dealerships
+[23:03:17] Stopped main/dealerships!
+[23:03:17] Stopping main/login
+[23:03:17] Stopped main/login!
+[23:03:17] Stopping coords
+[23:03:17] Stopped coords!
+[23:03:17] Stopping freeroam
+[23:03:17] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:03:17 PM[23:03:17] Starting...
+[23:03:18] Loading resources...
+[23:03:18] Starting freeroam
+[23:03:18] Resource freeroam started!
+[23:03:18] Starting coords
+[23:03:19] Resource coords started!
+[23:03:19] Starting main/login
+[23:03:19] Resource main/login started!
+[23:03:19] Starting main/dealerships
+[23:03:19] Error/warning while compiling script!
+[23:03:19] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:21: The type or namespace name 'id' could not be found (are you missing a using directive or an assembly reference?)
+[23:03:19] Resource main/dealerships started!
+[23:03:19] Started! Waiting for connections.
+[23:03:37] Terminating...
+[23:03:37] Stopping main/dealerships
+[23:03:37] Stopped main/dealerships!
+[23:03:37] Stopping main/login
+[23:03:37] Stopped main/login!
+[23:03:37] Stopping coords
+[23:03:37] Stopped coords!
+[23:03:37] Stopping freeroam
+[23:03:37] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:03:37 PM[23:03:37] Starting...
+[23:03:38] Loading resources...
+[23:03:38] Starting freeroam
+[23:03:38] Resource freeroam started!
+[23:03:38] Starting coords
+[23:03:38] Resource coords started!
+[23:03:38] Starting main/login
+[23:03:39] Resource main/login started!
+[23:03:39] Starting main/dealerships
+[23:03:39] Resource main/dealerships started!
+[23:03:39] Started! Waiting for connections.
+[23:03:47] Initiating connection: [192.168.0.10:64037]
+[23:03:47] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[23:03:47] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[23:05:24] Terminating...
+[23:05:24] Stopping main/dealerships
+[23:05:24] Stopped main/dealerships!
+[23:05:24] Stopping main/login
+[23:05:24] Stopped main/login!
+[23:05:24] Stopping coords
+[23:05:24] Stopped coords!
+[23:05:24] Stopping freeroam
+[23:05:24] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:05:24 PM[23:05:24] Starting...
+[23:05:24] Loading resources...
+[23:05:25] Starting freeroam
+[23:05:25] Resource freeroam started!
+[23:05:25] Starting coords
+[23:05:25] Resource coords started!
+[23:05:25] Starting main/login
+[23:05:25] Resource main/login started!
+[23:05:25] Starting main/dealerships
+[23:05:25] Error/warning while compiling script!
+[23:05:25] Error (CS0019) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:84: Operator '!=' cannot be applied to operands of type 'GrandTheftMultiplayer.Shared.NetHandle' and 'int'
+[23:05:25] Resource main/dealerships started!
+[23:05:25] Started! Waiting for connections.
+[23:05:42] Terminating...
+[23:05:42] Stopping main/dealerships
+[23:05:42] Stopped main/dealerships!
+[23:05:42] Stopping main/login
+[23:05:42] Stopped main/login!
+[23:05:42] Stopping coords
+[23:05:42] Stopped coords!
+[23:05:42] Stopping freeroam
+[23:05:42] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:05:42 PM[23:05:42] Starting...
+[23:05:43] Loading resources...
+[23:05:43] Starting freeroam
+[23:05:43] Resource freeroam started!
+[23:05:43] Starting coords
+[23:05:43] Resource coords started!
+[23:05:43] Starting main/login
+[23:05:44] Resource main/login started!
+[23:05:44] Starting main/dealerships
+[23:05:44] Error/warning while compiling script!
+[23:05:44] Error (CS1061) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:84: 'GrandTheftMultiplayer.Shared.NetHandle' does not contain a definition for 'handle' and no extension method 'handle' accepting a first argument of type 'GrandTheftMultiplayer.Shared.NetHandle' could be found (are you missing a using directive or an assembly reference?)
+[23:05:44] Resource main/dealerships started!
+[23:05:44] Started! Waiting for connections.
+[23:09:55] Terminating...
+[23:09:55] Stopping main/dealerships
+[23:09:55] Stopped main/dealerships!
+[23:09:55] Stopping main/login
+[23:09:55] Stopped main/login!
+[23:09:55] Stopping coords
+[23:09:55] Stopped coords!
+[23:09:55] Stopping freeroam
+[23:09:55] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:09:56 PM[23:09:56] Starting...
+[23:09:56] Loading resources...
+[23:09:56] Starting freeroam
+[23:09:56] Resource freeroam started!
+[23:09:56] Starting coords
+[23:09:57] Resource coords started!
+[23:09:57] Starting main/login
+[23:09:57] Resource main/login started!
+[23:09:57] Starting main/dealerships
+[23:09:57] Error/warning while compiling script!
+[23:09:57] Error (CS0136) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:89: A local variable named 'vehicle' cannot be declared in this scope because it would give a different meaning to 'vehicle', which is already used in a 'parent or current' scope to denote something else
+[23:09:57] Resource main/dealerships started!
+[23:09:57] Started! Waiting for connections.
+[23:14:01] Terminating...
+[23:14:01] Stopping main/dealerships
+[23:14:01] Stopped main/dealerships!
+[23:14:01] Stopping main/login
+[23:14:01] Stopped main/login!
+[23:14:01] Stopping coords
+[23:14:01] Stopped coords!
+[23:14:01] Stopping freeroam
+[23:14:01] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:14:01 PM[23:14:01] Starting...
+[23:14:02] Loading resources...
+[23:14:02] Starting freeroam
+[23:14:02] Resource freeroam started!
+[23:14:02] Starting coords
+[23:14:02] Resource coords started!
+[23:14:02] Starting main/login
+[23:14:03] Resource main/login started!
+[23:14:03] Starting main/dealerships
+[23:14:03] Error/warning while compiling script!
+[23:14:03] Error (CS1502) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:94: The best overloaded method match for 'GrandTheftMultiplayer.Server.API.ServerAPI.getVehicleDisplayName(GrandTheftMultiplayer.Shared.VehicleHash)' has some invalid arguments
+[23:14:03] Error (CS1503) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:94: Argument 1: cannot convert from 'int' to 'GrandTheftMultiplayer.Shared.VehicleHash'
+[23:14:03] Resource main/dealerships started!
+[23:14:03] Started! Waiting for connections.
+[23:14:22] Terminating...
+[23:14:22] Stopping main/dealerships
+[23:14:22] Stopped main/dealerships!
+[23:14:22] Stopping main/login
+[23:14:22] Stopped main/login!
+[23:14:22] Stopping coords
+[23:14:22] Stopped coords!
+[23:14:22] Stopping freeroam
+[23:14:22] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:14:22 PM[23:14:22] Starting...
+[23:14:23] Loading resources...
+[23:14:23] Starting freeroam
+[23:14:23] Resource freeroam started!
+[23:14:23] Starting coords
+[23:14:23] Resource coords started!
+[23:14:23] Starting main/login
+[23:14:24] Resource main/login started!
+[23:14:24] Starting main/dealerships
+[23:14:24] Resource main/dealerships started!
+[23:14:24] Started! Waiting for connections.
+[23:15:15] Terminating...
+[23:15:16] Stopping main/dealerships
+[23:15:16] Stopped main/dealerships!
+[23:15:16] Stopping main/login
+[23:15:16] Stopped main/login!
+[23:15:16] Stopping coords
+[23:15:16] Stopped coords!
+[23:15:16] Stopping freeroam
+[23:15:16] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:15:16 PM[23:15:16] Starting...
+[23:15:16] Loading resources...
+[23:15:16] Starting freeroam
+[23:15:17] Resource freeroam started!
+[23:15:17] Starting coords
+[23:15:17] Resource coords started!
+[23:15:17] Starting main/login
+[23:15:17] Resource main/login started!
+[23:15:17] Starting main/dealerships
+[23:15:17] Error/warning while compiling script!
+[23:15:17] Error (CS0103) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:95: The name 'name' does not exist in the current context
+[23:15:17] Error (CS0103) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:97: The name 'name' does not exist in the current context
+[23:15:17] Resource main/dealerships started!
+[23:15:17] Started! Waiting for connections.
+[23:15:31] Terminating...
+[23:15:31] Stopping main/dealerships
+[23:15:31] Stopped main/dealerships!
+[23:15:31] Stopping main/login
+[23:15:31] Stopped main/login!
+[23:15:31] Stopping coords
+[23:15:31] Stopped coords!
+[23:15:31] Stopping freeroam
+[23:15:31] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:15:31 PM[23:15:31] Starting...
+[23:15:32] Loading resources...
+[23:15:32] Starting freeroam
+[23:15:32] Resource freeroam started!
+[23:15:32] Starting coords
+[23:15:32] Resource coords started!
+[23:15:32] Starting main/login
+[23:15:32] Resource main/login started!
+[23:15:32] Starting main/dealerships
+[23:15:33] Resource main/dealerships started!
+[23:15:33] Started! Waiting for connections.
+[23:15:38] Initiating connection: [192.168.0.10:64037]
+[23:15:38] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[23:15:38] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[23:18:19] Terminating...
+[23:18:19] Stopping main/dealerships
+[23:18:19] Stopped main/dealerships!
+[23:18:19] Stopping main/login
+[23:18:19] Stopped main/login!
+[23:18:19] Stopping coords
+[23:18:19] Stopped coords!
+[23:18:19] Stopping freeroam
+[23:18:19] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:18:20 PM[23:18:20] Starting...
+[23:18:20] Loading resources...
+[23:18:20] Starting freeroam
+[23:18:21] Resource freeroam started!
+[23:18:21] Starting coords
+[23:18:21] Resource coords started!
+[23:18:21] Starting main/login
+[23:18:21] Resource main/login started!
+[23:18:21] Starting main/dealerships
+[23:18:21] Resource main/dealerships started!
+[23:18:21] Started! Waiting for connections.
+[23:18:27] Initiating connection: [192.168.0.10:64037]
+[23:18:27] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[23:18:27] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[23:19:54] Terminating...
+[23:19:54] Stopping main/dealerships
+[23:19:54] Stopped main/dealerships!
+[23:19:54] Stopping main/login
+[23:19:54] Stopped main/login!
+[23:19:54] Stopping coords
+[23:19:54] Stopped coords!
+[23:19:54] Stopping freeroam
+[23:19:54] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:19:54 PM[23:19:54] Starting...
+[23:19:55] Loading resources...
+[23:19:55] Starting freeroam
+[23:19:55] Resource freeroam started!
+[23:19:55] Starting coords
+[23:19:55] Resource coords started!
+[23:19:55] Starting main/login
+[23:19:56] Resource main/login started!
+[23:19:56] Starting main/dealerships
+[23:19:56] Error/warning while compiling script!
+[23:19:56] Error (CS1501) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:84: No overload for method 'sendChatMessageToPlayer' takes 1 arguments
+[23:19:56] Resource main/dealerships started!
+[23:19:56] Started! Waiting for connections.
+[23:20:15] Terminating...
+[23:20:15] Stopping main/dealerships
+[23:20:15] Stopped main/dealerships!
+[23:20:15] Stopping main/login
+[23:20:15] Stopped main/login!
+[23:20:15] Stopping coords
+[23:20:15] Stopped coords!
+[23:20:15] Stopping freeroam
+[23:20:15] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:20:15 PM[23:20:15] Starting...
+[23:20:16] Loading resources...
+[23:20:16] Starting freeroam
+[23:20:16] Resource freeroam started!
+[23:20:16] Starting coords
+[23:20:16] Resource coords started!
+[23:20:16] Starting main/login
+[23:20:16] Resource main/login started!
+[23:20:16] Starting main/dealerships
+[23:20:17] Resource main/dealerships started!
+[23:20:17] Started! Waiting for connections.
+[23:20:23] Initiating connection: [192.168.0.10:64037]
+[23:20:23] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[23:20:23] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[23:21:23] Player disconnected: godsdead20 (godsdead20) [192.168.0.10], reason: Timeout
+[23:23:27] Terminating...
+[23:23:27] Stopping main/dealerships
+[23:23:27] Stopped main/dealerships!
+[23:23:27] Stopping main/login
+[23:23:27] Stopped main/login!
+[23:23:27] Stopping coords
+[23:23:27] Stopped coords!
+[23:23:27] Stopping freeroam
+[23:23:27] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:23:28 PM[23:23:28] Starting...
+[23:23:28] Loading resources...
+[23:23:28] Starting freeroam
+[23:23:28] Resource freeroam started!
+[23:23:28] Starting coords
+[23:23:29] Resource coords started!
+[23:23:29] Starting main/login
+[23:23:29] Resource main/login started!
+[23:23:29] Starting main/dealerships
+[23:23:29] Resource main/dealerships started!
+[23:23:29] Started! Waiting for connections.
+[23:23:33] Terminating...
+[23:23:33] Stopping main/dealerships
+[23:23:33] Stopped main/dealerships!
+[23:23:33] Stopping main/login
+[23:23:33] Stopped main/login!
+[23:23:33] Stopping coords
+[23:23:33] Stopped coords!
+[23:23:33] Stopping freeroam
+[23:23:33] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:23:33 PM[23:23:33] Starting...
+[23:23:34] Loading resources...
+[23:23:34] Starting freeroam
+[23:23:34] Resource freeroam started!
+[23:23:34] Starting coords
+[23:23:34] Resource coords started!
+[23:23:34] Starting main/login
+[23:23:34] Resource main/login started!
+[23:23:34] Starting main/dealerships
+[23:23:35] Resource main/dealerships started!
+[23:23:35] Started! Waiting for connections.
+[23:25:45] Initiating connection: [192.168.0.10:55283]
+[23:25:45] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[23:25:45] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[23:26:44] Player disconnected: godsdead20 (godsdead20) [192.168.0.10], reason: Timeout
+[23:27:24] Terminating...
+[23:27:24] Stopping main/dealerships
+[23:27:24] Stopped main/dealerships!
+[23:27:24] Stopping main/login
+[23:27:24] Stopped main/login!
+[23:27:24] Stopping coords
+[23:27:24] Stopped coords!
+[23:27:24] Stopping freeroam
+[23:27:25] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:27:25 PM[23:27:25] Starting...
+[23:27:25] Loading resources...
+[23:27:25] Starting freeroam
+[23:27:25] Resource freeroam started!
+[23:27:25] Starting coords
+[23:27:26] Resource coords started!
+[23:27:26] Starting main/login
+[23:27:26] Resource main/login started!
+[23:27:26] Starting main/dealerships
+[23:27:26] Resource main/dealerships started!
+[23:27:26] Started! Waiting for connections.
+[23:29:27] Initiating connection: [192.168.0.10:51055]
+[23:29:27] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[23:29:27] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[23:30:09] Player disconnected: godsdead20 (godsdead20) [192.168.0.10], reason: Timeout
+-> SERVER STARTED AT 5/24/2017 11:31:09 PM[23:31:09] Starting...
+[23:31:10] Loading resources...
+[23:31:10] Starting freeroam
+[23:31:10] Resource freeroam started!
+[23:31:10] Starting coords
+[23:31:10] Resource coords started!
+[23:31:10] Starting main/login
+[23:31:11] Resource main/login started!
+[23:31:11] Starting main/dealerships
+[23:31:11] Resource main/dealerships started!
+[23:31:11] Started! Waiting for connections.
+[23:31:34] Terminating...
+[23:31:34] Stopping main/dealerships
+[23:31:34] Stopped main/dealerships!
+[23:31:34] Stopping main/login
+[23:31:34] Stopped main/login!
+[23:31:34] Stopping coords
+[23:31:34] Stopped coords!
+[23:31:34] Stopping freeroam
+[23:31:34] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:31:34 PM[23:31:34] Starting...
+[23:31:34] Loading resources...
+[23:31:34] Starting freeroam
+[23:31:35] Resource freeroam started!
+[23:31:35] Starting coords
+[23:31:35] Resource coords started!
+[23:31:35] Starting main/login
+[23:31:35] Resource main/login started!
+[23:31:35] Starting main/dealerships
+[23:31:35] Resource main/dealerships started!
+[23:31:35] Started! Waiting for connections.
+[23:33:27] Initiating connection: [192.168.0.10:63217]
+[23:33:27] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[23:33:27] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[23:34:39] Terminating...
+[23:34:39] Stopping main/dealerships
+[23:34:39] Stopped main/dealerships!
+[23:34:39] Stopping main/login
+[23:34:39] Stopped main/login!
+[23:34:39] Stopping coords
+[23:34:39] Stopped coords!
+[23:34:39] Stopping freeroam
+[23:34:39] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:34:39 PM[23:34:39] Starting...
+[23:34:39] Loading resources...
+[23:34:40] Starting freeroam
+[23:34:40] Resource freeroam started!
+[23:34:40] Starting coords
+[23:34:40] Resource coords started!
+[23:34:40] Starting main/login
+[23:34:40] Resource main/login started!
+[23:34:40] Starting main/dealerships
+[23:34:41] Resource main/dealerships started!
+[23:34:41] Started! Waiting for connections.
+[23:34:46] Initiating connection: [192.168.0.10:63217]
+[23:34:46] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[23:34:47] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[23:35:19] Terminating...
+[23:35:19] Stopping main/dealerships
+[23:35:19] Stopped main/dealerships!
+[23:35:19] Stopping main/login
+[23:35:19] Stopped main/login!
+[23:35:19] Stopping coords
+[23:35:19] Stopped coords!
+[23:35:19] Stopping freeroam
+[23:35:19] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:35:19 PM[23:35:19] Starting...
+[23:35:20] Loading resources...
+[23:35:20] Starting freeroam
+[23:35:20] Resource freeroam started!
+[23:35:20] Starting coords
+[23:35:21] Resource coords started!
+[23:35:21] Starting main/login
+[23:35:21] Resource main/login started!
+[23:35:21] Starting main/dealerships
+[23:35:21] Resource main/dealerships started!
+[23:35:21] Started! Waiting for connections.
+[23:35:47] Terminating...
+[23:35:47] Stopping main/dealerships
+[23:35:47] Stopped main/dealerships!
+[23:35:47] Stopping main/login
+[23:35:47] Stopped main/login!
+[23:35:47] Stopping coords
+[23:35:47] Stopped coords!
+[23:35:47] Stopping freeroam
+[23:35:47] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:35:47 PM[23:35:47] Starting...
+[23:35:47] Loading resources...
+[23:35:48] Starting freeroam
+[23:35:48] Resource freeroam started!
+[23:35:48] Starting coords
+[23:35:48] Resource coords started!
+[23:35:48] Starting main/login
+[23:35:48] Resource main/login started!
+[23:35:48] Starting main/dealerships
+[23:35:48] Resource main/dealerships started!
+[23:35:48] Started! Waiting for connections.
+[23:35:54] Initiating connection: [192.168.0.10:63217]
+[23:35:54] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[23:35:54] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[23:36:25] Player disconnected: godsdead20 (godsdead20) [192.168.0.10], reason: Timeout
+[23:36:56] Terminating...
+[23:36:56] Stopping main/dealerships
+[23:36:56] Stopped main/dealerships!
+[23:36:56] Stopping main/login
+[23:36:56] Stopped main/login!
+[23:36:56] Stopping coords
+[23:36:56] Stopped coords!
+[23:36:56] Stopping freeroam
+[23:36:56] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:36:57 PM[23:36:57] Starting...
+[23:36:57] Loading resources...
+[23:36:57] Starting freeroam
+[23:36:57] Resource freeroam started!
+[23:36:57] Starting coords
+[23:36:57] Resource coords started!
+[23:36:57] Starting main/login
+[23:36:58] Resource main/login started!
+[23:36:58] Starting main/dealerships
+[23:36:58] Resource main/dealerships started!
+[23:36:58] Started! Waiting for connections.
+[23:40:52] Terminating...
+[23:40:52] Stopping main/dealerships
+[23:40:52] Stopped main/dealerships!
+[23:40:52] Stopping main/login
+[23:40:53] Stopped main/login!
+[23:40:53] Stopping coords
+[23:40:53] Stopped coords!
+[23:40:53] Stopping freeroam
+[23:40:53] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:40:53 PM[23:40:53] Starting...
+[23:40:53] Loading resources...
+[23:40:53] Starting freeroam
+[23:40:54] Resource freeroam started!
+[23:40:54] Starting coords
+[23:40:54] Resource coords started!
+[23:40:54] Starting main/login
+[23:40:54] Resource main/login started!
+[23:40:54] Starting main/dealerships
+[23:40:54] Resource main/dealerships started!
+[23:40:54] Started! Waiting for connections.
+[23:43:03] Initiating connection: [192.168.0.10:53750]
+[23:43:03] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[23:43:04] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[23:43:55] Player disconnected: godsdead20 (godsdead20) [192.168.0.10], reason: Timeout
+[23:46:05] Terminating...
+[23:46:05] Stopping main/dealerships
+[23:46:05] Stopped main/dealerships!
+[23:46:05] Stopping main/login
+[23:46:05] Stopped main/login!
+[23:46:05] Stopping coords
+[23:46:05] Stopped coords!
+[23:46:05] Stopping freeroam
+[23:46:05] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:46:05 PM[23:46:05] Starting...
+[23:46:06] Loading resources...
+[23:46:06] Starting freeroam
+[23:46:06] Resource freeroam started!
+[23:46:06] Starting coords
+[23:46:06] Resource coords started!
+[23:46:06] Starting main/login
+[23:46:06] Resource main/login started!
+[23:46:06] Starting main/dealerships
+[23:46:07] Resource main/dealerships started!
+[23:46:07] Starting main/dealerships/car_door_lock.wav
+[23:46:07] ERROR STARTING RESOURCE main/dealerships/car_door_lock.wav
+[23:46:07] System.IO.FileNotFoundException: Resource does not exist.
+   at GrandTheftMultiplayer.Server.GameServer.StartResource(String resourceName, String father)
+[23:46:07] Started! Waiting for connections.
+[23:46:16] Terminating...
+[23:46:16] Stopping main/dealerships
+[23:46:16] Stopped main/dealerships!
+[23:46:16] Stopping main/login
+[23:46:16] Stopped main/login!
+[23:46:16] Stopping coords
+[23:46:16] Stopped coords!
+[23:46:16] Stopping freeroam
+[23:46:16] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:46:16 PM[23:46:16] Starting...
+[23:46:17] Loading resources...
+[23:46:17] Starting freeroam
+[23:46:17] Resource freeroam started!
+[23:46:17] Starting coords
+[23:46:17] Resource coords started!
+[23:46:17] Starting main/login
+[23:46:17] Resource main/login started!
+[23:46:18] Starting main/dealerships
+[23:46:18] Resource main/dealerships started!
+[23:46:18] Started! Waiting for connections.
+[23:47:32] Terminating...
+[23:47:32] Stopping main/dealerships
+[23:47:32] Stopped main/dealerships!
+[23:47:32] Stopping main/login
+[23:47:32] Stopped main/login!
+[23:47:32] Stopping coords
+[23:47:32] Stopped coords!
+[23:47:32] Stopping freeroam
+[23:47:32] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:47:32 PM[23:47:32] Starting...
+[23:47:33] Loading resources...
+[23:47:33] Starting freeroam
+[23:47:33] Resource freeroam started!
+[23:47:33] Starting coords
+[23:47:33] Resource coords started!
+[23:47:33] Starting main/login
+[23:47:33] Resource main/login started!
+[23:47:33] Starting main/dealerships
+[23:47:34] Resource main/dealerships started!
+[23:47:34] Started! Waiting for connections.
+[23:49:25] Initiating connection: [192.168.0.10:56718]
+[23:49:25] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[23:49:25] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[23:51:27] Terminating...
+[23:51:27] Stopping main/dealerships
+[23:51:27] Stopped main/dealerships!
+[23:51:27] Stopping main/login
+[23:51:27] Stopped main/login!
+[23:51:27] Stopping coords
+[23:51:27] Stopped coords!
+[23:51:27] Stopping freeroam
+[23:51:27] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:51:27 PM[23:51:27] Starting...
+[23:51:28] Loading resources...
+[23:51:28] Starting freeroam
+[23:51:28] Resource freeroam started!
+[23:51:28] Starting coords
+[23:51:28] Resource coords started!
+[23:51:28] Starting main/login
+[23:51:28] Resource main/login started!
+[23:51:28] Starting main/dealerships
+[23:51:29] Resource main/dealerships started!
+[23:51:29] Started! Waiting for connections.
+[23:51:34] Initiating connection: [192.168.0.10:56718]
+[23:51:34] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[23:51:34] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[23:53:48] Terminating...
+[23:53:48] Stopping main/dealerships
+[23:53:48] Stopped main/dealerships!
+[23:53:48] Stopping main/login
+[23:53:48] Stopped main/login!
+[23:53:48] Stopping coords
+[23:53:48] Stopped coords!
+[23:53:48] Stopping freeroam
+[23:53:48] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:53:49 PM[23:53:49] Starting...
+[23:53:49] Loading resources...
+[23:53:49] Starting freeroam
+[23:53:50] Resource freeroam started!
+[23:53:50] Starting coords
+[23:53:50] Resource coords started!
+[23:53:50] Starting main/login
+[23:53:50] Resource main/login started!
+[23:53:50] Starting main/dealerships
+[23:53:50] Error/warning while compiling script!
+[23:53:50] Error (CS0030) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:85: Cannot convert type 'GrandTheftMultiplayer.Shared.NetHandle' to 'int'
+[23:53:50] Resource main/dealerships started!
+[23:53:50] Started! Waiting for connections.
+[23:54:25] Terminating...
+[23:54:25] Stopping main/dealerships
+[23:54:25] Stopped main/dealerships!
+[23:54:25] Stopping main/login
+[23:54:25] Stopped main/login!
+[23:54:25] Stopping coords
+[23:54:25] Stopped coords!
+[23:54:25] Stopping freeroam
+[23:54:25] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:54:26 PM[23:54:26] Starting...
+[23:54:26] Loading resources...
+[23:54:26] Starting freeroam
+[23:54:26] Resource freeroam started!
+[23:54:26] Starting coords
+[23:54:27] Resource coords started!
+[23:54:27] Starting main/login
+[23:54:27] Resource main/login started!
+[23:54:27] Starting main/dealerships
+[23:54:27] Resource main/dealerships started!
+[23:54:27] Started! Waiting for connections.
+[23:54:35] Terminating...
+[23:54:35] Stopping main/dealerships
+[23:54:35] Stopped main/dealerships!
+[23:54:35] Stopping main/login
+[23:54:35] Stopped main/login!
+[23:54:35] Stopping coords
+[23:54:35] Stopped coords!
+[23:54:35] Stopping freeroam
+[23:54:35] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:54:35 PM[23:54:35] Starting...
+[23:54:36] Loading resources...
+[23:54:36] Starting freeroam
+[23:54:36] Resource freeroam started!
+[23:54:36] Starting coords
+[23:54:37] Resource coords started!
+[23:54:37] Starting main/login
+[23:54:37] Resource main/login started!
+[23:54:37] Starting main/dealerships
+[23:54:37] Resource main/dealerships started!
+[23:54:37] Started! Waiting for connections.
+[23:54:42] Initiating connection: [192.168.0.10:56718]
+[23:54:42] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[23:54:43] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[23:56:03] Player disconnected: godsdead20 (godsdead20) [192.168.0.10], reason: Quit
+[23:58:07] Terminating...
+[23:58:07] Stopping main/dealerships
+[23:58:07] Stopped main/dealerships!
+[23:58:07] Stopping main/login
+[23:58:07] Stopped main/login!
+[23:58:07] Stopping coords
+[23:58:07] Stopped coords!
+[23:58:07] Stopping freeroam
+[23:58:07] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:58:07 PM[23:58:07] Starting...
+[23:58:08] Loading resources...
+[23:58:08] Starting freeroam
+[23:58:08] Resource freeroam started!
+[23:58:08] Starting coords
+[23:58:08] Resource coords started!
+[23:58:08] Starting main/login
+[23:58:09] Resource main/login started!
+[23:58:09] Starting main/dealerships
+[23:58:09] Error/warning while compiling script!
+[23:58:09] Error (CS1513) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:21: } expected
+[23:58:09] Error (CS1001) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:21: Identifier expected
+[23:58:09] Error (CS1031) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:22: Type expected
+[23:58:09] Error (CS1519) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:22: Invalid token '}' in class, struct, or interface member declaration
+[23:58:09] Error (CS1518) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:25: Expected class, delegate, enum, interface, or struct
+[23:58:09] Error (CS1518) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:32: Expected class, delegate, enum, interface, or struct
+[23:58:09] Error (CS1518) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:45: Expected class, delegate, enum, interface, or struct
+[23:58:09] Error (CS1001) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:45: Identifier expected
+[23:58:09] Error (CS1518) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:45: Expected class, delegate, enum, interface, or struct
+[23:58:09] Error (CS1518) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:55: Expected class, delegate, enum, interface, or struct
+[23:58:09] Error (CS1518) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:56: Expected class, delegate, enum, interface, or struct
+[23:58:09] Error (CS1518) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:56: Expected class, delegate, enum, interface, or struct
+[23:58:09] Error (CS1518) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:60: Expected class, delegate, enum, interface, or struct
+[23:58:09] Error (CS1518) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:68: Expected class, delegate, enum, interface, or struct
+[23:58:09] Error (CS1518) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:72: Expected class, delegate, enum, interface, or struct
+[23:58:09] Error (CS1022) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:83: Type or namespace definition, or end-of-file expected
+[23:58:09] Resource main/dealerships started!
+[23:58:09] Started! Waiting for connections.
+[23:58:31] Terminating...
+[23:58:31] Stopping main/dealerships
+[23:58:31] Stopped main/dealerships!
+[23:58:31] Stopping main/login
+[23:58:31] Stopped main/login!
+[23:58:31] Stopping coords
+[23:58:32] Stopped coords!
+[23:58:32] Stopping freeroam
+[23:58:32] Stopped freeroam!
+-> SERVER STARTED AT 5/24/2017 11:58:32 PM[23:58:32] Starting...
+[23:58:32] Loading resources...
+[23:58:32] Starting freeroam
+[23:58:33] Resource freeroam started!
+[23:58:33] Starting coords
+[23:58:33] Resource coords started!
+[23:58:33] Starting main/login
+[23:58:33] Resource main/login started!
+[23:58:33] Starting main/dealerships
+[23:58:33] Error/warning while compiling script!
+[23:58:33] Error (CS1514) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:20: { expected
+[23:58:33] Error (CS1519) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:20: Invalid token '=' in class, struct, or interface member declaration
+[23:58:33] Error (CS1001) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:21: Identifier expected
+[23:58:33] Error (CS1031) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:22: Type expected
+[23:58:33] Error (CS1519) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:22: Invalid token '}' in class, struct, or interface member declaration
+[23:58:33] Resource main/dealerships started!
+[23:58:33] Started! Waiting for connections.
+[00:04:01] Terminating...
+[00:04:01] Stopping main/dealerships
+[00:04:01] Stopped main/dealerships!
+[00:04:01] Stopping main/login
+[00:04:01] Stopped main/login!
+[00:04:01] Stopping coords
+[00:04:01] Stopped coords!
+[00:04:01] Stopping freeroam
+[00:04:01] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 12:04:01 AM[00:04:01] Starting...
+[00:04:02] Loading resources...
+[00:04:02] Starting freeroam
+[00:04:02] Resource freeroam started!
+[00:04:02] Starting coords
+[00:04:02] Resource coords started!
+[00:04:02] Starting main/login
+[00:04:03] Resource main/login started!
+[00:04:03] Starting main/dealerships
+[00:04:03] Resource main/dealerships started!
+[00:04:03] Started! Waiting for connections.
+[00:05:28] Terminating...
+[00:05:28] Stopping main/dealerships
+[00:05:28] Stopped main/dealerships!
+[00:05:28] Stopping main/login
+[00:05:28] Stopped main/login!
+[00:05:28] Stopping coords
+[00:05:28] Stopped coords!
+[00:05:28] Stopping freeroam
+[00:05:28] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 12:05:28 AM[00:05:28] Starting...
+[00:05:28] Loading resources...
+[00:05:29] Starting freeroam
+[00:05:29] Resource freeroam started!
+[00:05:29] Starting coords
+[00:05:29] Resource coords started!
+[00:05:29] Starting main/login
+[00:05:29] Resource main/login started!
+[00:05:29] Starting main/dealerships
+[00:05:30] Resource main/dealerships started!
+[00:05:30] Started! Waiting for connections.
+[00:05:35] Initiating connection: [192.168.0.10:56718]
+[00:05:36] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[00:05:36] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[00:06:59] Terminating...
+[00:06:59] Stopping main/dealerships
+[00:06:59] Stopped main/dealerships!
+[00:06:59] Stopping main/login
+[00:06:59] Stopped main/login!
+[00:06:59] Stopping coords
+[00:06:59] Stopped coords!
+[00:06:59] Stopping freeroam
+[00:06:59] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 12:06:59 AM[00:06:59] Starting...
+[00:07:00] Loading resources...
+[00:07:00] Starting freeroam
+[00:07:00] Resource freeroam started!
+[00:07:00] Starting coords
+[00:07:00] Resource coords started!
+[00:07:00] Starting main/login
+[00:07:01] Resource main/login started!
+[00:07:01] Starting main/dealerships
+[00:07:01] Error/warning while compiling script!
+[00:07:01] Error (CS1502) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:90: The best overloaded method match for 'GrandTheftMultiplayer.Server.API.ServerAPI.playPlayerAnimation(GrandTheftMultiplayer.Server.Elements.Client, int, string, string)' has some invalid arguments
+[00:07:01] Error (CS1503) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:90: Argument 2: cannot convert from 'bool' to 'int'
+[00:07:01] Resource main/dealerships started!
+[00:07:01] Started! Waiting for connections.
+[00:07:08] Terminating...
+[00:07:08] Stopping main/dealerships
+[00:07:08] Stopped main/dealerships!
+[00:07:08] Stopping main/login
+[00:07:08] Stopped main/login!
+[00:07:09] Stopping coords
+[00:07:09] Stopped coords!
+[00:07:09] Stopping freeroam
+[00:07:09] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 12:07:09 AM[00:07:09] Starting...
+[00:07:09] Loading resources...
+[00:07:09] Starting freeroam
+[00:07:10] Resource freeroam started!
+[00:07:10] Starting coords
+[00:07:10] Resource coords started!
+[00:07:10] Starting main/login
+[00:07:10] Resource main/login started!
+[00:07:10] Starting main/dealerships
+[00:07:10] Resource main/dealerships started!
+[00:07:10] Started! Waiting for connections.
+[00:07:15] Initiating connection: [192.168.0.10:56718]
+[00:07:15] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[00:07:15] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[00:17:26] Terminating...
+[00:17:26] Stopping main/dealerships
+[00:17:26] Stopped main/dealerships!
+[00:17:26] Stopping main/login
+[00:17:26] Stopped main/login!
+[00:17:26] Stopping coords
+[00:17:26] Stopped coords!
+[00:17:26] Stopping freeroam
+[00:17:26] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 12:17:26 AM[00:17:26] Starting...
+[00:17:27] Loading resources...
+[00:17:27] Starting freeroam
+[00:17:27] Resource freeroam started!
+[00:17:27] Starting coords
+[00:17:27] Resource coords started!
+[00:17:27] Starting main/login
+[00:17:28] Resource main/login started!
+[00:17:28] Starting main/dealerships
+[00:17:28] Resource main/dealerships started!
+[00:17:28] Started! Waiting for connections.
+[00:17:33] Initiating connection: [192.168.0.10:56718]
+[00:17:33] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[00:17:33] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[00:19:43] Terminating...
+[00:19:43] Stopping main/dealerships
+[00:19:43] Stopped main/dealerships!
+[00:19:43] Stopping main/login
+[00:19:43] Stopped main/login!
+[00:19:43] Stopping coords
+[00:19:43] Stopped coords!
+[00:19:43] Stopping freeroam
+[00:19:43] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 12:19:43 AM[00:19:43] Starting...
+[00:19:44] Loading resources...
+[00:19:44] Starting freeroam
+[00:19:44] Resource freeroam started!
+[00:19:44] Starting coords
+[00:19:44] Resource coords started!
+[00:19:44] Starting main/login
+[00:19:45] Resource main/login started!
+[00:19:45] Starting main/dealerships
+[00:19:45] Resource main/dealerships started!
+[00:19:45] Started! Waiting for connections.
+[00:19:50] Initiating connection: [192.168.0.10:56718]
+[00:19:50] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[00:19:50] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[00:21:29] Terminating...
+[00:21:29] Stopping main/dealerships
+[00:21:29] Stopped main/dealerships!
+[00:21:29] Stopping main/login
+[00:21:29] Stopped main/login!
+[00:21:29] Stopping coords
+[00:21:29] Stopped coords!
+[00:21:29] Stopping freeroam
+[00:21:29] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 12:21:29 AM[00:21:29] Starting...
+[00:21:30] Loading resources...
+[00:21:30] Starting freeroam
+[00:21:30] Resource freeroam started!
+[00:21:30] Starting coords
+[00:21:31] Resource coords started!
+[00:21:31] Starting main/login
+[00:21:31] Resource main/login started!
+[00:21:31] Starting main/dealerships
+[00:21:31] Resource main/dealerships started!
+[00:21:31] Started! Waiting for connections.
+[00:21:36] Initiating connection: [192.168.0.10:56718]
+[00:21:36] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[00:21:36] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[00:22:41] Terminating...
+[00:22:41] Stopping main/dealerships
+[00:22:41] Stopped main/dealerships!
+[00:22:41] Stopping main/login
+[00:22:41] Stopped main/login!
+[00:22:41] Stopping coords
+[00:22:41] Stopped coords!
+[00:22:41] Stopping freeroam
+[00:22:41] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 12:22:41 AM[00:22:41] Starting...
+[00:22:41] Loading resources...
+[00:22:41] Starting freeroam
+[00:22:42] Resource freeroam started!
+[00:22:42] Starting coords
+[00:22:42] Resource coords started!
+[00:22:42] Starting main/login
+[00:22:42] Resource main/login started!
+[00:22:42] Starting main/dealerships
+[00:22:42] Resource main/dealerships started!
+[00:22:42] Started! Waiting for connections.
+[00:22:48] Initiating connection: [192.168.0.10:56718]
+[00:22:48] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[00:22:48] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[00:24:17] Terminating...
+[00:24:17] Stopping main/dealerships
+[00:24:17] Stopped main/dealerships!
+[00:24:17] Stopping main/login
+[00:24:17] Stopped main/login!
+[00:24:17] Stopping coords
+[00:24:17] Stopped coords!
+[00:24:17] Stopping freeroam
+[00:24:17] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 12:24:18 AM[00:24:18] Starting...
+[00:24:18] Loading resources...
+[00:24:18] Starting freeroam
+[00:24:18] Resource freeroam started!
+[00:24:19] Starting coords
+[00:24:19] Resource coords started!
+[00:24:19] Starting main/login
+[00:24:19] Resource main/login started!
+[00:24:19] Starting main/dealerships
+[00:24:19] Resource main/dealerships started!
+[00:24:19] Started! Waiting for connections.
+[00:24:25] Initiating connection: [192.168.0.10:56718]
+[00:24:25] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[00:24:26] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[00:25:30] Terminating...
+[00:25:30] Stopping main/dealerships
+[00:25:30] Stopped main/dealerships!
+[00:25:30] Stopping main/login
+[00:25:30] Stopped main/login!
+[00:25:30] Stopping coords
+[00:25:30] Stopped coords!
+[00:25:30] Stopping freeroam
+[00:25:30] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 12:25:31 AM[00:25:31] Starting...
+[00:25:31] Loading resources...
+[00:25:31] Starting freeroam
+[00:25:32] Resource freeroam started!
+[00:25:32] Starting coords
+[00:25:32] Resource coords started!
+[00:25:32] Starting main/login
+[00:25:32] Resource main/login started!
+[00:25:32] Starting main/dealerships
+[00:25:32] Resource main/dealerships started!
+[00:25:32] Started! Waiting for connections.
+[00:25:38] Initiating connection: [192.168.0.10:56718]
+[00:25:38] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[00:25:38] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[00:30:37] Terminating...
+[00:30:37] Stopping main/dealerships
+[00:30:37] Stopped main/dealerships!
+[00:30:37] Stopping main/login
+[00:30:37] Stopped main/login!
+[00:30:37] Stopping coords
+[00:30:37] Stopped coords!
+[00:30:37] Stopping freeroam
+[00:30:37] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 12:30:38 AM[00:30:38] Starting...
+[00:30:38] Loading resources...
+[00:30:38] Starting freeroam
+[00:30:39] Resource freeroam started!
+[00:30:39] Starting coords
+[00:30:39] Resource coords started!
+[00:30:39] Starting main/login
+[00:30:39] Resource main/login started!
+[00:30:39] Starting main/dealerships
+[00:30:39] Resource main/dealerships started!
+[00:30:39] Started! Waiting for connections.
+[00:30:45] Initiating connection: [192.168.0.10:56718]
+[00:30:45] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[00:30:45] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[00:31:41] Player disconnected: godsdead20 (godsdead20) [192.168.0.10], reason: Quit
+[00:43:28] Terminating...
+[00:43:28] Stopping main/dealerships
+[00:43:28] Stopped main/dealerships!
+[00:43:28] Stopping main/login
+[00:43:28] Stopped main/login!
+[00:43:28] Stopping coords
+[00:43:28] Stopped coords!
+[00:43:28] Stopping freeroam
+[00:43:28] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 12:43:28 AM[00:43:28] Starting...
+[00:43:29] Loading resources...
+[00:43:29] Starting freeroam
+[00:43:29] Resource freeroam started!
+[00:43:29] Starting coords
+[00:43:30] Resource coords started!
+[00:43:30] Starting main/login
+[00:43:30] Resource main/login started!
+[00:43:30] Starting main/dealerships
+[00:43:30] Error/warning while compiling script!
+[00:43:30] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:10: The type or namespace name 'Insight' could not be found (are you missing a using directive or an assembly reference?)
+[00:43:30] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:11: The type or namespace name 'Insight' could not be found (are you missing a using directive or an assembly reference?)
+[00:43:30] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:12: The type or namespace name 'MySql' could not be found (are you missing a using directive or an assembly reference?)
+[00:43:30] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:26: The type or namespace name 'MySqlConnectionStringBuilder' could not be found (are you missing a using directive or an assembly reference?)
+[00:43:30] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:27: The type or namespace name 'IUserRepository' could not be found (are you missing a using directive or an assembly reference?)
+[00:43:30] Resource main/dealerships started!
+[00:43:30] Started! Waiting for connections.
+[00:44:52] Terminating...
+[00:44:52] Stopping main/dealerships
+[00:44:52] Stopped main/dealerships!
+[00:44:52] Stopping main/login
+[00:44:52] Stopped main/login!
+[00:44:52] Stopping coords
+[00:44:52] Stopped coords!
+[00:44:52] Stopping freeroam
+[00:44:52] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 12:44:52 AM[00:44:52] Starting...
+[00:44:53] Loading resources...
+[00:44:53] Starting freeroam
+[00:44:53] Resource freeroam started!
+[00:44:53] Starting coords
+[00:44:53] Resource coords started!
+[00:44:53] Starting main/login
+[00:44:54] Resource main/login started!
+[00:44:54] Starting main/dealerships
+[00:44:54] Error/warning while compiling script!
+[00:44:54] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:10: The type or namespace name 'Insight' could not be found (are you missing a using directive or an assembly reference?)
+[00:44:54] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:11: The type or namespace name 'Insight' could not be found (are you missing a using directive or an assembly reference?)
+[00:44:54] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:12: The type or namespace name 'MySql' could not be found (are you missing a using directive or an assembly reference?)
+[00:44:54] Warning (CS0105) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:13: The using directive for 'System.Collections.Generic' appeared previously in this namespace
+[00:44:54] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:27: The type or namespace name 'MySqlConnectionStringBuilder' could not be found (are you missing a using directive or an assembly reference?)
+[00:44:54] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:28: The type or namespace name 'IUserRepository' could not be found (are you missing a using directive or an assembly reference?)
+[00:44:54] Resource main/dealerships started!
+[00:44:54] Started! Waiting for connections.
+[00:47:05] Terminating...
+[00:47:05] Stopping main/dealerships
+[00:47:05] Stopped main/dealerships!
+[00:47:05] Stopping main/login
+[00:47:05] Stopped main/login!
+[00:47:05] Stopping coords
+[00:47:05] Stopped coords!
+[00:47:05] Stopping freeroam
+[00:47:05] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 12:47:05 AM[00:47:05] Starting...
+[00:47:06] Loading resources...
+[00:47:06] Starting freeroam
+[00:47:06] Resource freeroam started!
+[00:47:06] Starting coords
+[00:47:06] Resource coords started!
+[00:47:06] Starting main/login
+[00:47:07] Resource main/login started!
+[00:47:07] Starting main/dealerships
+[00:47:07] Error/warning while compiling script!
+[00:47:07] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:12: The type or namespace name 'Insight' could not be found (are you missing a using directive or an assembly reference?)
+[00:47:07] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:13: The type or namespace name 'Insight' could not be found (are you missing a using directive or an assembly reference?)
+[00:47:07] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:14: The type or namespace name 'MySql' could not be found (are you missing a using directive or an assembly reference?)
+[00:47:07] Warning (CS0105) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:10: The using directive for 'System.Collections.Generic' appeared previously in this namespace
+[00:47:07] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:20: The type or namespace name 'MySqlConnectionStringBuilder' could not be found (are you missing a using directive or an assembly reference?)
+[00:47:07] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:21: The type or namespace name 'IUserRepository' could not be found (are you missing a using directive or an assembly reference?)
+[00:47:07] Resource main/dealerships started!
+[00:47:07] Started! Waiting for connections.
+[00:49:24] Terminating...
+[00:49:24] Stopping main/dealerships
+[00:49:24] Stopped main/dealerships!
+[00:49:24] Stopping main/login
+[00:49:24] Stopped main/login!
+[00:49:24] Stopping coords
+[00:49:24] Stopped coords!
+[00:49:24] Stopping freeroam
+[00:49:24] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 12:49:24 AM[00:49:24] Starting...
+[00:49:25] Loading resources...
+[00:49:25] Starting freeroam
+[00:49:25] Resource freeroam started!
+[00:49:25] Starting coords
+[00:49:25] Resource coords started!
+[00:49:25] Starting main/login
+[00:49:26] Resource main/login started!
+[00:49:26] Starting main/dealerships
+[00:49:26] EXCEPTION IN RESOURCE main/login INSIDE SCRIPTENGINE Login
+[00:49:26] System.IO.FileNotFoundException: Could not load file or assembly 'Insight.Database.Providers.MySql, Version=5.2.8.0, Culture=neutral, PublicKeyToken=f35c6ef87e515afc' or one of its dependencies. The system cannot find the file specified.
+File name: 'Insight.Database.Providers.MySql, Version=5.2.8.0, Culture=neutral, PublicKeyToken=f35c6ef87e515afc'
+   at Server.Login.API_onResourceStart()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<InvokeResourceStart>b__28_0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+[00:49:26] Error/warning while compiling script!
+[00:49:26] Warning (CS0105) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:10: The using directive for 'System.Collections.Generic' appeared previously in this namespace
+[00:49:26] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:21: The type or namespace name 'IUserRepository' could not be found (are you missing a using directive or an assembly reference?)
+[00:49:26] Resource main/dealerships started!
+[00:49:26] Started! Waiting for connections.
+[00:50:21] Terminating...
+[00:50:21] Stopping main/dealerships
+[00:50:21] Stopped main/dealerships!
+[00:50:21] Stopping main/login
+[00:50:21] Stopped main/login!
+[00:50:21] Stopping coords
+[00:50:21] Stopped coords!
+[00:50:21] Stopping freeroam
+[00:50:21] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 12:50:22 AM[00:50:22] Starting...
+[00:50:22] Loading resources...
+[00:50:22] Starting freeroam
+[00:50:23] Resource freeroam started!
+[00:50:23] Starting coords
+[00:50:23] Resource coords started!
+[00:50:23] Starting main/login
+[00:50:23] Resource main/login started!
+[00:50:23] Starting main/dealerships
+[00:50:23] EXCEPTION IN RESOURCE main/login INSIDE SCRIPTENGINE Login
+[00:50:23] System.IO.FileNotFoundException: Could not load file or assembly 'Insight.Database.Providers.MySql, Version=5.2.8.0, Culture=neutral, PublicKeyToken=f35c6ef87e515afc' or one of its dependencies. The system cannot find the file specified.
+File name: 'Insight.Database.Providers.MySql, Version=5.2.8.0, Culture=neutral, PublicKeyToken=f35c6ef87e515afc'
+   at Server.Login.API_onResourceStart()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<InvokeResourceStart>b__28_0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+[00:50:23] Error/warning while compiling script!
+[00:50:23] Warning (CS0105) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:10: The using directive for 'System.Collections.Generic' appeared previously in this namespace
+[00:50:23] Error (CS1502) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:136: The best overloaded method match for 'Server.IVehicleRepository.AddNewVehicle(GrandTheftMultiplayer.Server.Elements.Vehicle)' has some invalid arguments
+[00:50:23] Error (CS1503) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:136: Argument 1: cannot convert from 'Server.Veh' to 'GrandTheftMultiplayer.Server.Elements.Vehicle'
+[00:50:23] Resource main/dealerships started!
+[00:50:23] Started! Waiting for connections.
+[00:50:58] Terminating...
+[00:50:58] Stopping main/dealerships
+[00:50:58] Stopped main/dealerships!
+[00:50:58] Stopping main/login
+[00:50:58] Stopped main/login!
+[00:50:58] Stopping coords
+[00:50:58] Stopped coords!
+[00:50:58] Stopping freeroam
+[00:50:58] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 12:50:58 AM[00:50:58] Starting...
+[00:50:59] Loading resources...
+[00:50:59] Starting freeroam
+[00:50:59] Resource freeroam started!
+[00:50:59] Starting coords
+[00:50:59] Resource coords started!
+[00:50:59] Starting main/login
+[00:51:00] Resource main/login started!
+[00:51:00] Starting main/dealerships
+[00:51:00] EXCEPTION IN RESOURCE main/login INSIDE SCRIPTENGINE Login
+[00:51:00] System.IO.FileNotFoundException: Could not load file or assembly 'Insight.Database.Providers.MySql, Version=5.2.8.0, Culture=neutral, PublicKeyToken=f35c6ef87e515afc' or one of its dependencies. The system cannot find the file specified.
+File name: 'Insight.Database.Providers.MySql, Version=5.2.8.0, Culture=neutral, PublicKeyToken=f35c6ef87e515afc'
+   at Server.Login.API_onResourceStart()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<InvokeResourceStart>b__28_0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+[00:51:00] Resource main/dealerships started!
+[00:51:00] Started! Waiting for connections.
+[00:51:42] Terminating...
+[00:51:42] Stopping main/dealerships
+[00:51:42] Stopped main/dealerships!
+[00:51:42] Stopping main/login
+[00:51:42] Stopped main/login!
+[00:51:42] Stopping coords
+[00:51:42] Stopped coords!
+[00:51:42] Stopping freeroam
+[00:51:42] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 12:51:42 AM[00:51:42] Starting...
+[00:51:43] Loading resources...
+[00:51:43] Starting freeroam
+[00:51:43] Resource freeroam started!
+[00:51:43] Starting coords
+[00:51:43] Resource coords started!
+[00:51:43] Starting main/login
+[00:51:43] Resource main/login started!
+[00:51:43] Starting main/dealerships
+[00:51:43] EXCEPTION IN RESOURCE main/login INSIDE SCRIPTENGINE Login
+[00:51:43] System.IO.FileNotFoundException: Could not load file or assembly 'Insight.Database.Providers.MySql, Version=5.2.8.0, Culture=neutral, PublicKeyToken=f35c6ef87e515afc' or one of its dependencies. The system cannot find the file specified.
+File name: 'Insight.Database.Providers.MySql, Version=5.2.8.0, Culture=neutral, PublicKeyToken=f35c6ef87e515afc'
+   at Server.Login.API_onResourceStart()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<InvokeResourceStart>b__28_0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+[00:51:44] Error/warning while compiling script!
+[00:51:44] Warning (CS0105) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:10: The using directive for 'System.Collections.Generic' appeared previously in this namespace
+[00:51:44] Error (CS0012) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:20: The type 'System.Data.Common.DbConnectionStringBuilder' is defined in an assembly that is not referenced. You must add a reference to assembly 'System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'.
+[00:51:44] Resource main/dealerships started!
+[00:51:44] Started! Waiting for connections.
+[00:53:04] Terminating...
+[00:53:04] Stopping main/dealerships
+[00:53:04] Stopped main/dealerships!
+[00:53:04] Stopping main/login
+[00:53:04] Stopped main/login!
+[00:53:04] Stopping coords
+[00:53:04] Stopped coords!
+[00:53:04] Stopping freeroam
+[00:53:04] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 12:53:04 AM[00:53:04] Starting...
+[00:53:05] Loading resources...
+[00:53:05] Starting freeroam
+[00:53:05] Resource freeroam started!
+[00:53:05] Starting coords
+[00:53:05] Resource coords started!
+[00:53:05] Starting main/login
+[00:53:06] Resource main/login started!
+[00:53:06] Starting main/dealerships
+[00:53:06] EXCEPTION IN RESOURCE main/login INSIDE SCRIPTENGINE Login
+[00:53:06] System.IO.FileNotFoundException: Could not load file or assembly 'Insight.Database.Providers.MySql, Version=5.2.8.0, Culture=neutral, PublicKeyToken=f35c6ef87e515afc' or one of its dependencies. The system cannot find the file specified.
+File name: 'Insight.Database.Providers.MySql, Version=5.2.8.0, Culture=neutral, PublicKeyToken=f35c6ef87e515afc'
+   at Server.Login.API_onResourceStart()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<InvokeResourceStart>b__28_0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+[00:53:06] Error/warning while compiling script!
+[00:53:06] Error (CS0006) at :0: Metadata file '../System.Globalization.dll' could not be found
+[00:53:06] Error (CS0006) at :0: Metadata file '../System.Configuration.dll' could not be found
+[00:53:06] Error (CS0006) at :0: Metadata file '../System.Data.dll' could not be found
+[00:53:06] Resource main/dealerships started!
+[00:53:06] Started! Waiting for connections.
+[00:53:40] Terminating...
+[00:53:40] Stopping main/dealerships
+[00:53:41] Stopped main/dealerships!
+[00:53:41] Stopping main/login
+[00:53:41] Stopped main/login!
+[00:53:41] Stopping coords
+[00:53:41] Stopped coords!
+[00:53:41] Stopping freeroam
+[00:53:41] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 12:53:41 AM[00:53:41] Starting...
+[00:53:41] Loading resources...
+[00:53:41] Starting freeroam
+[00:53:42] Resource freeroam started!
+[00:53:42] Starting coords
+[00:53:42] Resource coords started!
+[00:53:42] Starting main/login
+[00:53:42] Error/warning while compiling script!
+[00:53:42] Error (CS0006) at :0: Metadata file '../System.Globalization.dll' could not be found
+[00:53:42] Error (CS0006) at :0: Metadata file '../System.Configuration.dll' could not be found
+[00:53:42] Error (CS0006) at :0: Metadata file '../System.Data.dll' could not be found
+[00:53:42] Resource main/login started!
+[00:53:42] Starting main/dealerships
+[00:53:42] Error/warning while compiling script!
+[00:53:42] Error (CS0006) at :0: Metadata file '../System.Globalization.dll' could not be found
+[00:53:42] Error (CS0006) at :0: Metadata file '../System.Configuration.dll' could not be found
+[00:53:42] Error (CS0006) at :0: Metadata file '../System.Data.dll' could not be found
+[00:53:42] Resource main/dealerships started!
+[00:53:42] Started! Waiting for connections.
+[00:54:02] Initiating connection: [192.168.0.10:56718]
+[00:54:02] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[00:54:02] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[00:54:36] Terminating...
+[00:54:36] Stopping main/dealerships
+[00:54:36] Stopped main/dealerships!
+[00:54:36] Stopping main/login
+[00:54:36] Stopped main/login!
+[00:54:36] Stopping coords
+[00:54:36] Stopped coords!
+[00:54:36] Stopping freeroam
+[00:54:36] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 12:54:37 AM[00:54:37] Starting...
+[00:54:37] Loading resources...
+[00:54:37] Starting freeroam
+[00:54:38] Resource freeroam started!
+[00:54:38] Starting coords
+[00:54:38] Resource coords started!
+[00:54:38] Starting main/login
+[00:54:38] Resource main/login started!
+[00:54:38] Starting main/dealerships
+[00:54:38] EXCEPTION IN RESOURCE main/login INSIDE SCRIPTENGINE Login
+[00:54:38] System.IO.FileNotFoundException: Could not load file or assembly 'Insight.Database.Providers.MySql, Version=5.2.8.0, Culture=neutral, PublicKeyToken=f35c6ef87e515afc' or one of its dependencies. The system cannot find the file specified.
+File name: 'Insight.Database.Providers.MySql, Version=5.2.8.0, Culture=neutral, PublicKeyToken=f35c6ef87e515afc'
+   at Server.Login.API_onResourceStart()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<InvokeResourceStart>b__28_0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+[00:54:38] Resource main/dealerships started!
+[00:54:38] Started! Waiting for connections.
+[00:59:01] Terminating...
+[00:59:01] Stopping main/dealerships
+[00:59:02] Stopped main/dealerships!
+[00:59:02] Stopping main/login
+[00:59:02] Stopped main/login!
+[00:59:02] Stopping coords
+[00:59:02] Stopped coords!
+[00:59:02] Stopping freeroam
+[00:59:02] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 12:59:02 AM[00:59:02] Starting...
+[00:59:02] Loading resources...
+[00:59:02] Starting freeroam
+[00:59:03] Resource freeroam started!
+[00:59:03] Starting coords
+[00:59:03] Resource coords started!
+[00:59:03] Starting main/login
+[00:59:03] Resource main/login started!
+[00:59:03] Starting main/dealerships
+[00:59:03] EXCEPTION IN RESOURCE main/login INSIDE SCRIPTENGINE Login
+[00:59:03] System.IO.FileNotFoundException: Could not load file or assembly 'Insight.Database.Providers.MySql, Version=5.2.8.0, Culture=neutral, PublicKeyToken=f35c6ef87e515afc' or one of its dependencies. The system cannot find the file specified.
+File name: 'Insight.Database.Providers.MySql, Version=5.2.8.0, Culture=neutral, PublicKeyToken=f35c6ef87e515afc'
+   at Server.Login.API_onResourceStart()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<InvokeResourceStart>b__28_0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+[00:59:03] Resource main/dealerships started!
+[00:59:03] Started! Waiting for connections.
+[00:59:26] Terminating...
+[00:59:26] Stopping main/dealerships
+[00:59:26] Stopped main/dealerships!
+[00:59:26] Stopping main/login
+[00:59:26] Stopped main/login!
+[00:59:26] Stopping coords
+[00:59:26] Stopped coords!
+[00:59:26] Stopping freeroam
+[00:59:26] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 12:59:26 AM[00:59:26] Starting...
+[00:59:27] Loading resources...
+[00:59:27] Starting freeroam
+[00:59:27] Resource freeroam started!
+[00:59:27] Starting coords
+[00:59:27] Resource coords started!
+[00:59:27] Starting main/login
+[00:59:27] Resource main/login started!
+[00:59:27] Starting main/dealerships
+[00:59:27] EXCEPTION IN RESOURCE main/login INSIDE SCRIPTENGINE Login
+[00:59:27] System.IO.FileNotFoundException: Could not load file or assembly 'Insight.Database.Providers.MySql, Version=5.2.8.0, Culture=neutral, PublicKeyToken=f35c6ef87e515afc' or one of its dependencies. The system cannot find the file specified.
+File name: 'Insight.Database.Providers.MySql, Version=5.2.8.0, Culture=neutral, PublicKeyToken=f35c6ef87e515afc'
+   at Server.Login.API_onResourceStart()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<InvokeResourceStart>b__28_0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+[00:59:28] Resource main/dealerships started!
+[00:59:28] Started! Waiting for connections.
+[00:59:42] Terminating...
+[00:59:42] Stopping main/dealerships
+[00:59:42] Stopped main/dealerships!
+[00:59:42] Stopping main/login
+[00:59:42] Stopped main/login!
+[00:59:42] Stopping coords
+[00:59:42] Stopped coords!
+[00:59:42] Stopping freeroam
+[00:59:43] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 12:59:43 AM[00:59:43] Starting...
+[00:59:43] Loading resources...
+[00:59:43] Starting freeroam
+[00:59:44] Resource freeroam started!
+[00:59:44] Starting coords
+[00:59:44] Resource coords started!
+[00:59:44] Starting main/login
+[00:59:44] Resource main/login started!
+[00:59:44] Starting main/dealerships
+[00:59:44] EXCEPTION IN RESOURCE main/login INSIDE SCRIPTENGINE Login
+[00:59:44] System.IO.FileNotFoundException: Could not load file or assembly 'Insight.Database, Version=5.2.8.0, Culture=neutral, PublicKeyToken=f35c6ef87e515afc' or one of its dependencies. The system cannot find the file specified.
+File name: 'Insight.Database, Version=5.2.8.0, Culture=neutral, PublicKeyToken=f35c6ef87e515afc'
+   at Server.Login.API_onResourceStart()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<InvokeResourceStart>b__28_0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+[00:59:44] Resource main/dealerships started!
+[00:59:44] Started! Waiting for connections.
+[01:01:00] Terminating...
+[01:01:00] Stopping main/dealerships
+[01:01:00] Stopped main/dealerships!
+[01:01:00] Stopping main/login
+[01:01:00] Stopped main/login!
+[01:01:00] Stopping coords
+[01:01:00] Stopped coords!
+[01:01:00] Stopping freeroam
+[01:01:00] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:01:00 AM[01:01:00] Starting...
+[01:01:01] Loading resources...
+[01:01:01] Starting freeroam
+[01:01:01] Resource freeroam started!
+[01:01:01] Starting coords
+[01:01:01] Resource coords started!
+[01:01:01] Starting main/login
+[01:01:01] Error/warning while compiling script!
+[01:01:02] Error (CS0006) at :0: Metadata file 'BCrypt.Net.dll' could not be found
+[01:01:02] Resource main/login started!
+[01:01:02] Starting main/dealerships
+[01:01:02] Resource main/dealerships started!
+[01:01:02] Started! Waiting for connections.
+[01:01:36] Terminating...
+[01:01:36] Stopping main/dealerships
+[01:01:36] Stopped main/dealerships!
+[01:01:36] Stopping main/login
+[01:01:36] Stopped main/login!
+[01:01:36] Stopping coords
+[01:01:36] Stopped coords!
+[01:01:36] Stopping freeroam
+[01:01:36] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:01:36 AM[01:01:36] Starting...
+[01:01:36] Loading resources...
+[01:01:36] Starting freeroam
+[01:01:37] Resource freeroam started!
+[01:01:37] Starting coords
+[01:01:37] Resource coords started!
+[01:01:37] Starting main/login
+[01:01:37] Resource main/login started!
+[01:01:37] Starting main/dealerships
+[01:01:37] Resource main/dealerships started!
+[01:01:37] Started! Waiting for connections.
+[01:01:48] Initiating connection: [192.168.0.10:56718]
+[01:01:48] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[01:01:48] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[01:01:48] EXCEPTION IN RESOURCE main/dealerships INSIDE SCRIPTENGINE dealerships
+[01:01:48] MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'vin' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Insight.Database.DBConnectionExtensions.ExecuteAndAutoClose[T](IDbConnection connection, Func`2 getCommand, Func`3 translate, CommandBehavior commandBehavior)
+   at Insight.Database.DBConnectionExtensions.Query[T](IDbConnection connection, String sql, Object parameters, IQueryReader`1 returns, CommandType commandType, CommandBehavior commandBehavior, Nullable`1 commandTimeout, IDbTransaction transaction, Object outputParameters)
+   at Server.IVehicleRepository0d6df756-26d1-4f80-92ca-c63722c176ea.AddNewVehicle(Veh veh)
+   at Server.dealerships.createVehicleHelper(VehicleHash model, Vector3 pos, Vector3 rot, Int32 ownerId)
+   at Server.dealerships.OnPlayerConnected(Client player)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass60_0.<InvokePlayerConnected>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[01:02:00] EXCEPTION IN RESOURCE main/dealerships INSIDE SCRIPTENGINE dealerships
+[01:02:00] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.dealerships.test(Client player)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass26_0.<InvokeVoidMethod>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[01:02:08] EXCEPTION IN RESOURCE main/dealerships INSIDE SCRIPTENGINE dealerships
+[01:02:08] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.dealerships.test(Client player)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass26_0.<InvokeVoidMethod>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[01:03:05] Terminating...
+[01:03:05] Stopping main/dealerships
+[01:03:05] Stopped main/dealerships!
+[01:03:05] Stopping main/login
+[01:03:05] Stopped main/login!
+[01:03:05] Stopping coords
+[01:03:05] Stopped coords!
+[01:03:05] Stopping freeroam
+[01:03:05] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:03:06 AM[01:03:06] Starting...
+[01:03:06] Loading resources...
+[01:03:06] Starting freeroam
+[01:03:07] Resource freeroam started!
+[01:03:07] Starting coords
+[01:03:07] Resource coords started!
+[01:03:07] Starting main/login
+[01:03:07] Resource main/login started!
+[01:03:07] Starting main/dealerships
+[01:03:07] Resource main/dealerships started!
+[01:03:07] Started! Waiting for connections.
+[01:03:19] Terminating...
+[01:03:19] Stopping main/dealerships
+[01:03:19] Stopped main/dealerships!
+[01:03:19] Stopping main/login
+[01:03:19] Stopped main/login!
+[01:03:19] Stopping coords
+[01:03:19] Stopped coords!
+[01:03:19] Stopping freeroam
+[01:03:19] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:03:20 AM[01:03:20] Starting...
+[01:03:20] Loading resources...
+[01:03:20] Starting freeroam
+[01:03:20] Resource freeroam started!
+[01:03:20] Starting coords
+[01:03:21] Resource coords started!
+[01:03:21] Starting main/login
+[01:03:21] Resource main/login started!
+[01:03:21] Starting main/dealerships
+[01:03:21] Resource main/dealerships started!
+[01:03:21] Started! Waiting for connections.
+[01:03:26] Initiating connection: [192.168.0.10:56718]
+[01:03:26] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[01:03:26] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[01:06:24] Terminating...
+[01:06:24] Stopping main/dealerships
+[01:06:24] Stopped main/dealerships!
+[01:06:24] Stopping main/login
+[01:06:24] Stopped main/login!
+[01:06:24] Stopping coords
+[01:06:24] Stopped coords!
+[01:06:24] Stopping freeroam
+[01:06:24] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:06:24 AM[01:06:24] Starting...
+[01:06:25] Loading resources...
+[01:06:25] Starting freeroam
+[01:06:25] Resource freeroam started!
+[01:06:25] Starting coords
+[01:06:25] Resource coords started!
+[01:06:25] Starting main/login
+[01:06:25] Resource main/login started!
+[01:06:25] Starting main/dealerships
+[01:06:26] Resource main/dealerships started!
+[01:06:26] Started! Waiting for connections.
+[01:06:34] Initiating connection: [192.168.0.10:56718]
+[01:06:34] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[01:06:34] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[01:11:29] Terminating...
+[01:11:29] Stopping main/dealerships
+[01:11:29] Stopped main/dealerships!
+[01:11:29] Stopping main/login
+[01:11:29] Stopped main/login!
+[01:11:29] Stopping coords
+[01:11:29] Stopped coords!
+[01:11:29] Stopping freeroam
+[01:11:29] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:11:29 AM[01:11:29] Starting...
+[01:11:29] Loading resources...
+[01:11:30] Starting freeroam
+[01:11:30] Resource freeroam started!
+[01:11:30] Starting doormanager
+[01:11:30] Resource doormanager started!
+[01:11:30] Starting main/login
+[01:11:31] Resource main/login started!
+[01:11:31] Starting main/dealerships
+[01:11:31] Resource main/dealerships started!
+[01:11:31] Started! Waiting for connections.
+[01:11:36] Initiating connection: [192.168.0.10:56718]
+[01:11:36] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[01:11:37] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[01:16:08] Terminating...
+[01:16:08] Stopping main/dealerships
+[01:16:08] Stopped main/dealerships!
+[01:16:08] Stopping main/login
+[01:16:08] Stopped main/login!
+[01:16:08] Stopping doormanager
+[01:16:08] Stopped doormanager!
+[01:16:08] Stopping freeroam
+[01:16:08] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:16:08 AM[01:16:08] Starting...
+[01:16:08] Loading resources...
+[01:16:09] Starting freeroam
+[01:16:09] Resource freeroam started!
+[01:16:09] Starting doormanager
+[01:16:09] Resource doormanager started!
+[01:16:09] Starting main/login
+[01:16:09] Resource main/login started!
+[01:16:09] Starting main/dealerships
+[01:16:10] Resource main/dealerships started!
+[01:16:10] Started! Waiting for connections.
+[01:17:39] Terminating...
+[01:17:39] Stopping main/dealerships
+[01:17:39] Stopped main/dealerships!
+[01:17:39] Stopping main/login
+[01:17:39] Stopped main/login!
+[01:17:39] Stopping doormanager
+[01:17:39] Stopped doormanager!
+[01:17:39] Stopping freeroam
+[01:17:39] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:17:39 AM[01:17:39] Starting...
+[01:17:39] Loading resources...
+[01:17:39] Starting freeroam
+[01:17:40] Resource freeroam started!
+[01:17:40] Starting doormanager
+[01:17:40] Resource doormanager started!
+[01:17:40] Starting main/login
+[01:17:40] Resource main/login started!
+[01:17:40] Starting main/dealerships
+[01:17:41] Resource main/dealerships started!
+[01:17:41] Started! Waiting for connections.
+[01:26:16] Terminating...
+[01:26:16] Stopping main/dealerships
+[01:26:16] Stopped main/dealerships!
+[01:26:16] Stopping main/login
+[01:26:16] Stopped main/login!
+[01:26:16] Stopping doormanager
+[01:26:16] Stopped doormanager!
+[01:26:16] Stopping freeroam
+[01:26:17] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:26:17 AM[01:26:17] Starting...
+[01:26:17] Loading resources...
+[01:26:17] Starting freeroam
+[01:26:18] Resource freeroam started!
+[01:26:18] Starting doormanager
+[01:26:18] Resource doormanager started!
+[01:26:18] Starting main/login
+[01:26:18] Resource main/login started!
+[01:26:18] Starting main/dealerships
+[01:26:18] Error/warning while compiling script!
+[01:26:18] Error (CS0136) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:39: A local variable named 'temp' cannot be declared in this scope because it would give a different meaning to 'temp', which is already used in a 'parent or current' scope to denote something else
+[01:26:18] Error (CS0136) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:48: A local variable named 'temp' cannot be declared in this scope because it would give a different meaning to 'temp', which is already used in a 'parent or current' scope to denote something else
+[01:26:18] Resource main/dealerships started!
+[01:26:18] Started! Waiting for connections.
+[01:26:40] Terminating...
+[01:26:40] Stopping main/dealerships
+[01:26:40] Stopped main/dealerships!
+[01:26:40] Stopping main/login
+[01:26:40] Stopped main/login!
+[01:26:40] Stopping doormanager
+[01:26:40] Stopped doormanager!
+[01:26:40] Stopping freeroam
+[01:26:40] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:26:41 AM[01:26:41] Starting...
+[01:26:41] Loading resources...
+[01:26:41] Starting freeroam
+[01:26:41] Resource freeroam started!
+[01:26:42] Starting doormanager
+[01:26:42] Resource doormanager started!
+[01:26:42] Starting main/login
+[01:26:42] Resource main/login started!
+[01:26:42] Starting main/dealerships
+[01:26:42] Resource main/dealerships started!
+[01:26:42] Started! Waiting for connections.
+[01:26:48] Initiating connection: [192.168.0.10:56718]
+[01:26:48] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[01:26:48] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[01:26:49] EXCEPTION IN RESOURCE main/dealerships INSIDE SCRIPTENGINE dealerships
+[01:26:49] MySql.Data.MySqlClient.MySqlException (0x80004005): Procedure or function 'GetVehicleByVin' cannot be found in database 'gtanserver'.
+   at MySql.Data.MySqlClient.ProcedureCache.GetProcData(MySqlConnection connection, String spName)
+   at MySql.Data.MySqlClient.ProcedureCache.AddNew(MySqlConnection connection, String spName)
+   at MySql.Data.MySqlClient.ProcedureCache.GetProcedure(MySqlConnection conn, String spName, String cacheKey)
+   at MySql.Data.MySqlClient.MySqlCommandBuilder.DeriveParameters(MySqlCommand command)
+   at Insight.Database.Providers.MySql.MySqlInsightDbProvider.DeriveParametersFromStoredProcedure(IDbCommand command)
+   at Insight.Database.Providers.InsightDbProvider.<>c__DisplayClass3.<DeriveParameters>b__0(IDbConnection _)
+   at Insight.Database.DBConnectionExtensions.ExecuteAndAutoClose[T](IDbConnection connection, Func`2 getCommand, Func`3 translate, CommandBehavior commandBehavior)
+   at Insight.Database.Providers.InsightDbProvider.DeriveParameters(IDbCommand command)
+   at Insight.Database.CodeGenerator.DbParameterGenerator.CreateClassInputParameterGenerator(IDbCommand command, Type type)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Insight.Database.DBCommandExtensions.AddParameters(IDbCommand cmd, Object parameters)
+   at Insight.Database.DBConnectionExtensions.CreateCommand(IDbConnection connection, String sql, Object parameters, CommandType commandType, Nullable`1 commandTimeout, IDbTransaction transaction)
+   at Insight.Database.DBConnectionExtensions.<>c__DisplayClass69`1.<Query>b__67(IDbConnection c)
+   at Insight.Database.DBConnectionExtensions.ExecuteAndAutoClose[T](IDbConnection connection, Func`2 getCommand, Func`3 translate, CommandBehavior commandBehavior)
+   at Insight.Database.DBConnectionExtensions.Query[T](IDbConnection connection, String sql, Object parameters, IQueryReader`1 returns, CommandType commandType, CommandBehavior commandBehavior, Nullable`1 commandTimeout, IDbTransaction transaction, Object outputParameters)
+   at Server.IVehicleRepositoryca39af63-f867-4e60-8389-b28f536301b3.GetVehicleByVin(Int32 vin)
+   at Server.Veh..ctor(String name, Int32 ownerId)
+   at Server.dealerships.createVehicleHelper(VehicleHash model, Vector3 pos, Vector3 rot, Int32 ownerId)
+   at Server.dealerships.OnPlayerConnected(Client player)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass60_0.<InvokePlayerConnected>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[01:30:21] Terminating...
+[01:30:21] Stopping main/dealerships
+[01:30:21] Stopped main/dealerships!
+[01:30:21] Stopping main/login
+[01:30:21] Stopped main/login!
+[01:30:21] Stopping doormanager
+[01:30:21] Stopped doormanager!
+[01:30:21] Stopping freeroam
+[01:30:21] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:30:21 AM[01:30:21] Starting...
+[01:30:22] Loading resources...
+[01:30:22] Starting freeroam
+[01:30:22] Resource freeroam started!
+[01:30:22] Starting doormanager
+[01:30:22] Resource doormanager started!
+[01:30:22] Starting main/login
+[01:30:23] Resource main/login started!
+[01:30:23] Starting main/dealerships
+[01:30:23] Resource main/dealerships started!
+[01:30:23] Started! Waiting for connections.
+[01:30:28] Initiating connection: [192.168.0.10:56718]
+[01:30:28] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[01:30:28] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[01:33:17] Terminating...
+[01:33:17] Stopping main/dealerships
+[01:33:17] Stopped main/dealerships!
+[01:33:17] Stopping main/login
+[01:33:17] Stopped main/login!
+[01:33:17] Stopping doormanager
+[01:33:17] Stopped doormanager!
+[01:33:17] Stopping freeroam
+[01:33:17] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:33:17 AM[01:33:17] Starting...
+[01:33:18] Loading resources...
+[01:33:18] Starting freeroam
+[01:33:18] Resource freeroam started!
+[01:33:18] Starting doormanager
+[01:33:19] Resource doormanager started!
+[01:33:19] Starting main/login
+[01:33:19] Resource main/login started!
+[01:33:19] Starting main/dealerships
+[01:33:19] Error/warning while compiling script!
+[01:33:19] Error (CS0120) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:38: An object reference is required for the non-static field, method, or property 'GrandTheftMultiplayer.Server.API.ServerAPI.sendChatMessageToAll(string)'
+[01:33:19] Error (CS0120) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:48: An object reference is required for the non-static field, method, or property 'GrandTheftMultiplayer.Server.API.ServerAPI.sendChatMessageToAll(string)'
+[01:33:19] Resource main/dealerships started!
+[01:33:19] Started! Waiting for connections.
+[01:33:47] Terminating...
+[01:33:47] Stopping main/dealerships
+[01:33:47] Stopped main/dealerships!
+[01:33:47] Stopping main/login
+[01:33:47] Stopped main/login!
+[01:33:47] Stopping doormanager
+[01:33:47] Stopped doormanager!
+[01:33:47] Stopping freeroam
+[01:33:47] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:33:48 AM[01:33:48] Starting...
+[01:33:48] Loading resources...
+[01:33:48] Starting freeroam
+[01:33:49] Resource freeroam started!
+[01:33:49] Starting doormanager
+[01:33:49] Resource doormanager started!
+[01:33:49] Starting main/login
+[01:33:49] Resource main/login started!
+[01:33:49] Starting main/dealerships
+[01:33:49] Error/warning while compiling script!
+[01:33:49] Error (CS1525) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:38: Invalid expression term 'static'
+[01:33:49] Error (CS1002) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:38: ; expected
+[01:33:49] Resource main/dealerships started!
+[01:33:49] Started! Waiting for connections.
+[01:33:59] Terminating...
+[01:33:59] Stopping main/dealerships
+[01:33:59] Stopped main/dealerships!
+[01:33:59] Stopping main/login
+[01:33:59] Stopped main/login!
+[01:33:59] Stopping doormanager
+[01:33:59] Stopped doormanager!
+[01:33:59] Stopping freeroam
+[01:33:59] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:33:59 AM[01:33:59] Starting...
+[01:33:59] Loading resources...
+[01:34:00] Starting freeroam
+[01:34:00] Resource freeroam started!
+[01:34:00] Starting doormanager
+[01:34:00] Resource doormanager started!
+[01:34:00] Starting main/login
+[01:34:00] Resource main/login started!
+[01:34:00] Starting main/dealerships
+[01:34:01] Error/warning while compiling script!
+[01:34:01] Error (CS0120) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:38: An object reference is required for the non-static field, method, or property 'GrandTheftMultiplayer.Server.API.ServerAPI.sendChatMessageToAll(string)'
+[01:34:01] Error (CS0120) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:48: An object reference is required for the non-static field, method, or property 'GrandTheftMultiplayer.Server.API.ServerAPI.sendChatMessageToAll(string)'
+[01:34:01] Resource main/dealerships started!
+[01:34:01] Started! Waiting for connections.
+[01:34:39] Terminating...
+[01:34:39] Stopping main/dealerships
+[01:34:39] Stopped main/dealerships!
+[01:34:39] Stopping main/login
+[01:34:39] Stopped main/login!
+[01:34:39] Stopping doormanager
+[01:34:39] Stopped doormanager!
+[01:34:39] Stopping freeroam
+[01:34:39] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:34:39 AM[01:34:39] Starting...
+[01:34:40] Loading resources...
+[01:34:40] Starting freeroam
+[01:34:40] Resource freeroam started!
+[01:34:40] Starting doormanager
+[01:34:40] Resource doormanager started!
+[01:34:40] Starting main/login
+[01:34:40] Resource main/login started!
+[01:34:40] Starting main/dealerships
+[01:34:41] Error/warning while compiling script!
+[01:34:41] Error (CS0103) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:38: The name 'console' does not exist in the current context
+[01:34:41] Error (CS0120) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:48: An object reference is required for the non-static field, method, or property 'GrandTheftMultiplayer.Server.API.ServerAPI.sendChatMessageToAll(string)'
+[01:34:41] Resource main/dealerships started!
+[01:34:41] Started! Waiting for connections.
+[01:34:59] Terminating...
+[01:34:59] Stopping main/dealerships
+[01:34:59] Stopped main/dealerships!
+[01:34:59] Stopping main/login
+[01:34:59] Stopped main/login!
+[01:34:59] Stopping doormanager
+[01:34:59] Stopped doormanager!
+[01:34:59] Stopping freeroam
+[01:34:59] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:35:00 AM[01:35:00] Starting...
+[01:35:00] Loading resources...
+[01:35:00] Starting freeroam
+[01:35:01] Resource freeroam started!
+[01:35:01] Starting doormanager
+[01:35:01] Resource doormanager started!
+[01:35:01] Starting main/login
+[01:35:01] Resource main/login started!
+[01:35:01] Starting main/dealerships
+[01:35:01] Error/warning while compiling script!
+[01:35:01] Error (CS0103) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\Vehicle.cs:38: The name 'console' does not exist in the current context
+[01:35:01] Resource main/dealerships started!
+[01:35:01] Started! Waiting for connections.
+[01:38:40] Terminating...
+[01:38:40] Stopping main/dealerships
+[01:38:40] Stopped main/dealerships!
+[01:38:40] Stopping main/login
+[01:38:40] Stopped main/login!
+[01:38:40] Stopping doormanager
+[01:38:40] Stopped doormanager!
+[01:38:40] Stopping freeroam
+[01:38:40] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:38:40 AM[01:38:40] Starting...
+[01:38:41] Loading resources...
+[01:38:41] Starting freeroam
+[01:38:41] Resource freeroam started!
+[01:38:41] Starting doormanager
+[01:38:41] Resource doormanager started!
+[01:38:41] Starting main/login
+[01:38:42] Resource main/login started!
+[01:38:42] Starting main/dealerships
+[01:38:42] Error/warning while compiling script!
+[01:38:42] Error (CS1061) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:92: 'GrandTheftMultiplayer.Server.API.API' does not contain a definition for 'sendChatMessage' and no extension method 'sendChatMessage' accepting a first argument of type 'GrandTheftMultiplayer.Server.API.API' could be found (are you missing a using directive or an assembly reference?)
+[01:38:42] Error (CS0103) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:92: The name 'getEntityData' does not exist in the current context
+[01:38:42] Resource main/dealerships started!
+[01:38:42] Started! Waiting for connections.
+[01:39:04] Terminating...
+[01:39:04] Stopping main/dealerships
+[01:39:04] Stopped main/dealerships!
+[01:39:04] Stopping main/login
+[01:39:04] Stopped main/login!
+[01:39:04] Stopping doormanager
+[01:39:04] Stopped doormanager!
+[01:39:04] Stopping freeroam
+[01:39:04] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:39:04 AM[01:39:04] Starting...
+[01:39:05] Loading resources...
+[01:39:05] Starting freeroam
+[01:39:05] Resource freeroam started!
+[01:39:05] Starting doormanager
+[01:39:05] Resource doormanager started!
+[01:39:05] Starting main/login
+[01:39:06] Resource main/login started!
+[01:39:06] Starting main/dealerships
+[01:39:06] Error/warning while compiling script!
+[01:39:06] Error (CS0103) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:92: The name 'getEntityData' does not exist in the current context
+[01:39:06] Resource main/dealerships started!
+[01:39:06] Started! Waiting for connections.
+[01:39:26] Terminating...
+[01:39:26] Stopping main/dealerships
+[01:39:26] Stopped main/dealerships!
+[01:39:26] Stopping main/login
+[01:39:26] Stopped main/login!
+[01:39:26] Stopping doormanager
+[01:39:26] Stopped doormanager!
+[01:39:26] Stopping freeroam
+[01:39:27] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:39:27 AM[01:39:27] Starting...
+[01:39:27] Loading resources...
+[01:39:27] Starting freeroam
+[01:39:28] Resource freeroam started!
+[01:39:28] Starting doormanager
+[01:39:28] Resource doormanager started!
+[01:39:28] Starting main/login
+[01:39:28] Resource main/login started!
+[01:39:28] Starting main/dealerships
+[01:39:28] Resource main/dealerships started!
+[01:39:28] Started! Waiting for connections.
+[01:39:34] Initiating connection: [192.168.0.10:56718]
+[01:39:34] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[01:39:34] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[01:39:36] EXCEPTION IN RESOURCE main/dealerships INSIDE SCRIPTENGINE dealerships
+[01:39:36] Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure , CallSite , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   at Server.dealerships.unlockVehicle(Client player, NetHandle vehicle)
+   at Server.dealerships.OnClientEventTrigger(Client player, String eventName, Object[] arguments)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass59_0.<InvokeClientEvent>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[01:39:46] EXCEPTION IN RESOURCE main/dealerships INSIDE SCRIPTENGINE dealerships
+[01:39:46] Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure , CallSite , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   at Server.dealerships.unlockVehicle(Client player, NetHandle vehicle)
+   at Server.dealerships.OnClientEventTrigger(Client player, String eventName, Object[] arguments)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass59_0.<InvokeClientEvent>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[01:39:49] EXCEPTION IN RESOURCE main/dealerships INSIDE SCRIPTENGINE dealerships
+[01:39:49] Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure , CallSite , Object )
+   at Server.dealerships.unlockVehicle(Client player, NetHandle vehicle)
+   at Server.dealerships.OnClientEventTrigger(Client player, String eventName, Object[] arguments)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass59_0.<InvokeClientEvent>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[01:39:56] EXCEPTION IN RESOURCE main/dealerships INSIDE SCRIPTENGINE dealerships
+[01:39:56] Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure , CallSite , Object )
+   at Server.dealerships.unlockVehicle(Client player, NetHandle vehicle)
+   at Server.dealerships.OnClientEventTrigger(Client player, String eventName, Object[] arguments)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass59_0.<InvokeClientEvent>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[01:39:56] EXCEPTION IN RESOURCE main/dealerships INSIDE SCRIPTENGINE dealerships
+[01:39:56] Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure , CallSite , Object )
+   at Server.dealerships.unlockVehicle(Client player, NetHandle vehicle)
+   at Server.dealerships.OnClientEventTrigger(Client player, String eventName, Object[] arguments)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass59_0.<InvokeClientEvent>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[01:42:11] Terminating...
+[01:42:11] Stopping main/dealerships
+[01:42:11] Stopped main/dealerships!
+[01:42:11] Stopping main/login
+[01:42:11] Stopped main/login!
+[01:42:11] Stopping doormanager
+[01:42:11] Stopped doormanager!
+[01:42:11] Stopping freeroam
+[01:42:11] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:42:11 AM[01:42:11] Starting...
+[01:42:12] Loading resources...
+[01:42:12] Starting freeroam
+[01:42:12] Resource freeroam started!
+[01:42:12] Starting doormanager
+[01:42:13] Resource doormanager started!
+[01:42:13] Starting main/login
+[01:42:13] Resource main/login started!
+[01:42:13] Starting main/dealerships
+[01:42:13] Error/warning while compiling script!
+[01:42:13] Error (CS1501) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:92: No overload for method 'getEntityData' takes 1 arguments
+[01:42:13] Resource main/dealerships started!
+[01:42:13] Started! Waiting for connections.
+[01:42:51] Terminating...
+[01:42:51] Stopping main/dealerships
+[01:42:51] Stopped main/dealerships!
+[01:42:51] Stopping main/login
+[01:42:51] Stopped main/login!
+[01:42:51] Stopping doormanager
+[01:42:51] Stopped doormanager!
+[01:42:51] Stopping freeroam
+[01:42:51] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:42:52 AM[01:42:52] Starting...
+[01:42:52] Loading resources...
+[01:42:52] Starting freeroam
+[01:42:52] Resource freeroam started!
+[01:42:53] Starting doormanager
+[01:42:53] Resource doormanager started!
+[01:42:53] Starting main/login
+[01:42:53] Resource main/login started!
+[01:42:53] Starting main/dealerships
+[01:42:53] Error/warning while compiling script!
+[01:42:53] Error (CS1501) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:92: No overload for method 'getEntityData' takes 1 arguments
+[01:42:53] Error (CS1501) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:92: No overload for method 'fromJson' takes 2 arguments
+[01:42:53] Resource main/dealerships started!
+[01:42:53] Started! Waiting for connections.
+[01:43:11] Terminating...
+[01:43:11] Stopping main/dealerships
+[01:43:11] Stopped main/dealerships!
+[01:43:11] Stopping main/login
+[01:43:11] Stopped main/login!
+[01:43:11] Stopping doormanager
+[01:43:11] Stopped doormanager!
+[01:43:11] Stopping freeroam
+[01:43:11] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:43:11 AM[01:43:11] Starting...
+[01:43:12] Loading resources...
+[01:43:12] Starting freeroam
+[01:43:12] Resource freeroam started!
+[01:43:12] Starting doormanager
+[01:43:12] Resource doormanager started!
+[01:43:12] Starting main/login
+[01:43:13] Resource main/login started!
+[01:43:13] Starting main/dealerships
+[01:43:13] Resource main/dealerships started!
+[01:43:13] Started! Waiting for connections.
+[01:43:18] Initiating connection: [192.168.0.10:56718]
+[01:43:18] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[01:43:18] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[01:43:21] EXCEPTION IN RESOURCE main/dealerships INSIDE SCRIPTENGINE dealerships
+[01:43:21] System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at System.IO.StringReader..ctor(String s)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at GrandTheftMultiplayer.Server.API.ServerAPI.fromJson(String json)
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at Server.dealerships.unlockVehicle(Client player, NetHandle vehicle)
+   at Server.dealerships.OnClientEventTrigger(Client player, String eventName, Object[] arguments)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass59_0.<InvokeClientEvent>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[01:48:23] Terminating...
+[01:48:23] Stopping main/dealerships
+[01:48:23] Stopped main/dealerships!
+[01:48:23] Stopping main/login
+[01:48:23] Stopped main/login!
+[01:48:23] Stopping doormanager
+[01:48:23] Stopped doormanager!
+[01:48:23] Stopping freeroam
+[01:48:23] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:48:23 AM[01:48:23] Starting...
+[01:48:24] Loading resources...
+[01:48:24] Starting freeroam
+[01:48:24] Resource freeroam started!
+[01:48:24] Starting doormanager
+[01:48:25] Resource doormanager started!
+[01:48:25] Starting main/login
+[01:48:25] Resource main/login started!
+[01:48:25] Starting main/dealerships
+[01:48:25] Resource main/dealerships started!
+[01:48:25] Started! Waiting for connections.
+[01:48:35] Initiating connection: [192.168.0.10:56718]
+[01:48:35] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[01:48:35] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[01:48:38] EXCEPTION IN RESOURCE main/dealerships INSIDE SCRIPTENGINE dealerships
+[01:48:38] System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at System.IO.StringReader..ctor(String s)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at GrandTheftMultiplayer.Server.API.ServerAPI.fromJson(String json)
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at Server.dealerships.unlockVehicle(Client player, NetHandle vehicle)
+   at Server.dealerships.OnClientEventTrigger(Client player, String eventName, Object[] arguments)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass59_0.<InvokeClientEvent>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[01:48:47] EXCEPTION IN RESOURCE main/dealerships INSIDE SCRIPTENGINE dealerships
+[01:48:47] Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Operator '==' cannot be applied to operands of type 'int' and 'Newtonsoft.Json.Linq.JValue'
+   at CallSite.Target(Closure , CallSite , Object , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at Server.dealerships.unlockVehicle(Client player, NetHandle vehicle)
+   at Server.dealerships.OnClientEventTrigger(Client player, String eventName, Object[] arguments)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass59_0.<InvokeClientEvent>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[01:48:52] EXCEPTION IN RESOURCE main/dealerships INSIDE SCRIPTENGINE dealerships
+[01:48:52] Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Operator '==' cannot be applied to operands of type 'int' and 'Newtonsoft.Json.Linq.JValue'
+   at CallSite.Target(Closure , CallSite , Object , Object )
+   at Server.dealerships.unlockVehicle(Client player, NetHandle vehicle)
+   at Server.dealerships.OnClientEventTrigger(Client player, String eventName, Object[] arguments)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass59_0.<InvokeClientEvent>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[01:50:01] Terminating...
+[01:50:01] Stopping main/dealerships
+[01:50:01] Stopped main/dealerships!
+[01:50:01] Stopping main/login
+[01:50:01] Stopped main/login!
+[01:50:01] Stopping doormanager
+[01:50:01] Stopped doormanager!
+[01:50:01] Stopping freeroam
+[01:50:01] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:50:02 AM[01:50:02] Starting...
+[01:50:02] Loading resources...
+[01:50:02] Starting freeroam
+[01:50:03] Resource freeroam started!
+[01:50:03] Starting doormanager
+[01:50:03] Resource doormanager started!
+[01:50:03] Starting main/login
+[01:50:03] Resource main/login started!
+[01:50:03] Starting main/dealerships
+[01:50:03] Resource main/dealerships started!
+[01:50:03] Started! Waiting for connections.
+[01:50:10] Initiating connection: [192.168.0.10:56718]
+[01:50:10] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[01:50:10] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[01:50:12] EXCEPTION IN RESOURCE main/dealerships INSIDE SCRIPTENGINE dealerships
+[01:50:12] System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at System.IO.StringReader..ctor(String s)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at GrandTheftMultiplayer.Server.API.ServerAPI.fromJson(String json)
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at Server.dealerships.unlockVehicle(Client player, NetHandle vehicle)
+   at Server.dealerships.OnClientEventTrigger(Client player, String eventName, Object[] arguments)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass59_0.<InvokeClientEvent>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[01:50:41] EXCEPTION IN RESOURCE main/dealerships INSIDE SCRIPTENGINE dealerships
+[01:50:41] System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at System.IO.StringReader..ctor(String s)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at GrandTheftMultiplayer.Server.API.ServerAPI.fromJson(String json)
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at Server.dealerships.unlockVehicle(Client player, NetHandle vehicle)
+   at Server.dealerships.OnClientEventTrigger(Client player, String eventName, Object[] arguments)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass59_0.<InvokeClientEvent>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[01:56:21] Terminating...
+[01:56:21] Stopping main/dealerships
+[01:56:21] Stopped main/dealerships!
+[01:56:21] Stopping main/login
+[01:56:21] Stopped main/login!
+[01:56:21] Stopping doormanager
+[01:56:21] Stopped doormanager!
+[01:56:21] Stopping freeroam
+[01:56:21] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:56:21 AM[01:56:21] Starting...
+[01:56:22] Loading resources...
+[01:56:22] Starting freeroam
+[01:56:22] Resource freeroam started!
+[01:56:22] Starting doormanager
+[01:56:22] Resource doormanager started!
+[01:56:22] Starting main/login
+[01:56:23] Resource main/login started!
+[01:56:23] Starting main/dealerships
+[01:56:23] Error/warning while compiling script!
+[01:56:23] Error (CS0029) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:64: Cannot implicitly convert type 'GrandTheftMultiplayer.Shared.NetHandle' to 'GrandTheftMultiplayer.Server.Elements.Vehicle'
+[01:56:23] Error (CS0103) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:65: The name 'getVehicleDoorState' does not exist in the current context
+[01:56:23] Error (CS0029) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:73: Cannot implicitly convert type 'GrandTheftMultiplayer.Shared.NetHandle' to 'GrandTheftMultiplayer.Server.Elements.Vehicle'
+[01:56:23] Resource main/dealerships started!
+[01:56:23] Started! Waiting for connections.
+[01:56:40] Terminating...
+[01:56:40] Stopping main/dealerships
+[01:56:40] Stopped main/dealerships!
+[01:56:40] Stopping main/login
+[01:56:40] Stopped main/login!
+[01:56:40] Stopping doormanager
+[01:56:40] Stopped doormanager!
+[01:56:40] Stopping freeroam
+[01:56:40] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:56:40 AM[01:56:40] Starting...
+[01:56:41] Loading resources...
+[01:56:41] Starting freeroam
+[01:56:41] Resource freeroam started!
+[01:56:41] Starting doormanager
+[01:56:41] Resource doormanager started!
+[01:56:41] Starting main/login
+[01:56:41] Resource main/login started!
+[01:56:41] Starting main/dealerships
+[01:56:42] Error/warning while compiling script!
+[01:56:42] Error (CS0103) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:65: The name 'getVehicleDoorState' does not exist in the current context
+[01:56:42] Resource main/dealerships started!
+[01:56:42] Started! Waiting for connections.
+[01:58:03] Terminating...
+[01:58:03] Stopping main/dealerships
+[01:58:03] Stopped main/dealerships!
+[01:58:03] Stopping main/login
+[01:58:03] Stopped main/login!
+[01:58:03] Stopping doormanager
+[01:58:04] Stopped doormanager!
+[01:58:04] Stopping freeroam
+[01:58:04] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:58:04 AM[01:58:04] Starting...
+[01:58:04] Loading resources...
+[01:58:04] Starting freeroam
+[01:58:05] Resource freeroam started!
+[01:58:05] Starting doormanager
+[01:58:05] Resource doormanager started!
+[01:58:05] Starting main/login
+[01:58:05] Resource main/login started!
+[01:58:05] Starting main/dealerships
+[01:58:05] Error/warning while compiling script!
+[01:58:05] Error (CS0103) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:65: The name 'getVehicleDoorState' does not exist in the current context
+[01:58:05] Error (CS1061) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:73: 'GrandTheftMultiplayer.Server.API.API' does not contain a definition for 'getClosestVehicleFromPlayer' and no extension method 'getClosestVehicleFromPlayer' accepting a first argument of type 'GrandTheftMultiplayer.Server.API.API' could be found (are you missing a using directive or an assembly reference?)
+[01:58:05] Resource main/dealerships started!
+[01:58:05] Started! Waiting for connections.
+[01:58:29] Terminating...
+[01:58:29] Stopping main/dealerships
+[01:58:29] Stopped main/dealerships!
+[01:58:29] Stopping main/login
+[01:58:29] Stopped main/login!
+[01:58:29] Stopping doormanager
+[01:58:29] Stopped doormanager!
+[01:58:29] Stopping freeroam
+[01:58:29] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:58:29 AM[01:58:29] Starting...
+[01:58:29] Loading resources...
+[01:58:30] Starting freeroam
+[01:58:30] Resource freeroam started!
+[01:58:30] Starting doormanager
+[01:58:30] Resource doormanager started!
+[01:58:30] Starting main/login
+[01:58:30] Resource main/login started!
+[01:58:30] Starting main/dealerships
+[01:58:31] Resource main/dealerships started!
+[01:58:31] Started! Waiting for connections.
+[01:58:36] Initiating connection: [192.168.0.10:56718]
+[01:58:36] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[01:58:36] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[01:58:38] EXCEPTION IN RESOURCE main/dealerships INSIDE SCRIPTENGINE dealerships
+[01:58:38] System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at System.IO.StringReader..ctor(String s)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at GrandTheftMultiplayer.Server.API.ServerAPI.fromJson(String json)
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at Server.dealerships.unlockVehicle(Client player, NetHandle vehicle)
+   at Server.dealerships.OnClientEventTrigger(Client player, String eventName, Object[] arguments)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass59_0.<InvokeClientEvent>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[01:58:52] EXCEPTION IN RESOURCE main/dealerships INSIDE SCRIPTENGINE dealerships
+[01:58:52] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at System.IO.StringReader..ctor(String s)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at Server.dealerships.purchase(Client player)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass26_0.<InvokeVoidMethod>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[02:00:15] Terminating...
+[02:00:15] Stopping main/dealerships
+[02:00:15] Stopped main/dealerships!
+[02:00:15] Stopping main/login
+[02:00:15] Stopped main/login!
+[02:00:15] Stopping doormanager
+[02:00:15] Stopped doormanager!
+[02:00:15] Stopping freeroam
+[02:00:15] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 2:00:16 AM[02:00:16] Starting...
+[02:00:16] Loading resources...
+[02:00:16] Starting freeroam
+[02:00:17] Resource freeroam started!
+[02:00:17] Starting doormanager
+[02:00:17] Resource doormanager started!
+[02:00:17] Starting main/login
+[02:00:17] Resource main/login started!
+[02:00:17] Starting main/dealerships
+[02:00:17] Resource main/dealerships started!
+[02:00:17] Started! Waiting for connections.
+[02:00:23] Initiating connection: [192.168.0.10:56718]
+[02:00:23] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[02:00:23] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[02:00:25] EXCEPTION IN RESOURCE main/dealerships INSIDE SCRIPTENGINE dealerships
+[02:00:25] System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at System.IO.StringReader..ctor(String s)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at GrandTheftMultiplayer.Server.API.ServerAPI.fromJson(String json)
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at Server.dealerships.unlockVehicle(Client player, NetHandle vehicle)
+   at Server.dealerships.OnClientEventTrigger(Client player, String eventName, Object[] arguments)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass59_0.<InvokeClientEvent>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[02:07:10] Terminating...
+[02:07:10] Stopping main/dealerships
+[02:07:10] Stopped main/dealerships!
+[02:07:10] Stopping main/login
+[02:07:10] Stopped main/login!
+[02:07:10] Stopping doormanager
+[02:07:10] Stopped doormanager!
+[02:07:11] Stopping freeroam
+[02:07:11] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 2:07:11 AM[02:07:11] Starting...
+[02:07:11] Loading resources...
+[02:07:11] Starting freeroam
+[02:07:12] Resource freeroam started!
+[02:07:12] Starting doormanager
+[02:07:12] Resource doormanager started!
+[02:07:12] Starting main/login
+[02:07:12] Resource main/login started!
+[02:07:12] Starting main/dealerships
+[02:07:12] Error/warning while compiling script!
+[02:07:12] Error (CS1501) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:78: No overload for method 'setEntityData' takes 2 arguments
+[02:07:12] Resource main/dealerships started!
+[02:07:12] Started! Waiting for connections.
+[02:07:49] Terminating...
+[02:07:49] Stopping main/dealerships
+[02:07:49] Stopped main/dealerships!
+[02:07:49] Stopping main/login
+[02:07:49] Stopped main/login!
+[02:07:49] Stopping doormanager
+[02:07:49] Stopped doormanager!
+[02:07:49] Stopping freeroam
+[02:07:49] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 2:07:50 AM[02:07:50] Starting...
+[02:07:50] Loading resources...
+[02:07:50] Starting freeroam
+[02:07:50] Resource freeroam started!
+[02:07:50] Starting doormanager
+[02:07:51] Resource doormanager started!
+[02:07:51] Starting main/login
+[02:07:51] Resource main/login started!
+[02:07:51] Starting main/dealerships
+[02:07:51] Resource main/dealerships started!
+[02:07:51] Started! Waiting for connections.
+[02:07:57] Initiating connection: [192.168.0.10:56718]
+[02:07:57] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[02:07:57] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[02:07:59] EXCEPTION IN RESOURCE main/dealerships INSIDE SCRIPTENGINE dealerships
+[02:07:59] System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at System.IO.StringReader..ctor(String s)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at GrandTheftMultiplayer.Server.API.ServerAPI.fromJson(String json)
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at Server.dealerships.unlockVehicle(Client player, NetHandle vehicle)
+   at Server.dealerships.OnClientEventTrigger(Client player, String eventName, Object[] arguments)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass59_0.<InvokeClientEvent>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[02:12:21] EXCEPTION IN RESOURCE main/dealerships INSIDE SCRIPTENGINE dealerships
+[02:12:21] System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at System.IO.StringReader..ctor(String s)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at GrandTheftMultiplayer.Server.API.ServerAPI.fromJson(String json)
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at Server.dealerships.unlockVehicle(Client player, NetHandle vehicle)
+   at Server.dealerships.OnClientEventTrigger(Client player, String eventName, Object[] arguments)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass59_0.<InvokeClientEvent>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[02:13:59] Terminating...
+[02:13:59] Stopping main/dealerships
+[02:13:59] Stopped main/dealerships!
+[02:13:59] Stopping main/login
+[02:13:59] Stopped main/login!
+[02:13:59] Stopping doormanager
+[02:13:59] Stopped doormanager!
+[02:13:59] Stopping freeroam
+[02:13:59] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 2:13:59 AM[02:13:59] Starting...
+[02:13:59] Loading resources...
+[02:14:00] Starting freeroam
+[02:14:00] Resource freeroam started!
+[02:14:00] Starting doormanager
+[02:14:00] Resource doormanager started!
+[02:14:00] Starting main/login
+[02:14:00] Resource main/login started!
+[02:14:00] Starting main/dealerships
+[02:14:01] Resource main/dealerships started!
+[02:14:01] Started! Waiting for connections.
+[02:14:18] Terminating...
+[02:14:18] Stopping main/dealerships
+[02:14:18] Stopped main/dealerships!
+[02:14:18] Stopping main/login
+[02:14:18] Stopped main/login!
+[02:14:18] Stopping doormanager
+[02:14:18] Stopped doormanager!
+[02:14:18] Stopping freeroam
+[02:14:18] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 2:14:18 AM[02:14:19] Starting...
+[02:14:19] Loading resources...
+[02:14:19] Starting freeroam
+[02:14:19] Resource freeroam started!
+[02:14:19] Starting doormanager
+[02:14:20] Resource doormanager started!
+[02:14:20] Starting main/login
+[02:14:20] Resource main/login started!
+[02:14:20] Starting main/dealerships
+[02:14:20] Error/warning while compiling script!
+[02:14:20] Error (CS0103) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:73: The name 'vehicle' does not exist in the current context
+[02:14:20] Resource main/dealerships started!
+[02:14:20] Started! Waiting for connections.
+[02:14:45] Terminating...
+[02:14:45] Stopping main/dealerships
+[02:14:45] Stopped main/dealerships!
+[02:14:45] Stopping main/login
+[02:14:45] Stopped main/login!
+[02:14:45] Stopping doormanager
+[02:14:45] Stopped doormanager!
+[02:14:45] Stopping freeroam
+[02:14:45] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 2:14:46 AM[02:14:46] Starting...
+[02:14:46] Loading resources...
+[02:14:46] Starting freeroam
+[02:14:47] Resource freeroam started!
+[02:14:47] Starting doormanager
+[02:14:47] Resource doormanager started!
+[02:14:47] Starting main/login
+[02:14:47] Resource main/login started!
+[02:14:47] Starting main/dealerships
+[02:14:47] Resource main/dealerships started!
+[02:14:47] Started! Waiting for connections.
+[02:14:56] Initiating connection: [192.168.0.10:56718]
+[02:14:56] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[02:14:56] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[02:19:58] Terminating...
+[02:19:58] Stopping main/dealerships
+[02:19:58] Stopped main/dealerships!
+[02:19:58] Stopping main/login
+[02:19:58] Stopped main/login!
+[02:19:58] Stopping doormanager
+[02:19:58] Stopped doormanager!
+[02:19:58] Stopping freeroam
+[02:19:58] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 2:19:58 AM[02:19:58] Starting...
+[02:19:59] Loading resources...
+[02:19:59] Starting freeroam
+[02:19:59] Resource freeroam started!
+[02:19:59] Starting doormanager
+[02:20:00] Resource doormanager started!
+[02:20:00] Starting main/login
+[02:20:00] Resource main/login started!
+[02:20:00] Starting main/dealerships
+[02:20:00] Error/warning while compiling script!
+[02:20:00] Error (CS1519) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:63: Invalid token '{' in class, struct, or interface member declaration
+[02:20:00] Error (CS1518) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:70: Expected class, delegate, enum, interface, or struct
+[02:20:00] Error (CS1518) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:79: Expected class, delegate, enum, interface, or struct
+[02:20:00] Error (CS1518) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:97: Expected class, delegate, enum, interface, or struct
+[02:20:00] Error (CS1518) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:101: Expected class, delegate, enum, interface, or struct
+[02:20:00] Error (CS1518) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:114: Expected class, delegate, enum, interface, or struct
+[02:20:00] Error (CS1518) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:149: Expected class, delegate, enum, interface, or struct
+[02:20:00] Error (CS1518) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:151: Expected class, delegate, enum, interface, or struct
+[02:20:00] Error (CS1518) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:154: Expected class, delegate, enum, interface, or struct
+[02:20:00] Error (CS1518) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:161: Expected class, delegate, enum, interface, or struct
+[02:20:00] Error (CS1022) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:166: Type or namespace definition, or end-of-file expected
+[02:20:00] Resource main/dealerships started!
+[02:20:00] Started! Waiting for connections.
+[02:20:14] Terminating...
+[02:20:14] Stopping main/dealerships
+[02:20:14] Stopped main/dealerships!
+[02:20:14] Stopping main/login
+[02:20:14] Stopped main/login!
+[02:20:14] Stopping doormanager
+[02:20:14] Stopped doormanager!
+[02:20:14] Stopping freeroam
+[02:20:14] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 2:20:14 AM[02:20:14] Starting...
+[02:20:15] Loading resources...
+[02:20:15] Starting freeroam
+[02:20:15] Resource freeroam started!
+[02:20:15] Starting doormanager
+[02:20:15] Resource doormanager started!
+[02:20:15] Starting main/login
+[02:20:16] Resource main/login started!
+[02:20:16] Starting main/dealerships
+[02:20:16] Resource main/dealerships started!
+[02:20:16] Started! Waiting for connections.
+[02:20:24] Initiating connection: [192.168.0.10:56718]
+[02:20:24] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[02:20:24] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[02:21:06] EXCEPTION IN RESOURCE main/dealerships INSIDE SCRIPTENGINE dealerships
+[02:21:06] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'GrandTheftMultiplayer.Server.Elements.Vehicle' to 'Server.Veh'
+   at CallSite.Target(Closure , CallSite , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass26_0.<InvokeVoidMethod>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+[02:22:30] Terminating...
+[02:22:30] Stopping main/dealerships
+[02:22:30] Stopped main/dealerships!
+[02:22:30] Stopping main/login
+[02:22:30] Stopped main/login!
+[02:22:30] Stopping doormanager
+[02:22:30] Stopped doormanager!
+[02:22:30] Stopping freeroam
+[02:22:30] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 2:22:30 AM[02:22:30] Starting...
+[02:22:31] Loading resources...
+[02:22:31] Starting freeroam
+[02:22:31] Resource freeroam started!
+[02:22:31] Starting doormanager
+[02:22:31] Resource doormanager started!
+[02:22:31] Starting main/login
+[02:22:31] Resource main/login started!
+[02:22:31] Starting main/dealerships
+[02:22:32] Error/warning while compiling script!
+[02:22:32] Error (CS0103) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:67: The name 'setVehicleEngineStatus' does not exist in the current context
+[02:22:32] Resource main/dealerships started!
+[02:22:32] Started! Waiting for connections.
+[02:22:51] Terminating...
+[02:22:51] Stopping main/dealerships
+[02:22:51] Stopped main/dealerships!
+[02:22:51] Stopping main/login
+[02:22:51] Stopped main/login!
+[02:22:51] Stopping doormanager
+[02:22:51] Stopped doormanager!
+[02:22:51] Stopping freeroam
+[02:22:51] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 2:22:51 AM[02:22:51] Starting...
+[02:22:51] Loading resources...
+[02:22:51] Starting freeroam
+[02:22:52] Resource freeroam started!
+[02:22:52] Starting doormanager
+[02:22:52] Resource doormanager started!
+[02:22:52] Starting main/login
+[02:22:52] Resource main/login started!
+[02:22:52] Starting main/dealerships
+[02:22:52] Resource main/dealerships started!
+[02:22:52] Started! Waiting for connections.
+[02:22:58] Initiating connection: [192.168.0.10:56718]
+[02:22:58] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[02:22:58] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[02:24:13] Player disconnected: godsdead20 (godsdead20) [192.168.0.10], reason: Quit
+[02:28:19] Terminating...
+[02:28:19] Stopping main/dealerships
+[02:28:19] Stopped main/dealerships!
+[02:28:19] Stopping main/login
+[02:28:19] Stopped main/login!
+[02:28:19] Stopping doormanager
+[02:28:19] Stopped doormanager!
+[02:28:19] Stopping freeroam
+[02:28:19] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 2:28:19 AM[02:28:19] Starting...
+[02:28:20] Loading resources...
+[02:28:20] Starting freeroam
+[02:28:20] Resource freeroam started!
+[02:28:20] Starting doormanager
+[02:28:20] Resource doormanager started!
+[02:28:21] Starting main/login
+[02:28:21] Resource main/login started!
+[02:28:21] Starting main/dealerships
+[02:28:21] Resource main/dealerships started!
+[02:28:21] Started! Waiting for connections.
+[02:28:26] Initiating connection: [192.168.0.10:56718]
+[02:28:26] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[02:28:27] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[02:48:08] Terminating...
+[02:48:08] Stopping main/dealerships
+[02:48:08] Stopped main/dealerships!
+[02:48:08] Stopping main/login
+[02:48:08] Stopped main/login!
+[02:48:08] Stopping doormanager
+[02:48:08] Stopped doormanager!
+[02:48:08] Stopping freeroam
+[02:48:08] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 2:48:08 AM[02:48:08] Starting...
+[02:48:09] Loading resources...
+[02:48:09] Starting freeroam
+[02:48:09] Resource freeroam started!
+[02:48:09] Starting doormanager
+[02:48:10] Resource doormanager started!
+[02:48:10] Starting main/login
+[02:48:10] Resource main/login started!
+[02:48:10] Starting main/dealerships
+[02:48:10] Resource main/dealerships started!
+[02:48:10] Started! Waiting for connections.
+[02:48:16] Initiating connection: [192.168.0.10:56718]
+[02:48:16] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[02:48:16] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[02:52:51] Terminating...
+[02:52:51] Stopping main/dealerships
+[02:52:51] Stopped main/dealerships!
+[02:52:51] Stopping main/login
+[02:52:51] Stopped main/login!
+[02:52:51] Stopping doormanager
+[02:52:51] Stopped doormanager!
+[02:52:51] Stopping freeroam
+[02:52:51] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 2:52:52 AM[02:52:52] Starting...
+[02:52:52] Loading resources...
+[02:52:52] Starting freeroam
+[02:52:53] Resource freeroam started!
+[02:52:53] Starting doormanager
+[02:52:53] Resource doormanager started!
+[02:52:53] Starting main/login
+[02:52:53] Resource main/login started!
+[02:52:53] Starting main/dealerships
+[02:52:53] Resource main/dealerships started!
+[02:52:53] Started! Waiting for connections.
+[02:52:59] Initiating connection: [192.168.0.10:56718]
+[02:52:59] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[02:52:59] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[02:55:33] Terminating...
+[02:55:33] Stopping main/dealerships
+[02:55:33] Stopped main/dealerships!
+[02:55:33] Stopping main/login
+[02:55:33] Stopped main/login!
+[02:55:33] Stopping doormanager
+[02:55:33] Stopped doormanager!
+[02:55:33] Stopping freeroam
+[02:55:33] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 2:55:34 AM[02:55:34] Starting...
+[02:55:34] Loading resources...
+[02:55:34] Starting freeroam
+[02:55:35] Resource freeroam started!
+[02:55:35] Starting doormanager
+[02:55:35] Resource doormanager started!
+[02:55:35] Starting main/login
+[02:55:35] Resource main/login started!
+[02:55:35] Starting main/dealerships
+[02:55:35] Error/warning while compiling script!
+[02:55:35] Error (CS0103) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\dealerships\dealerships.cs:162: The name 'vehile' does not exist in the current context
+[02:55:35] Resource main/dealerships started!
+[02:55:35] Started! Waiting for connections.
+[02:55:51] Terminating...
+[02:55:51] Stopping main/dealerships
+[02:55:51] Stopped main/dealerships!
+[02:55:51] Stopping main/login
+[02:55:51] Stopped main/login!
+[02:55:51] Stopping doormanager
+[02:55:51] Stopped doormanager!
+[02:55:51] Stopping freeroam
+[02:55:51] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 2:55:51 AM[02:55:51] Starting...
+[02:55:52] Loading resources...
+[02:55:52] Starting freeroam
+[02:55:52] Resource freeroam started!
+[02:55:52] Starting doormanager
+[02:55:52] Resource doormanager started!
+[02:55:52] Starting main/login
+[02:55:52] Resource main/login started!
+[02:55:52] Starting main/dealerships
+[02:55:53] Resource main/dealerships started!
+[02:55:53] Started! Waiting for connections.
+[02:55:59] Initiating connection: [192.168.0.10:56718]
+[02:55:59] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[02:55:59] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[02:57:24] Terminating...
+[02:57:24] Stopping main/dealerships
+[02:57:24] Stopped main/dealerships!
+[02:57:24] Stopping main/login
+[02:57:24] Stopped main/login!
+[02:57:24] Stopping doormanager
+[02:57:24] Stopped doormanager!
+[02:57:24] Stopping freeroam
+[02:57:24] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 2:57:24 AM[02:57:24] Starting...
+[02:57:25] Loading resources...
+[02:57:25] Starting freeroam
+[02:57:25] Resource freeroam started!
+[02:57:25] Starting doormanager
+[02:57:26] Resource doormanager started!
+[02:57:26] Starting main/login
+[02:57:26] Resource main/login started!
+[02:57:26] Starting main/dealerships
+[02:57:26] Resource main/dealerships started!
+[02:57:26] Started! Waiting for connections.
+[02:57:32] Initiating connection: [192.168.0.10:56718]
+[02:57:32] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[02:57:32] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[03:05:15] Player disconnected: godsdead20 (godsdead20) [192.168.0.10], reason: Quit

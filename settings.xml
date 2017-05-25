@@ -19,9 +19,11 @@
   <refresh_rate>120</refresh_rate>
 
   <resource src="freeroam" />
-  <resource src="coords" />
+  <resource src="doormanager" />
   <resource src="main/login" />
   <resource src="main/dealerships" />
+
+  <file src="main/dealerships/car_door_lock.wav" />
 
   <announce_lan>true</announce_lan>
   <upnp>false</upnp>
