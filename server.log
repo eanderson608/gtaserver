@@ -6641,3 +6641,129 @@ Parameter name: s
 [02:57:32] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
 [02:57:32] Connection established: godsdead20 (godsdead20) [192.168.0.10]
 [03:05:15] Player disconnected: godsdead20 (godsdead20) [192.168.0.10], reason: Quit
+-> SERVER STARTED AT 5/25/2017 1:18:45 PM[13:18:45] Starting...
+[13:18:46] Loading resources...
+[13:18:47] Starting freeroam
+[13:18:48] Resource freeroam started!
+[13:18:49] Starting doormanager
+[13:18:49] Resource doormanager started!
+[13:18:49] Starting main/login
+[13:18:50] Resource main/login started!
+[13:18:50] Starting main/dealerships
+[13:18:50] Resource main/dealerships started!
+[13:18:50] Started! Waiting for connections.
+[13:19:17] Terminating...
+[13:19:17] Stopping main/dealerships
+[13:19:17] Stopped main/dealerships!
+[13:19:17] Stopping main/login
+[13:19:17] Stopped main/login!
+[13:19:17] Stopping doormanager
+[13:19:17] Stopped doormanager!
+[13:19:17] Stopping freeroam
+[13:19:17] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:19:17 PM[13:19:17] Starting...
+[13:19:18] Loading resources...
+[13:19:18] Starting freeroam
+[13:19:18] Resource freeroam started!
+[13:19:18] Starting main/interactionmenu
+[13:19:18] Resource main/interactionmenu started!
+[13:19:18] Starting main/login
+[13:19:18] Resource main/login started!
+[13:19:18] Starting main/dealerships
+[13:19:19] Resource main/dealerships started!
+[13:19:19] Started! Waiting for connections.
+[13:22:37] Initiating connection: [192.168.0.10:61631]
+[13:22:37] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[13:22:38] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[13:23:25] Terminating...
+[13:23:25] Stopping main/dealerships
+[13:23:25] Stopped main/dealerships!
+[13:23:25] Stopping main/login
+[13:23:25] Stopped main/login!
+[13:23:25] Stopping main/interactionmenu
+[13:23:25] Stopped main/interactionmenu!
+[13:23:25] Stopping freeroam
+[13:23:25] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:23:25 PM[13:23:25] Starting...
+[13:23:26] Loading resources...
+[13:23:26] Starting freeroam
+[13:23:26] Resource freeroam started!
+[13:23:26] Starting main/interactionmenu
+[13:23:26] Resource main/interactionmenu started!
+[13:23:26] Starting main/login
+[13:23:27] Resource main/login started!
+[13:23:27] Starting main/dealerships
+[13:23:27] Resource main/dealerships started!
+[13:23:27] Started! Waiting for connections.
+[13:23:35] Initiating connection: [192.168.0.10:61631]
+[13:23:35] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[13:23:35] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[13:23:55] Terminating...
+[13:23:55] Stopping main/dealerships
+[13:23:55] Stopped main/dealerships!
+[13:23:55] Stopping main/login
+[13:23:55] Stopped main/login!
+[13:23:55] Stopping main/interactionmenu
+[13:23:55] Stopped main/interactionmenu!
+[13:23:55] Stopping freeroam
+[13:23:55] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:23:55 PM[13:23:55] Starting...
+[13:23:56] Loading resources...
+[13:23:56] Starting freeroam
+[13:23:56] Resource freeroam started!
+[13:23:56] Starting main/interactionmenu
+[13:23:57] Resource main/interactionmenu started!
+[13:23:57] Starting main/login
+[13:23:57] Resource main/login started!
+[13:23:57] Starting main/dealerships
+[13:23:57] Resource main/dealerships started!
+[13:23:57] Started! Waiting for connections.
+[13:24:02] Initiating connection: [192.168.0.10:61631]
+[13:24:02] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[13:24:03] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[13:27:09] Terminating...
+[13:27:09] Stopping main/dealerships
+[13:27:09] Stopped main/dealerships!
+[13:27:09] Stopping main/login
+[13:27:09] Stopped main/login!
+[13:27:09] Stopping main/interactionmenu
+[13:27:09] Stopped main/interactionmenu!
+[13:27:09] Stopping freeroam
+[13:27:09] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:27:09 PM[13:27:09] Starting...
+[13:27:10] Loading resources...
+[13:27:10] Starting freeroam
+[13:27:10] Resource freeroam started!
+[13:27:10] Starting main/interactionmenu
+[13:27:10] Resource main/interactionmenu started!
+[13:27:10] Starting main/login
+[13:27:10] Resource main/login started!
+[13:27:10] Starting main/dealerships
+[13:27:11] Resource main/dealerships started!
+[13:27:11] Started! Waiting for connections.
+[13:27:17] Initiating connection: [192.168.0.10:61631]
+[13:27:17] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[13:27:17] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[13:35:23] Terminating...
+[13:35:23] Stopping main/dealerships
+[13:35:23] Stopped main/dealerships!
+[13:35:23] Stopping main/login
+[13:35:23] Stopped main/login!
+[13:35:23] Stopping main/interactionmenu
+[13:35:23] Stopped main/interactionmenu!
+[13:35:23] Stopping freeroam
+[13:35:23] Stopped freeroam!
+-> SERVER STARTED AT 5/25/2017 1:35:24 PM[13:35:24] Starting...
+[13:35:24] Loading resources...
+[13:35:24] Starting freeroam
+[13:35:25] Resource freeroam started!
+[13:35:25] Starting main/interactionmenu
+[13:35:25] Resource main/interactionmenu started!
+[13:35:25] Starting main/login
+[13:35:25] Resource main/login started!
+[13:35:25] Starting main/dealerships
+[13:35:25] Resource main/dealerships started!
+[13:35:25] Started! Waiting for connections.
+[13:35:31] Initiating connection: [192.168.0.10:61631]
+[13:35:32] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[13:35:32] Connection established: godsdead20 (godsdead20) [192.168.0.10]
