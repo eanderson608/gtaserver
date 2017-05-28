@@ -16,6 +16,29 @@ API.onUpdate.connect(function (sender, args) {
         interactionMenuPool.ProcessMenus();
     }
 
+    if (interactionMenu.Visible) {
+
+        /*
+        API.disableAllControlsThisFrame();
+        API.enableControlThisFrame(21);
+        API.enableControlThisFrame(30);
+        API.enableControlThisFrame(31);
+        API.enableControlThisFrame(237);
+        API.enableControlThisFrame(238);
+        API.enableControlThisFrame(239);
+        API.enableControlThisFrame(240);
+        */
+
+        // only disable looking and shooting when interaction menu is open
+        API.disableControlThisFrame(1);
+        API.disableControlThisFrame(2);
+        API.disableControlThisFrame(24);
+        API.disableControlThisFrame(257);
+        API.disableControlThisFrame(106);
+        //API.disableControlThisFrame(283);
+
+    }
+
 
     // selection reticle raycast
     /*
@@ -46,8 +69,35 @@ API.onUpdate.connect(function (sender, args) {
 });
 
 API.onKeyUp.connect(function (sender, e) {
+
     if (e.KeyCode === Keys.E && resource.login_local.charChosen) {
-        interactionMenu.Visible = !interactionMenu.Visible;  // toggle interaction menu
+
+        if (!interactionMenu.Visible) {
+
+            // disable chat
+            API.setCanOpenChat(false);
+
+            // get nearby VehicleHash
+            var v = API.getStreamedVehicles();
+            if (v.Length == 0) return;
+            var vehList = new List(String);
+            for (var i = 0; i < v.Length; i++) {
+                var vehName = API.getVehicleDisplayName(API.getEntityModel(v[i]))
+                vehList.Add(vehName);
+
+            }
+            var vehListItem = API.createListItem("Vehicle", "", vehList, 0);
+            interactionMenu.AddItem(vehListItem);
+
+            interactionMenu.Visible = true;
+        }
+        else {
+            API.setCanOpenChat(true);
+            interactionMenu.Visible = false;
+            interactionMenu.Clear();
+        }
+
+
     }
 });
 
@@ -67,13 +117,17 @@ function createInteractionMenu() {
 
     interactionMenuPool = API.getMenuPool();
 
-    interactionMenu = API.createMenu("", 0, 0, 6);
+    interactionMenu = API.createMenu("", 50, 0, 6);
     API.setMenuTitle(interactionMenu, "Interaction Menu");
 
     interactionMenu.OnItemSelect.connect(function(sender, item, index) {
 
 
     });
+
+    interactionMenu.ResetKey(menuControl.Back);
+    interactionMenu.DisableInstructionalButtons(true);
+    interactionMenu.ScaleWithSafezone = true;
 
     interactionMenuPool.Add(interactionMenu);
     interactionMenu.Visible = false;

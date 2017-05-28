@@ -117,12 +117,12 @@ function createCharSelectMenu(charList) {
         if (item.Text == "EMPTY SLOT") {
             API.sendChatMessage("create new character");
         } else {
-            API.triggerServerEvent("choose_existing_character", index);
             API.sendChatMessage("choose existing character");
             charChosen = true;
             menuPool.CloseAllMenus();
             API.setCanOpenChat(true);
             API.setGameplayCameraActive();
+            API.triggerServerEvent("choose_existing_character", index);
 
         }
     });

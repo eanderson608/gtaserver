@@ -103,7 +103,7 @@ namespace Server
             foreach (NetHandle v in vehs)
             {
                 float temp = Vector3.Distance(API.getEntityPosition(v), API.getEntityPosition(player));
-                if (temp < 5 && temp < distance)
+                if (temp < distance)
                 {
                     result = v;
                     d = temp;
