@@ -7,8 +7,6 @@ API.onUpdate.connect(function (sender, args) {
 
 API.onResourceStart.connect(function (sender, args) {
 
-    API.setWeather(0);
-
 });
 
 API.onServerEventTrigger.connect(function (eventName, args) {

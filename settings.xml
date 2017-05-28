@@ -19,6 +19,7 @@
   <refresh_rate>120</refresh_rate>
 
   <resource src="freeroam" />
+  <resource src="doormanager" />
   <resource src="main/interactionmenu" />
   <resource src="main/login" />
   <resource src="main/dealerships" />

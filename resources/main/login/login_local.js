@@ -1,7 +1,6 @@
 var loginBrowser = null;
 var player = API.getLocalPlayer();
 var charChosen = false;
-
 var menuPool = null;
 var charSelectMenu = null;
 
@@ -14,6 +13,10 @@ API.onUpdate.connect(function (sender, args) {
     if (!charChosen) {
         API.disableAllControlsThisFrame();
     }
+
+});
+
+API.onResourceStart.connect(function (sender, args) {
 
 });
 
@@ -78,6 +81,11 @@ API.onServerEventTrigger.connect(function (eventName, args) {
             loginBrowser.call("switchToLogin");
             break;
 
+        case "enable_controls":
+            API.sendNotification("Registration successful!");
+            loginBrowser.call("switchToLogin");
+            break;
+
     }
 });
 
@@ -109,12 +117,13 @@ function createCharSelectMenu(charList) {
         if (item.Text == "EMPTY SLOT") {
             API.sendChatMessage("create new character");
         } else {
+            API.triggerServerEvent("choose_existing_character", index);
             API.sendChatMessage("choose existing character");
             charChosen = true;
             menuPool.CloseAllMenus();
             API.setCanOpenChat(true);
             API.setGameplayCameraActive();
-            API.triggerServerEvent("choose_existing_character", index);
+
         }
     });
 

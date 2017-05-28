@@ -121,6 +121,7 @@ namespace Server
             {
                 dynamic c = charList[(int)args[0]];
                 API.setEntityData(player.handle, "CHAR_ID", c.Id);
+                API.setEntitySyncedData(player.handle, "LOGGED_IN", true);
                 API.setEntityPosition(player, new Vector3(-45.70197, -1680.367, 29.4101));
                 API.sendChatMessageToPlayer(player, "Logged in as " + c.Name + " with ID: " + c.Id.ToString());
             }

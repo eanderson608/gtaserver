@@ -1,18 +1,24 @@
 var interactionMenu = null;
-var menuPool = null;
+var interactionMenuPool = null;
 var selectionReticleVisible = false;
 var hitEnt = null;
 var player = API.getLocalPlayer();
 
 API.onUpdate.connect(function (sender, args) {
 
-    // do not show reticle
-    API.callNative("HIDE_HUD_COMPONENT_THIS_FRAME", 14);
+    API.callNative("HIDE_HUD_COMPONENT_THIS_FRAME", 14); // hide reticle
+    API.callNative("HIDE_HUD_COMPONENT_THIS_FRAME", 7);  // hide area name
+    API.callNative("HIDE_HUD_COMPONENT_THIS_FRAME", 9);  // hide street name
+    API.callNative("HIDE_HUD_COMPONENT_THIS_FRAME", 6); // hide vehicle name
+    API.callNative("HIDE_HUD_COMPONENT_THIS_FRAME", 8); // hide vehicle class
 
-    if (menuPool != null) {
-        menuPool.ProcessMenus();
+    if (interactionMenuPool != null) {
+        interactionMenuPool.ProcessMenus();
     }
 
+
+    // selection reticle raycast
+    /*
     if (selectionReticleVisible) {
         API.callNative("SHOW_HUD_COMPONENT_THIS_FRAME", 14);
         API.disableControlThisFrame(25);
@@ -35,18 +41,13 @@ API.onUpdate.connect(function (sender, args) {
     } else if (hitEnt != null) {
         API.setEntityTransparency(hitEnt, 255);
     }
+    */
 
-});
-
-API.onKeyDown.connect(function (sender, e) {
-    if (e.KeyCode === Keys.E) {
-        selectionReticleVisible = true;
-    }
 });
 
 API.onKeyUp.connect(function (sender, e) {
-    if (e.KeyCode === Keys.E) {
-        selectionReticleVisible = false;
+    if (e.KeyCode === Keys.E && API.hasEntitySyncedData(player, "LOGGED_IN") && API.getEntitySyncedData(player, "LOGGED_IN")) {
+        interactionMenu.Visible = !interactionMenu.Visible;  // toggle interaction menu
     }
 });
 
@@ -64,7 +65,7 @@ API.onResourceStart.connect(function (sender, args) {
 
 function createInteractionMenu() {
 
-    menuPool = API.getMenuPool();
+    interactionMenuPool = API.getMenuPool();
 
     interactionMenu = API.createMenu("", 0, 0, 6);
     API.setMenuTitle(interactionMenu, "Interaction Menu");
@@ -74,6 +75,6 @@ function createInteractionMenu() {
 
     });
 
-    menuPool.Add(interactionMenu);
+    interactionMenuPool.Add(interactionMenu);
     interactionMenu.Visible = false;
 }

@@ -150,7 +150,7 @@ namespace Server
         public Vehicle createVehicleHelper(VehicleHash model, Vector3 pos, Vector3 rot, int ownerId = 0)
         {
             Random r = new Random();
-            int color = r.Next(0, 64);
+            int color = r.Next(0, 160);
             Vehicle vehicle = API.createVehicle(model, pos, rot, color, color);
             Veh veh = new Veh(API.getVehicleDisplayName(model), ownerId);
 
