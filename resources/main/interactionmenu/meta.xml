@@ -1,7 +1,0 @@
-<meta>
-    <info name="Interaction Menu" author="pocket" type="script" />
-
-    <script src="interactionmenu.cs" type="server" lang="csharp" />
-    <script src="interactionmenu.js" type="client" lang="javascript" />
-
-</meta>

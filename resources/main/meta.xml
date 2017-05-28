@@ -2,6 +2,34 @@
     <info name="main" author="pocket" type="script" />
 
     <script src="Vehicle.cs" type="server" lang="csharp" />
+    <script src="UserAccount.cs" type="server" lang="csharp" />
+    <script src="Character.cs" type="server" lang="csharp" />
+
+    <script src="login/login.cs" type="server" lang="csharp" />
+    <script src="login/login_local.js" type="client" lang="javascript" />
+
+    <script src="interactionmenu/interactionmenu.cs" type="server" lang="csharp" />
+    <script src="interactionmenu/interactionmenu.js" type="client" lang="javascript" />
+
+    <script src="dealerships/dealerships.cs" type="server" lang="csharp" />
+    <script src="dealerships/dealerships.js" type="client" lang="javascript" />
+
+    <!--
+    <script src="charcreator/customchar.js" type="client" lang="javascript" />
+    <script src="charcreator/customchar.cs" type="server" lang="csharp" />
+    -->
+
+    <file src="login/bootstrap.min.css" />
+    <file src="login/AdminLTE.min.css" />
+    <file src="login/blue.css" />
+    <file src="login/jquery-2.2.3.min.js" />
+    <file src="login/icheck.min.js" />
+    <file src="login/bootstrap.min.js" />
+    <file src="login/login.html" />
+    <file src="login/register.html" />
+    <file src="login/SignPainter-HouseScript.ttf" />
+    <file src="login/font-awesome.min.css" />
+    <file src="login/ionicons.min.css" />
 
     <assembly ref="Insight.Database.Configuration.dll" />
     <assembly ref="Insight.Database.dll" />
@@ -11,5 +39,6 @@
     <assembly ref="System.Globalization.dll" />
     <assembly ref="System.Configuration.dll" />
     <assembly ref="System.Data.dll" />
+    <assembly ref="BCrypt.Net.dll" />
 
 </meta>

@@ -46,7 +46,7 @@ API.onUpdate.connect(function (sender, args) {
 });
 
 API.onKeyUp.connect(function (sender, e) {
-    if (e.KeyCode === Keys.E && API.hasEntitySyncedData(player, "LOGGED_IN") && API.getEntitySyncedData(player, "LOGGED_IN")) {
+    if (e.KeyCode === Keys.E && resource.login_local.charChosen) {
         interactionMenu.Visible = !interactionMenu.Visible;  // toggle interaction menu
     }
 });

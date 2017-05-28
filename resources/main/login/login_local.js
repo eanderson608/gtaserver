@@ -38,7 +38,7 @@ API.onServerEventTrigger.connect(function (eventName, args) {
             loginBrowser = API.createCefBrowser(500, 500);
             API.waitUntilCefBrowserInit(loginBrowser);
             API.setCefBrowserPosition(loginBrowser, (res.Width / 2) - 250, (res.Height / 2) - 250);
-            API.loadPageCefBrowser(loginBrowser, "login.html");
+            API.loadPageCefBrowser(loginBrowser, "login/login.html");
             API.showCursor(true);
             break;
 

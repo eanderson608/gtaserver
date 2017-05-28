@@ -20,9 +20,7 @@
 
   <resource src="freeroam" />
   <resource src="doormanager" />
-  <resource src="main/interactionmenu" />
-  <resource src="main/login" />
-  <resource src="main/dealerships" />
+  <resource src="main" />
 
   <file src="main/dealerships/car_door_lock.wav" />
 

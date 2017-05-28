@@ -8463,3 +8463,219 @@ Parameter name: s
 [21:33:05] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
 [21:33:05] Connection established: godsdead20 (godsdead20) [192.168.0.10]
 [21:35:37] Player disconnected: godsdead20 (godsdead20) [192.168.0.10], reason: Quit
+[21:40:50] Terminating...
+[21:40:50] Stopping main/dealerships
+[21:40:50] Stopped main/dealerships!
+[21:40:50] Stopping main/login
+[21:40:50] Stopped main/login!
+[21:40:50] Stopping main/interactionmenu
+[21:40:50] Stopped main/interactionmenu!
+[21:40:50] Stopping doormanager
+[21:40:50] Stopped doormanager!
+[21:40:51] Stopping freeroam
+[21:40:51] Stopped freeroam!
+-> SERVER STARTED AT 5/27/2017 9:40:51 PM[21:40:51] Starting...
+[21:40:51] Loading resources...
+[21:40:51] Starting freeroam
+[21:40:52] Resource freeroam started!
+[21:40:52] Starting doormanager
+[21:40:52] Resource doormanager started!
+[21:40:52] Starting main
+[21:40:52] Error/warning while compiling script!
+[21:40:52] Error (CS0246) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:13: The type or namespace name 'BCrypt' could not be found (are you missing a using directive or an assembly reference?)
+[21:40:52] Resource main started!
+[21:40:52] Started! Waiting for connections.
+[21:41:22] Terminating...
+[21:41:22] Stopping main
+[21:41:22] Stopped main!
+[21:41:22] Stopping doormanager
+[21:41:22] Stopped doormanager!
+[21:41:22] Stopping freeroam
+[21:41:22] Stopped freeroam!
+-> SERVER STARTED AT 5/27/2017 9:41:22 PM[21:41:23] Starting...
+[21:41:23] Loading resources...
+[21:41:23] Starting freeroam
+[21:41:23] Resource freeroam started!
+[21:41:23] Starting doormanager
+[21:41:24] Resource doormanager started!
+[21:41:24] Starting main
+[21:41:24] Error/warning while compiling script!
+[21:41:24] Error (CS1001) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\login\login.cs:13: Identifier expected
+[21:41:24] Resource main started!
+[21:41:24] Started! Waiting for connections.
+[21:42:19] Terminating...
+[21:42:19] Stopping main
+[21:42:19] Stopped main!
+[21:42:19] Stopping doormanager
+[21:42:19] Stopped doormanager!
+[21:42:19] Stopping freeroam
+[21:42:19] Stopped freeroam!
+-> SERVER STARTED AT 5/27/2017 9:42:19 PM[21:42:19] Starting...
+[21:42:20] Loading resources...
+[21:42:20] Starting freeroam
+[21:42:20] Resource freeroam started!
+[21:42:20] Starting doormanager
+[21:42:21] Resource doormanager started!
+[21:42:21] Starting main
+[21:42:21] Error/warning while compiling script!
+[21:42:21] Error (CS0006) at :0: Metadata file 'BCrypt.dll' could not be found
+[21:42:21] Resource main started!
+[21:42:21] Started! Waiting for connections.
+[21:42:29] Terminating...
+[21:42:29] Stopping main
+[21:42:29] Stopped main!
+[21:42:29] Stopping doormanager
+[21:42:29] Stopped doormanager!
+[21:42:29] Stopping freeroam
+[21:42:29] Stopped freeroam!
+-> SERVER STARTED AT 5/27/2017 9:42:29 PM[21:42:29] Starting...
+[21:42:29] Loading resources...
+[21:42:29] Starting freeroam
+[21:42:30] Resource freeroam started!
+[21:42:30] Starting doormanager
+[21:42:30] Resource doormanager started!
+[21:42:30] Starting main
+[21:42:30] Resource main started!
+[21:42:30] Started! Waiting for connections.
+[21:42:37] Initiating connection: [192.168.0.10:59410]
+[21:42:37] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[21:42:38] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[21:43:17] Terminating...
+[21:43:17] Stopping main
+[21:43:17] Stopped main!
+[21:43:17] Stopping doormanager
+[21:43:17] Stopped doormanager!
+[21:43:17] Stopping freeroam
+[21:43:17] Stopped freeroam!
+-> SERVER STARTED AT 5/27/2017 9:43:17 PM[21:43:17] Starting...
+[21:43:17] Loading resources...
+[21:43:17] Starting freeroam
+[21:43:18] Resource freeroam started!
+[21:43:18] Starting doormanager
+[21:43:18] Resource doormanager started!
+[21:43:18] Starting main
+[21:43:18] ERROR STARTING RESOURCE main
+[21:43:18] System.IO.FileNotFoundException: Could not find file 'C:\Users\Eric\Desktop\GT-MP-Server\resources\main\login.html'.
+File name: 'C:\Users\Eric\Desktop\GT-MP-Server\resources\main\login.html'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at GrandTheftMultiplayer.Server.GameServer.StartResource(String resourceName, String father)
+[21:43:18] Started! Waiting for connections.
+[21:43:59] Terminating...
+[21:43:59] Stopping doormanager
+[21:43:59] Stopped doormanager!
+[21:43:59] Stopping freeroam
+[21:43:59] Stopped freeroam!
+-> SERVER STARTED AT 5/27/2017 9:43:59 PM[21:43:59] Starting...
+[21:43:59] Loading resources...
+[21:44:00] Starting freeroam
+[21:44:00] Resource freeroam started!
+[21:44:00] Starting doormanager
+[21:44:00] Resource doormanager started!
+[21:44:00] Starting main
+[21:44:00] Resource main started!
+[21:44:00] Started! Waiting for connections.
+[21:44:06] Initiating connection: [192.168.0.10:59410]
+[21:44:06] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[21:44:06] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[21:44:35] Player disconnected: godsdead20 (godsdead20) [192.168.0.10], reason: Quit
+[21:46:38] Terminating...
+[21:46:38] Stopping main
+[21:46:38] Stopped main!
+[21:46:38] Stopping doormanager
+[21:46:38] Stopped doormanager!
+[21:46:38] Stopping freeroam
+[21:46:38] Stopped freeroam!
+-> SERVER STARTED AT 5/27/2017 9:46:38 PM[21:46:38] Starting...
+[21:46:39] Loading resources...
+[21:46:39] Starting freeroam
+[21:46:39] Resource freeroam started!
+[21:46:39] Starting doormanager
+[21:46:39] Resource doormanager started!
+[21:46:39] Starting main
+[21:46:40] Resource main started!
+[21:46:40] Started! Waiting for connections.
+[21:46:46] Initiating connection: [192.168.0.10:59410]
+[21:46:46] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[21:46:46] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[21:48:25] Terminating...
+[21:48:25] Stopping main
+[21:48:25] Stopped main!
+[21:48:25] Stopping doormanager
+[21:48:25] Stopped doormanager!
+[21:48:25] Stopping freeroam
+[21:48:25] Stopped freeroam!
+-> SERVER STARTED AT 5/27/2017 9:48:25 PM[21:48:25] Starting...
+[21:48:25] Loading resources...
+[21:48:26] Starting freeroam
+[21:48:26] Resource freeroam started!
+[21:48:26] Starting doormanager
+[21:48:26] Resource doormanager started!
+[21:48:26] Starting main
+[21:48:26] ERROR STARTING RESOURCE main
+[21:48:26] System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Eric\Desktop\GT-MP-Server\resources\main\customchar\customchar.js'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   at GrandTheftMultiplayer.Server.GameServer.StartResource(String resourceName, String father)
+[21:48:26] Started! Waiting for connections.
+[21:48:51] Terminating...
+[21:48:51] Stopping doormanager
+[21:48:51] Stopped doormanager!
+[21:48:51] Stopping freeroam
+[21:48:51] Stopped freeroam!
+-> SERVER STARTED AT 5/27/2017 9:48:51 PM[21:48:51] Starting...
+[21:48:52] Loading resources...
+[21:48:52] Starting freeroam
+[21:48:52] Resource freeroam started!
+[21:48:52] Starting doormanager
+[21:48:52] Resource doormanager started!
+[21:48:52] Starting main
+[21:48:53] Resource main started!
+[21:48:53] Started! Waiting for connections.
+[21:48:58] Initiating connection: [192.168.0.10:59410]
+[21:48:58] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[21:48:59] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[21:49:47] Player disconnected: godsdead20 (godsdead20) [192.168.0.10], reason: Quit
+[21:51:21] Terminating...
+[21:51:21] Stopping main
+[21:51:21] Stopped main!
+[21:51:21] Stopping doormanager
+[21:51:21] Stopped doormanager!
+[21:51:21] Stopping freeroam
+[21:51:21] Stopped freeroam!
+-> SERVER STARTED AT 5/27/2017 9:51:21 PM[21:51:21] Starting...
+[21:51:22] Loading resources...
+[21:51:22] Starting freeroam
+[21:51:22] Resource freeroam started!
+[21:51:22] Starting doormanager
+[21:51:23] Resource doormanager started!
+[21:51:23] Starting main
+[21:51:23] Resource main started!
+[21:51:23] Started! Waiting for connections.
+[21:51:38] Initiating connection: [192.168.0.10:59410]
+[21:51:38] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[21:51:38] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[21:52:55] Terminating...
+[21:52:55] Stopping main
+[21:52:55] Stopped main!
+[21:52:55] Stopping doormanager
+[21:52:55] Stopped doormanager!
+[21:52:55] Stopping freeroam
+[21:52:55] Stopped freeroam!
+-> SERVER STARTED AT 5/27/2017 9:52:55 PM[21:52:55] Starting...
+[21:52:56] Loading resources...
+[21:52:56] Starting freeroam
+[21:52:56] Resource freeroam started!
+[21:52:56] Starting doormanager
+[21:52:57] Resource doormanager started!
+[21:52:57] Starting main
+[21:52:57] Resource main started!
+[21:52:57] Started! Waiting for connections.
+[21:53:02] Initiating connection: [192.168.0.10:59410]
+[21:53:02] Processing connection: godsdead20 (godsdead20) [192.168.0.10]
+[21:53:02] Connection established: godsdead20 (godsdead20) [192.168.0.10]
+[21:53:24] Player disconnected: godsdead20 (godsdead20) [192.168.0.10], reason: Quit
