@@ -48,7 +48,7 @@ namespace Server
 
         }
 
-        //cannot trigger client events for some reason in onPlayerConnected
+        // cannot trigger client events for some reason in onPlayerConnected
         // so have to trigger login scree here
         private void API_onPlayerFinishedDownload(Client player)
         {

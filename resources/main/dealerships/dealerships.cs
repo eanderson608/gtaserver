@@ -73,7 +73,6 @@ namespace Server
             NetHandle v = getClosestVehicleToPlayer(player, 5f);
             bool trunk = API.getVehicleDoorState(v, 5);
             API.setVehicleDoorState(v, 5, !trunk);
-            trunk = !trunk;
         }
 
         [Command("purchase")]
@@ -116,15 +115,16 @@ namespace Server
         {
             if (API.hasEntityData(vehicle, "JSON_DATA") == false) return;
 
-            NetHandle c = getClosestVehicleToPlayer(player, 5f);
+            API.sendChatMessageToPlayer(player, player.handle.ToString());
+
             bool locked = API.getVehicleLocked(vehicle);
             dynamic vehData = API.fromJson(API.getEntityData(vehicle, "JSON_DATA"));
             bool playerCanUnlock = API.getEntityData(player.handle, "CHAR_ID") == (int)(vehData.OwnerId);
-            string vehName =  API.getVehicleDisplayName((VehicleHash)API.getEntityModel(c));
-            if (c.ToString() != "0" && playerCanUnlock) {
+            string vehName =  API.getVehicleDisplayName((VehicleHash)API.getEntityModel(vehicle));
+            if (vehicle.ToString() != "0" && playerCanUnlock) {
 
                 // unlock vehicle
-                API.setVehicleLocked(c, !locked);
+                API.setVehicleLocked(vehicle, !locked);
                 //API.playPlayerAnimation(player, 0, "cellphone@", "f_cellphone_text_in");
 
                 // alert player
@@ -137,12 +137,12 @@ namespace Server
                 // TODO: make it so playing a mp3 multiple times does not crash the game
                 // play unlock sound for nearby players
                 /*
-                List<Client> nearbyPlayers = API.getPlayersInRadiusOfPosition(15f, API.getEntityPosition(c));
+                List<Client> nearbyPlayers = API.getPlayersInRadiusOfPosition(15f, API.getEntityPosition(vehicle));
                 foreach (Client p in nearbyPlayers) {
                     API.triggerClientEvent(p, "play_vehicle_unlock_sound");
                 }
                 */
-            } else if (c.ToString() != "0" && !playerCanUnlock) {
+            } else if (vehicle.ToString() != "0" && !playerCanUnlock) {
                 API.sendNotificationToPlayer(player, "~r~You do not have the keys for this " + vehName);
             }
         }

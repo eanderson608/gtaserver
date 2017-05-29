@@ -4,7 +4,8 @@ var selectionReticleVisible = false;
 var hitEnt = null;
 var player = API.getLocalPlayer();
 var vehicles = null;
-var vehMarker = null;
+var entMarker = null;  // marker for the currently selected entity
+var entCurr = null;  // variable for the currently selected entity
 
 API.onUpdate.connect(function (sender, args) {
 
@@ -43,6 +44,13 @@ API.onUpdate.connect(function (sender, args) {
         API.disableControlThisFrame(81);
         API.disableControlThisFrame(82);
 
+        API.disableControlThisFrame(25);
+
+        if (entCurr != null) {
+            API.setEntityPosition(entMarker, getEntityPositionOffset(entCurr, new Vector3(0,0,1.25)));
+        }
+
+
     }
 
 
@@ -80,6 +88,8 @@ API.onKeyUp.connect(function (sender, e) {
 
         if (!interactionMenu.Visible) {
 
+            interactionMenu.Clear();
+
             // disable chat
             API.setCanOpenChat(false);
 
@@ -90,16 +100,14 @@ API.onKeyUp.connect(function (sender, e) {
             if (vehicles.length > 0) {
 
                 // add marker over first item in list
-                vehMarker = API.createMarker(3, new Vector3(), new Vector3(), new Vector3(0, 0, 0), new Vector3(1, 1, 1), 255, 0, 0, 255);
-                API.attachEntity(vehicles[0], vehMarker, "0", new Vector3(0, 0, 1.25), new Vector3());
-
-                API.sendChatMessage(API.getEntityPosition(vehMarker).X.toString());
+                entCurr = vehicles[0];
+                entMarker = API.createMarker(3, new Vector3(), new Vector3(), new Vector3(0, -180, 0), new Vector3(.5, .5, .5), 66, 134, 244, 200);
+                API.triggerServerEvent("query_server_for_vehicle_owner", API.getEntitySyncedData(vehicles[0], "PLATE"));
 
                 var vehList = new List(String);
                 for (var i = 0; i < vehicles.length; i++) {
 
                     var vehName = API.getVehicleDisplayName(API.getEntityModel(vehicles[i]));
-
                     vehList.Add(vehName);
                 }
 
@@ -112,15 +120,33 @@ API.onKeyUp.connect(function (sender, e) {
 
                 if (item == vehListItem) {
 
+                    // ask the server if we own this vechicle
+                    API.triggerServerEvent("query_server_for_vehicle_owner", API.getEntitySyncedData(vehicles[index], "PLATE"));
+
                     // move marker when different vehicles are selected
-                    API.attachEntity(vehMarker, vehicles[index], "0", new Vector3(0, 0, 1.25), new Vector3());
+                    entCurr = vehicles[index];
                 }
             });
 
+            interactionMenu.OnItemSelect.connect(function(sender, item, index) {
+
+                switch (item.Text) {
+
+                    case "Door Locks":
+                        API.triggerServerEvent("request_unlock_vehicle", API.getEntitySyncedData(entCurr, "PLATE"));
+                        break;
+
+                    case "Trunk":
+                        API.requestToggleTrunk("request_toggle_trunk", API.getEntitySyncedData(entCurr, "PLATE"));
+                        break;
+                }
+            });
+
+            interactionMenu.RefreshIndex();
             interactionMenu.Visible = true;
         }
         else {
-            API.deleteEntity(vehMarker);
+            API.deleteEntity(entMarker);
             API.setCanOpenChat(true);
             interactionMenu.Visible = false;
             interactionMenu.Clear();
@@ -134,6 +160,19 @@ API.onServerEventTrigger.connect(function (eventName, args) {
 
     switch (eventName) {
 
+        case "does_player_have_access_to_vehicle":
+
+            // remove old vehicle menu items
+            deleteVehicleMenuItems();
+
+            var hasAccess = args[0];
+            if (hasAccess) {
+
+                interactionMenu.AddItem(API.createMenuItem("Door Locks", ""));
+                interactionMenu.AddItem(API.createMenuItem("Trunk", ""));
+                interactionMenu.RefreshIndex();
+            }
+            break;
     }
 });
 
@@ -149,10 +188,7 @@ function createInteractionMenu() {
     interactionMenu = API.createMenu("", 50, 0, 6);
     API.setMenuTitle(interactionMenu, "Interaction Menu");
 
-    interactionMenu.OnItemSelect.connect(function(sender, item, index) {
 
-
-    });
 
     interactionMenu.ResetKey(menuControl.Back);
     interactionMenu.DisableInstructionalButtons(true);
@@ -190,4 +226,28 @@ function getEntityPositionOffset(ent, offset) {
     var pos = API.getEntityPosition(ent);
     var result = new Vector3(pos.X + offset.X, pos.Y + offset.Y, pos.Z + offset.Z);
     return result;
+}
+
+function deleteVehicleMenuItems() {
+
+    var menuItems = interactionMenu.MenuItems;
+
+    for (var i = 0; i < menuItems.Count; i++) {
+        if (menuItems[i].Text == "Door Locks") {
+            interactionMenu.RemoveItemAt(1);
+            break;
+        }
+    }
+
+    interactionMenu.RefreshIndex();
+    menuItems = interactionMenu.MenuItems;
+
+    for (var i = 0; i < menuItems.Count; i++) {
+        if (menuItems[i].Text == "Trunk") {
+            interactionMenu.RemoveItemAt(1);
+            break;
+        }
+    }
+
+    interactionMenu.RefreshIndex();
 }

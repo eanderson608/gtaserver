@@ -15,8 +15,8 @@ namespace Server
 {
     public interface IVehicleRepository
     {
-        List<Vehicle> GetVehicleByPlate(string _plate);
-        List<Vehicle> GetVehicleByVin(int _vin);
+        List<Veh> GetVehicleByPlate(string _plate);
+        List<Veh> GetVehicleByVin(int _vin);
         Veh AddNewVehicle(Veh veh);
     }
 
@@ -33,7 +33,7 @@ namespace Server
             _vehicleRepository = _database.Connection().As<IVehicleRepository>();
 
             int vin = r.Next(100000, 1000000);
-            List<Vehicle> temp = _vehicleRepository.GetVehicleByVin(vin);
+            List<Veh> temp = _vehicleRepository.GetVehicleByVin(vin);
             while (temp.Count > 0) {
                 vin = r.Next(100000, 1000000);
                 temp = _vehicleRepository.GetVehicleByVin(vin);
@@ -53,6 +53,15 @@ namespace Server
             this.Inventory = "{}";
             this.Name = name;
             this.OwnerId = ownerId;
+        }
+
+        public bool playerHasAccessToVehicle(int charId, string plate) {
+
+            _database = new MySqlConnectionStringBuilder("server=localhost;user=root;database=gtanserver;port=3306;password=;");
+            _vehicleRepository = _database.Connection().As<IVehicleRepository>();
+
+            List<Veh> vehs = _vehicleRepository.GetVehicleByPlate(plate);
+            return charId == vehs[0].OwnerId;
         }
 
         public int Vin;

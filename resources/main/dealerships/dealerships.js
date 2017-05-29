@@ -22,7 +22,7 @@ API.onServerEventTrigger.connect(function (eventName, args) {
 
 API.onKeyUp.connect(function (sender, e) {
     if (e.KeyCode === Keys.E) {
-        API.triggerServerEvent("request_unlock_nearest_vehicle");
+        //
     }
 })
 
