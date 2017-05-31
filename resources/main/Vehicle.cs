@@ -53,6 +53,7 @@ namespace Server
             this.Inventory = "{}";
             this.Name = name;
             this.OwnerId = ownerId;
+            this.Handle = 0;
         }
 
         public bool playerHasAccessToVehicle(int charId, string plate) {
@@ -69,5 +70,6 @@ namespace Server
         public string Name;
         public int OwnerId { get; set; }
         public string Inventory { get; set; }
+        public int Handle { get; set; }
     }
 }

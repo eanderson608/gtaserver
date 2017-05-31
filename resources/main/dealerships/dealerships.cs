@@ -153,6 +153,7 @@ namespace Server
             int color = r.Next(0, 160);
             Vehicle vehicle = API.createVehicle(model, pos, rot, color, color);
             Veh veh = new Veh(API.getVehicleDisplayName(model), ownerId);
+            veh.Handle = vehicle.handle.Value;
 
             // trigger client event to stream number plate info
             API.setVehicleNumberPlate(vehicle, veh.Plate);

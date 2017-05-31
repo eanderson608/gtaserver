@@ -12494,3 +12494,609 @@ File name: 'C:\Users\Eric\Desktop\GT-MP-Server\resources\main\login.html'
 2017-05-29 15:17:14.3424 | Debug | GameServer | Announcing self to master server... 
 2017-05-29 15:19:14.3457 | Debug | GameServer | Announcing self to master server... 
 2017-05-29 15:21:14.3487 | Debug | GameServer | Announcing self to master server... 
+2017-05-29 16:38:18.1809 |  Info | Program | Terminating... 
+2017-05-29 16:38:18.1969 |  Info | GameServer | Stopping main 
+2017-05-29 16:38:18.2479 |  Info | GameServer | Stopped main. 
+2017-05-29 16:38:18.2479 |  Info | GameServer | Stopping doormanager 
+2017-05-29 16:38:18.2704 |  Info | GameServer | Stopped doormanager. 
+2017-05-29 16:38:18.2754 |  Info | GameServer | Stopping freeroam 
+2017-05-29 16:38:18.2944 |  Info | GameServer | Stopped freeroam. 
+2017-05-29 16:38:18.3209 |  Info | Program | Server stopped. 
+2017-05-29 16:38:18.8149 |  Info | Program | Grand Theft Multiplayer Server v0.1.513.599 
+2017-05-29 16:38:18.8839 |  Info | Program |   Interface:         0.0.0.0 
+2017-05-29 16:38:18.8839 |  Info | Program |   Port:                 4499 
+2017-05-29 16:38:18.8839 |  Info | Program |   Name:      Simple Grand Theft Multiplayer Server 
+2017-05-29 16:38:18.9009 |  Info | Program |   FQDN:                      
+2017-05-29 16:38:18.9009 |  Info | Program |   Players:                50 
+2017-05-29 16:38:18.9009 |  Info | Program |   Announce:             True 
+2017-05-29 16:38:18.9170 |  Info | Program | Starting... 
+2017-05-29 16:38:19.4360 | Debug | GameServer | Announcing self to master server... 
+2017-05-29 16:38:19.4465 |  Info | GameServer | Loading resources... 
+2017-05-29 16:38:19.5375 |  Info | GameServer | Starting freeroam 
+2017-05-29 16:38:19.8611 |  Info | GameServer | Resource freeroam started. 
+2017-05-29 16:38:19.8666 |  Info | GameServer | Starting doormanager 
+2017-05-29 16:38:20.0756 |  Info | GameServer | Resource doormanager started. 
+2017-05-29 16:38:20.0756 |  Info | GameServer | Starting main 
+2017-05-29 16:38:20.3376 |  Info | GameServer | Resource main started. 
+2017-05-29 16:38:20.3376 |  Info | Program | Started! Waiting for connections. 
+2017-05-29 16:38:25.8461 |  Info | GameServer | Initiating connection: [192.168.0.10:54139] 
+2017-05-29 16:38:25.9096 |  Info | GameServer | Processing connection: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-29 16:38:26.0616 |  Info | GameServer | Connection established: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-29 16:40:19.4354 | Debug | GameServer | Announcing self to master server... 
+2017-05-29 16:41:07.5051 |  Info | Program | Terminating... 
+2017-05-29 16:41:07.5206 |  Info | GameServer | Stopping main 
+2017-05-29 16:41:07.5686 |  Info | GameServer | Stopped main. 
+2017-05-29 16:41:07.5686 |  Info | GameServer | Stopping doormanager 
+2017-05-29 16:41:07.5906 |  Info | GameServer | Stopped doormanager. 
+2017-05-29 16:41:07.5906 |  Info | GameServer | Stopping freeroam 
+2017-05-29 16:41:07.6101 |  Info | GameServer | Stopped freeroam. 
+2017-05-29 16:41:07.6356 |  Info | Program | Server stopped. 
+2017-05-29 16:41:08.1131 |  Info | Program | Grand Theft Multiplayer Server v0.1.513.599 
+2017-05-29 16:41:08.1831 |  Info | Program |   Interface:         0.0.0.0 
+2017-05-29 16:41:08.1831 |  Info | Program |   Port:                 4499 
+2017-05-29 16:41:08.1966 |  Info | Program |   Name:      Simple Grand Theft Multiplayer Server 
+2017-05-29 16:41:08.1966 |  Info | Program |   FQDN:                      
+2017-05-29 16:41:08.1966 |  Info | Program |   Players:                50 
+2017-05-29 16:41:08.2136 |  Info | Program |   Announce:             True 
+2017-05-29 16:41:08.2136 |  Info | Program | Starting... 
+2017-05-29 16:41:08.7452 | Debug | GameServer | Announcing self to master server... 
+2017-05-29 16:41:08.7452 |  Info | GameServer | Loading resources... 
+2017-05-29 16:41:08.8547 |  Info | GameServer | Starting freeroam 
+2017-05-29 16:41:09.1803 |  Info | GameServer | Resource freeroam started. 
+2017-05-29 16:41:09.1803 |  Info | GameServer | Starting doormanager 
+2017-05-29 16:41:09.3968 |  Info | GameServer | Resource doormanager started. 
+2017-05-29 16:41:09.3968 |  Info | GameServer | Starting main 
+2017-05-29 16:41:09.6563 |  Info | GameServer | Resource main started. 
+2017-05-29 16:41:09.6623 |  Info | Program | Started! Waiting for connections. 
+2017-05-29 16:41:14.5856 |  Info | GameServer | Initiating connection: [192.168.0.10:54139] 
+2017-05-29 16:41:14.6521 |  Info | GameServer | Processing connection: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-29 16:41:14.8302 |  Info | GameServer | Connection established: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-29 16:43:08.7460 | Debug | GameServer | Announcing self to master server... 
+2017-05-29 16:45:08.7472 | Debug | GameServer | Announcing self to master server... 
+2017-05-29 16:45:44.9869 |  Info | Program | Terminating... 
+2017-05-29 16:45:45.0014 |  Info | GameServer | Stopping main 
+2017-05-29 16:45:45.0504 |  Info | GameServer | Stopped main. 
+2017-05-29 16:45:45.0554 |  Info | GameServer | Stopping doormanager 
+2017-05-29 16:45:45.0709 |  Info | GameServer | Stopped doormanager. 
+2017-05-29 16:45:45.0709 |  Info | GameServer | Stopping freeroam 
+2017-05-29 16:45:45.0904 |  Info | GameServer | Stopped freeroam. 
+2017-05-29 16:45:45.1139 |  Info | Program | Server stopped. 
+2017-05-29 16:45:45.5940 |  Info | Program | Grand Theft Multiplayer Server v0.1.513.599 
+2017-05-29 16:45:45.6670 |  Info | Program |   Interface:         0.0.0.0 
+2017-05-29 16:45:45.6670 |  Info | Program |   Port:                 4499 
+2017-05-29 16:45:45.6790 |  Info | Program |   Name:      Simple Grand Theft Multiplayer Server 
+2017-05-29 16:45:45.6790 |  Info | Program |   FQDN:                      
+2017-05-29 16:45:45.6790 |  Info | Program |   Players:                50 
+2017-05-29 16:45:45.6960 |  Info | Program |   Announce:             True 
+2017-05-29 16:45:45.6960 |  Info | Program | Starting... 
+2017-05-29 16:45:46.2151 | Debug | GameServer | Announcing self to master server... 
+2017-05-29 16:45:46.2256 |  Info | GameServer | Loading resources... 
+2017-05-29 16:45:46.3156 |  Info | GameServer | Starting freeroam 
+2017-05-29 16:45:46.6476 |  Info | GameServer | Resource freeroam started. 
+2017-05-29 16:45:46.6476 |  Info | GameServer | Starting doormanager 
+2017-05-29 16:45:46.8651 |  Info | GameServer | Resource doormanager started. 
+2017-05-29 16:45:46.8651 |  Info | GameServer | Starting main 
+2017-05-29 16:45:47.1272 |  Info | GameServer | Resource main started. 
+2017-05-29 16:45:47.1332 |  Info | Program | Started! Waiting for connections. 
+2017-05-29 16:45:52.1685 |  Info | GameServer | Initiating connection: [192.168.0.10:54139] 
+2017-05-29 16:45:52.2145 |  Info | GameServer | Processing connection: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-29 16:45:52.4085 |  Info | GameServer | Connection established: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-29 16:47:33.1070 | Error | ScriptingEngine | EXCEPTION IN RESOURCE main INSIDE SCRIPTENGINE dealerships System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> MySql.Data.MySqlClient.MySqlException: Incorrect number of arguments for PROCEDURE gtanserver.AddNewVehicle; expected 6, got 5
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Insight.Database.DBConnectionExtensions.ExecuteAndAutoClose[T](IDbConnection connection, Func`2 getCommand, Func`3 translate, CommandBehavior commandBehavior)
+   at Insight.Database.DBConnectionExtensions.Query[T](IDbConnection connection, String sql, Object parameters, IQueryReader`1 returns, CommandType commandType, CommandBehavior commandBehavior, Nullable`1 commandTimeout, IDbTransaction transaction, Object outputParameters)
+   at Server.IVehicleRepository3ea291f9-f112-4e43-acb0-8521a27541fc.AddNewVehicle(Veh veh)
+   at Server.dealerships.createVehicleHelper(VehicleHash model, Vector3 pos, Vector3 rot, Int32 ownerId)
+   at Server.dealerships.veh(Client player, VehicleHash model)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at GrandTheftMultiplayer.Server.ScriptingEngine.<>c__DisplayClass28_0.<InvokeVoidMethod>b__0()
+   at GrandTheftMultiplayer.Server.ScriptingEngine.MainThreadLoop()
+2017-05-29 16:47:46.2186 | Debug | GameServer | Announcing self to master server... 
+2017-05-29 16:47:48.3805 |  Info | Program | Terminating... 
+2017-05-29 16:47:48.3995 |  Info | GameServer | Stopping main 
+2017-05-29 16:47:48.4535 |  Info | GameServer | Stopped main. 
+2017-05-29 16:47:48.4615 |  Info | GameServer | Stopping doormanager 
+2017-05-29 16:47:48.4795 |  Info | GameServer | Stopped doormanager. 
+2017-05-29 16:47:48.4795 |  Info | GameServer | Stopping freeroam 
+2017-05-29 16:47:48.5085 |  Info | GameServer | Stopped freeroam. 
+2017-05-29 16:47:48.5360 |  Info | Program | Server stopped. 
+2017-05-29 16:47:49.0261 |  Info | Program | Grand Theft Multiplayer Server v0.1.513.599 
+2017-05-29 16:47:49.0991 |  Info | Program |   Interface:         0.0.0.0 
+2017-05-29 16:47:49.1086 |  Info | Program |   Port:                 4499 
+2017-05-29 16:47:49.1176 |  Info | Program |   Name:      Simple Grand Theft Multiplayer Server 
+2017-05-29 16:47:49.1176 |  Info | Program |   FQDN:                      
+2017-05-29 16:47:49.1361 |  Info | Program |   Players:                50 
+2017-05-29 16:47:49.1361 |  Info | Program |   Announce:             True 
+2017-05-29 16:47:49.1546 |  Info | Program | Starting... 
+2017-05-29 16:47:49.6782 | Debug | GameServer | Announcing self to master server... 
+2017-05-29 16:47:49.6782 |  Info | GameServer | Loading resources... 
+2017-05-29 16:47:49.7922 |  Info | GameServer | Starting freeroam 
+2017-05-29 16:47:50.1162 |  Info | GameServer | Resource freeroam started. 
+2017-05-29 16:47:50.1162 |  Info | GameServer | Starting doormanager 
+2017-05-29 16:47:50.3368 |  Info | GameServer | Resource doormanager started. 
+2017-05-29 16:47:50.3368 |  Info | GameServer | Starting main 
+2017-05-29 16:47:50.6418 |  Info | GameServer | Resource main started. 
+2017-05-29 16:47:50.6508 |  Info | Program | Started! Waiting for connections. 
+2017-05-29 16:47:56.8839 |  Info | GameServer | Initiating connection: [192.168.0.10:54139] 
+2017-05-29 16:47:56.9450 |  Info | GameServer | Processing connection: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-29 16:47:57.1105 |  Info | GameServer | Connection established: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-29 16:49:49.6847 | Debug | GameServer | Announcing self to master server... 
+2017-05-29 16:51:15.1802 |  Info | Program | Terminating... 
+2017-05-29 16:51:15.1937 |  Info | GameServer | Stopping main 
+2017-05-29 16:51:15.2457 |  Info | GameServer | Stopped main. 
+2017-05-29 16:51:15.2457 |  Info | GameServer | Stopping doormanager 
+2017-05-29 16:51:15.2722 |  Info | GameServer | Stopped doormanager. 
+2017-05-29 16:51:15.2722 |  Info | GameServer | Stopping freeroam 
+2017-05-29 16:51:15.2932 |  Info | GameServer | Stopped freeroam. 
+2017-05-29 16:51:15.3182 |  Info | Program | Server stopped. 
+2017-05-29 16:51:15.8013 |  Info | Program | Grand Theft Multiplayer Server v0.1.513.599 
+2017-05-29 16:51:15.8718 |  Info | Program |   Interface:         0.0.0.0 
+2017-05-29 16:51:15.8718 |  Info | Program |   Port:                 4499 
+2017-05-29 16:51:15.8858 |  Info | Program |   Name:      Simple Grand Theft Multiplayer Server 
+2017-05-29 16:51:15.8858 |  Info | Program |   FQDN:                      
+2017-05-29 16:51:15.8983 |  Info | Program |   Players:                50 
+2017-05-29 16:51:15.8983 |  Info | Program |   Announce:             True 
+2017-05-29 16:51:15.8983 |  Info | Program | Starting... 
+2017-05-29 16:51:16.4303 | Debug | GameServer | Announcing self to master server... 
+2017-05-29 16:51:16.4303 |  Info | GameServer | Loading resources... 
+2017-05-29 16:51:16.5358 |  Info | GameServer | Starting freeroam 
+2017-05-29 16:51:16.8689 |  Info | GameServer | Resource freeroam started. 
+2017-05-29 16:51:16.8689 |  Info | GameServer | Starting doormanager 
+2017-05-29 16:51:17.1054 |  Info | GameServer | Resource doormanager started. 
+2017-05-29 16:51:17.1054 |  Info | GameServer | Starting main 
+2017-05-29 16:51:17.3164 | Error | GameServer | Error/warning while compiling script! 
+2017-05-29 16:51:17.3229 | Error | GameServer | Error (CS0128) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\interactionmenu\interactionmenu.cs:50: A local variable named 'vehs' is already defined in this scope 
+2017-05-29 16:51:17.3229 | Error | GameServer | Error (CS1502) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\interactionmenu\interactionmenu.cs:51: The best overloaded method match for 'GrandTheftMultiplayer.Server.API.ServerAPI.getEntityFromHandle<GrandTheftMultiplayer.Server.Elements.Vehicle>(GrandTheftMultiplayer.Shared.NetHandle)' has some invalid arguments 
+2017-05-29 16:51:17.3229 | Error | GameServer | Error (CS1503) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\interactionmenu\interactionmenu.cs:51: Argument 1: cannot convert from 'int' to 'GrandTheftMultiplayer.Shared.NetHandle' 
+2017-05-29 16:51:17.3429 |  Info | GameServer | Resource main started. 
+2017-05-29 16:51:17.3429 |  Info | Program | Started! Waiting for connections. 
+2017-05-29 16:51:46.6053 |  Info | Program | Terminating... 
+2017-05-29 16:51:46.6268 |  Info | GameServer | Stopping main 
+2017-05-29 16:51:46.6448 |  Info | GameServer | Stopped main. 
+2017-05-29 16:51:46.6503 |  Info | GameServer | Stopping doormanager 
+2017-05-29 16:51:46.6703 |  Info | GameServer | Stopped doormanager. 
+2017-05-29 16:51:46.6703 |  Info | GameServer | Stopping freeroam 
+2017-05-29 16:51:46.6928 |  Info | GameServer | Stopped freeroam. 
+2017-05-29 16:51:46.7183 |  Info | Program | Server stopped. 
+2017-05-29 16:51:47.1784 |  Info | Program | Grand Theft Multiplayer Server v0.1.513.599 
+2017-05-29 16:51:47.2399 |  Info | Program |   Interface:         0.0.0.0 
+2017-05-29 16:51:47.2464 |  Info | Program |   Port:                 4499 
+2017-05-29 16:51:47.2464 |  Info | Program |   Name:      Simple Grand Theft Multiplayer Server 
+2017-05-29 16:51:47.2569 |  Info | Program |   FQDN:                      
+2017-05-29 16:51:47.2569 |  Info | Program |   Players:                50 
+2017-05-29 16:51:47.2569 |  Info | Program |   Announce:             True 
+2017-05-29 16:51:47.2719 |  Info | Program | Starting... 
+2017-05-29 16:51:47.7515 | Debug | GameServer | Announcing self to master server... 
+2017-05-29 16:51:47.7600 |  Info | GameServer | Loading resources... 
+2017-05-29 16:51:47.8455 |  Info | GameServer | Starting freeroam 
+2017-05-29 16:51:48.1595 |  Info | GameServer | Resource freeroam started. 
+2017-05-29 16:51:48.1855 |  Info | GameServer | Starting doormanager 
+2017-05-29 16:51:48.3930 |  Info | GameServer | Resource doormanager started. 
+2017-05-29 16:51:48.3990 |  Info | GameServer | Starting main 
+2017-05-29 16:51:48.6061 | Error | GameServer | Error/warning while compiling script! 
+2017-05-29 16:51:48.6061 | Error | GameServer | Error (CS1502) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\interactionmenu\interactionmenu.cs:52: The best overloaded method match for 'GrandTheftMultiplayer.Server.API.ServerAPI.getEntityFromHandle<GrandTheftMultiplayer.Server.Elements.Vehicle>(GrandTheftMultiplayer.Shared.NetHandle)' has some invalid arguments 
+2017-05-29 16:51:48.6166 | Error | GameServer | Error (CS1503) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\interactionmenu\interactionmenu.cs:52: Argument 1: cannot convert from 'int' to 'GrandTheftMultiplayer.Shared.NetHandle' 
+2017-05-29 16:51:48.6166 |  Info | GameServer | Resource main started. 
+2017-05-29 16:51:48.6336 |  Info | Program | Started! Waiting for connections. 
+2017-05-29 16:52:14.4679 |  Info | Program | Terminating... 
+2017-05-29 16:52:14.4844 |  Info | GameServer | Stopping main 
+2017-05-29 16:52:14.5029 |  Info | GameServer | Stopped main. 
+2017-05-29 16:52:14.5084 |  Info | GameServer | Stopping doormanager 
+2017-05-29 16:52:14.5309 |  Info | GameServer | Stopped doormanager. 
+2017-05-29 16:52:14.5369 |  Info | GameServer | Stopping freeroam 
+2017-05-29 16:52:14.5369 |  Info | GameServer | Stopped freeroam. 
+2017-05-29 16:52:14.5764 |  Info | Program | Server stopped. 
+2017-05-29 16:52:15.0405 |  Info | Program | Grand Theft Multiplayer Server v0.1.513.599 
+2017-05-29 16:52:15.1055 |  Info | Program |   Interface:         0.0.0.0 
+2017-05-29 16:52:15.1055 |  Info | Program |   Port:                 4499 
+2017-05-29 16:52:15.1175 |  Info | Program |   Name:      Simple Grand Theft Multiplayer Server 
+2017-05-29 16:52:15.1175 |  Info | Program |   FQDN:                      
+2017-05-29 16:52:15.1175 |  Info | Program |   Players:                50 
+2017-05-29 16:52:15.1325 |  Info | Program |   Announce:             True 
+2017-05-29 16:52:15.1325 |  Info | Program | Starting... 
+2017-05-29 16:52:15.6180 | Debug | GameServer | Announcing self to master server... 
+2017-05-29 16:52:15.6180 |  Info | GameServer | Loading resources... 
+2017-05-29 16:52:15.7140 |  Info | GameServer | Starting freeroam 
+2017-05-29 16:52:16.0221 |  Info | GameServer | Resource freeroam started. 
+2017-05-29 16:52:16.0221 |  Info | GameServer | Starting doormanager 
+2017-05-29 16:52:16.2321 |  Info | GameServer | Resource doormanager started. 
+2017-05-29 16:52:16.2321 |  Info | GameServer | Starting main 
+2017-05-29 16:52:16.4411 | Error | GameServer | Error/warning while compiling script! 
+2017-05-29 16:52:16.4466 | Error | GameServer | Error (CS0030) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\interactionmenu\interactionmenu.cs:52: Cannot convert type 'int' to 'GrandTheftMultiplayer.Shared.NetHandle' 
+2017-05-29 16:52:16.4466 |  Info | GameServer | Resource main started. 
+2017-05-29 16:52:16.4606 |  Info | Program | Started! Waiting for connections. 
+2017-05-29 16:53:23.5233 |  Info | Program | Terminating... 
+2017-05-29 16:53:23.5388 |  Info | GameServer | Stopping main 
+2017-05-29 16:53:23.5563 |  Info | GameServer | Stopped main. 
+2017-05-29 16:53:23.5563 |  Info | GameServer | Stopping doormanager 
+2017-05-29 16:53:23.5833 |  Info | GameServer | Stopped doormanager. 
+2017-05-29 16:53:23.5893 |  Info | GameServer | Stopping freeroam 
+2017-05-29 16:53:23.6053 |  Info | GameServer | Stopped freeroam. 
+2017-05-29 16:53:23.6293 |  Info | Program | Server stopped. 
+2017-05-29 16:53:24.0714 |  Info | Program | Grand Theft Multiplayer Server v0.1.513.599 
+2017-05-29 16:53:24.1354 |  Info | Program |   Interface:         0.0.0.0 
+2017-05-29 16:53:24.1354 |  Info | Program |   Port:                 4499 
+2017-05-29 16:53:24.1469 |  Info | Program |   Name:      Simple Grand Theft Multiplayer Server 
+2017-05-29 16:53:24.1469 |  Info | Program |   FQDN:                      
+2017-05-29 16:53:24.1469 |  Info | Program |   Players:                50 
+2017-05-29 16:53:24.1624 |  Info | Program |   Announce:             True 
+2017-05-29 16:53:24.1624 |  Info | Program | Starting... 
+2017-05-29 16:53:24.6525 | Debug | GameServer | Announcing self to master server... 
+2017-05-29 16:53:24.6525 |  Info | GameServer | Loading resources... 
+2017-05-29 16:53:24.7475 |  Info | GameServer | Starting freeroam 
+2017-05-29 16:53:25.0640 |  Info | GameServer | Resource freeroam started. 
+2017-05-29 16:53:25.0695 |  Info | GameServer | Starting doormanager 
+2017-05-29 16:53:25.2810 |  Info | GameServer | Resource doormanager started. 
+2017-05-29 16:53:25.2810 |  Info | GameServer | Starting main 
+2017-05-29 16:53:25.5556 |  Info | GameServer | Resource main started. 
+2017-05-29 16:53:25.5556 |  Info | Program | Started! Waiting for connections. 
+2017-05-29 16:53:31.5203 |  Info | GameServer | Initiating connection: [192.168.0.10:54139] 
+2017-05-29 16:53:31.5938 |  Info | GameServer | Processing connection: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-29 16:53:31.7623 |  Info | GameServer | Connection established: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-29 16:54:51.7214 |  Info | GameServer | Player disconnected: godsdead20 (godsdead20) [192.168.0.10], reason: Quit 
+2017-05-29 16:54:54.1689 |  Info | GameServer | Initiating connection: [192.168.0.10:54139] 
+2017-05-29 16:54:54.1864 |  Info | GameServer | Processing connection: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-29 16:54:54.2484 |  Info | GameServer | Connection established: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-29 16:55:24.6589 | Debug | GameServer | Announcing self to master server... 
+2017-05-29 16:57:24.6610 | Debug | GameServer | Announcing self to master server... 
+2017-05-29 16:59:03.7401 |  Info | GameServer | Player disconnected: godsdead20 (godsdead20) [192.168.0.10], reason: Quit 
+2017-05-31 10:11:49.1114 |  Info | Program | Grand Theft Multiplayer Server v0.1.513.599 
+2017-05-31 10:11:49.2756 |  Info | Program |   Interface:         0.0.0.0 
+2017-05-31 10:11:49.2756 |  Info | Program |   Port:                 4499 
+2017-05-31 10:11:49.2756 |  Info | Program |   Name:      Simple Grand Theft Multiplayer Server 
+2017-05-31 10:11:49.2756 |  Info | Program |   FQDN:                      
+2017-05-31 10:11:49.2756 |  Info | Program |   Players:                50 
+2017-05-31 10:11:49.2961 |  Info | Program |   Announce:             True 
+2017-05-31 10:11:49.2961 |  Info | Program | Starting... 
+2017-05-31 10:11:50.0286 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:11:50.0286 |  Info | GameServer | Loading resources... 
+2017-05-31 10:11:50.2135 |  Info | GameServer | Starting freeroam 
+2017-05-31 10:11:53.4100 |  Info | GameServer | Resource freeroam started. 
+2017-05-31 10:11:53.4100 |  Info | GameServer | Starting doormanager 
+2017-05-31 10:11:53.7261 |  Info | GameServer | Resource doormanager started. 
+2017-05-31 10:11:53.7261 |  Info | GameServer | Starting main 
+2017-05-31 10:11:54.5954 |  Info | GameServer | Resource main started. 
+2017-05-31 10:11:54.5954 |  Info | Program | Started! Waiting for connections. 
+2017-05-31 10:13:50.0314 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:15:50.0374 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:16:38.7115 |  Info | GameServer | Initiating connection: [192.168.0.10:54587] 
+2017-05-31 10:16:38.7640 |  Info | GameServer | Processing connection: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-31 10:16:39.9726 |  Info | GameServer | Connection established: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-31 10:17:50.0411 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:19:50.0458 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:21:50.0542 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:22:19.2858 |  Info | Program | Terminating... 
+2017-05-31 10:22:19.3018 |  Info | GameServer | Stopping main 
+2017-05-31 10:22:19.3523 |  Info | GameServer | Stopped main. 
+2017-05-31 10:22:19.3523 |  Info | GameServer | Stopping doormanager 
+2017-05-31 10:22:19.3753 |  Info | GameServer | Stopped doormanager. 
+2017-05-31 10:22:19.3753 |  Info | GameServer | Stopping freeroam 
+2017-05-31 10:22:19.3963 |  Info | GameServer | Stopped freeroam. 
+2017-05-31 10:22:19.4208 |  Info | Program | Server stopped. 
+2017-05-31 10:22:22.3217 |  Info | Program | Grand Theft Multiplayer Server v0.1.513.599 
+2017-05-31 10:22:22.4022 |  Info | Program |   Interface:         0.0.0.0 
+2017-05-31 10:22:22.4022 |  Info | Program |   Port:                 4499 
+2017-05-31 10:22:22.4157 |  Info | Program |   Name:      Simple Grand Theft Multiplayer Server 
+2017-05-31 10:22:22.4157 |  Info | Program |   FQDN:                      
+2017-05-31 10:22:22.4282 |  Info | Program |   Players:                50 
+2017-05-31 10:22:22.4282 |  Info | Program |   Announce:             True 
+2017-05-31 10:22:22.4282 |  Info | Program | Starting... 
+2017-05-31 10:22:23.5284 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:22:23.5389 |  Info | GameServer | Loading resources... 
+2017-05-31 10:22:23.6764 |  Info | GameServer | Starting freeroam 
+2017-05-31 10:22:25.1603 |  Info | GameServer | Resource freeroam started. 
+2017-05-31 10:22:25.1663 |  Info | GameServer | Starting doormanager 
+2017-05-31 10:22:25.4409 |  Info | GameServer | Resource doormanager started. 
+2017-05-31 10:22:25.4464 |  Info | GameServer | Starting main 
+2017-05-31 10:22:26.1380 |  Info | GameServer | Resource main started. 
+2017-05-31 10:22:26.1380 |  Info | Program | Started! Waiting for connections. 
+2017-05-31 10:22:32.1143 |  Info | GameServer | Initiating connection: [192.168.0.10:54587] 
+2017-05-31 10:22:32.1798 |  Info | GameServer | Processing connection: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-31 10:22:32.3653 |  Info | GameServer | Connection established: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-31 10:24:23.5297 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:25:42.8386 |  Info | Program | Terminating... 
+2017-05-31 10:25:42.8536 |  Info | GameServer | Stopping main 
+2017-05-31 10:25:42.9026 |  Info | GameServer | Stopped main. 
+2017-05-31 10:25:42.9026 |  Info | GameServer | Stopping doormanager 
+2017-05-31 10:25:42.9247 |  Info | GameServer | Stopped doormanager. 
+2017-05-31 10:25:42.9296 |  Info | GameServer | Stopping freeroam 
+2017-05-31 10:25:42.9446 |  Info | GameServer | Stopped freeroam. 
+2017-05-31 10:25:42.9692 |  Info | Program | Server stopped. 
+2017-05-31 10:25:43.4722 |  Info | Program | Grand Theft Multiplayer Server v0.1.513.599 
+2017-05-31 10:25:43.5442 |  Info | Program |   Interface:         0.0.0.0 
+2017-05-31 10:25:43.5442 |  Info | Program |   Port:                 4499 
+2017-05-31 10:25:43.5582 |  Info | Program |   Name:      Simple Grand Theft Multiplayer Server 
+2017-05-31 10:25:43.5582 |  Info | Program |   FQDN:                      
+2017-05-31 10:25:43.5702 |  Info | Program |   Players:                50 
+2017-05-31 10:25:43.5702 |  Info | Program |   Announce:             True 
+2017-05-31 10:25:43.5702 |  Info | Program | Starting... 
+2017-05-31 10:25:44.1253 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:25:44.1358 |  Info | GameServer | Loading resources... 
+2017-05-31 10:25:44.2308 |  Info | GameServer | Starting freeroam 
+2017-05-31 10:25:44.6689 |  Info | GameServer | Resource freeroam started. 
+2017-05-31 10:25:44.6689 |  Info | GameServer | Starting doormanager 
+2017-05-31 10:25:44.9304 |  Info | GameServer | Resource doormanager started. 
+2017-05-31 10:25:44.9304 |  Info | GameServer | Starting main 
+2017-05-31 10:25:45.2419 |  Info | GameServer | Resource main started. 
+2017-05-31 10:25:45.2419 |  Info | Program | Started! Waiting for connections. 
+2017-05-31 10:26:08.1049 |  Info | GameServer | Initiating connection: [192.168.0.10:54587] 
+2017-05-31 10:26:08.1729 |  Info | GameServer | Processing connection: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-31 10:26:08.3589 |  Info | GameServer | Connection established: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-31 10:27:44.1276 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:29:44.1304 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:31:44.1315 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:33:44.1379 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:33:50.8376 |  Info | Program | Terminating... 
+2017-05-31 10:33:50.8496 |  Info | GameServer | Stopping main 
+2017-05-31 10:33:50.8991 |  Info | GameServer | Stopped main. 
+2017-05-31 10:33:50.8991 |  Info | GameServer | Stopping doormanager 
+2017-05-31 10:33:50.9206 |  Info | GameServer | Stopped doormanager. 
+2017-05-31 10:33:50.9206 |  Info | GameServer | Stopping freeroam 
+2017-05-31 10:33:50.9441 |  Info | GameServer | Stopped freeroam. 
+2017-05-31 10:33:50.9776 |  Info | Program | Server stopped. 
+2017-05-31 10:33:51.4832 |  Info | Program | Grand Theft Multiplayer Server v0.1.513.599 
+2017-05-31 10:33:51.5552 |  Info | Program |   Interface:         0.0.0.0 
+2017-05-31 10:33:51.5552 |  Info | Program |   Port:                 4499 
+2017-05-31 10:33:51.5687 |  Info | Program |   Name:      Simple Grand Theft Multiplayer Server 
+2017-05-31 10:33:51.5687 |  Info | Program |   FQDN:                      
+2017-05-31 10:33:51.5687 |  Info | Program |   Players:                50 
+2017-05-31 10:33:51.5877 |  Info | Program |   Announce:             True 
+2017-05-31 10:33:51.5877 |  Info | Program | Starting... 
+2017-05-31 10:33:52.1313 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:33:52.1313 |  Info | GameServer | Loading resources... 
+2017-05-31 10:33:52.2388 |  Info | GameServer | Starting freeroam 
+2017-05-31 10:33:52.5908 |  Info | GameServer | Resource freeroam started. 
+2017-05-31 10:33:52.5908 |  Info | GameServer | Starting doormanager 
+2017-05-31 10:33:52.8289 |  Info | GameServer | Resource doormanager started. 
+2017-05-31 10:33:52.8349 |  Info | GameServer | Starting main 
+2017-05-31 10:33:53.1225 |  Info | GameServer | Resource main started. 
+2017-05-31 10:33:53.1225 |  Info | Program | Started! Waiting for connections. 
+2017-05-31 10:33:58.8305 |  Info | GameServer | Initiating connection: [192.168.0.10:54587] 
+2017-05-31 10:33:58.8980 |  Info | GameServer | Processing connection: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-31 10:33:59.0510 |  Info | GameServer | Connection established: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-31 10:35:52.1308 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:36:57.8260 |  Info | Program | Terminating... 
+2017-05-31 10:36:57.8455 |  Info | GameServer | Stopping main 
+2017-05-31 10:36:57.8935 |  Info | GameServer | Stopped main. 
+2017-05-31 10:36:57.8990 |  Info | GameServer | Stopping doormanager 
+2017-05-31 10:36:57.9145 |  Info | GameServer | Stopped doormanager. 
+2017-05-31 10:36:57.9145 |  Info | GameServer | Stopping freeroam 
+2017-05-31 10:36:57.9345 |  Info | GameServer | Stopped freeroam. 
+2017-05-31 10:36:57.9675 |  Info | Program | Server stopped. 
+2017-05-31 10:36:58.4636 |  Info | Program | Grand Theft Multiplayer Server v0.1.513.599 
+2017-05-31 10:36:58.5361 |  Info | Program |   Interface:         0.0.0.0 
+2017-05-31 10:36:58.5426 |  Info | Program |   Port:                 4499 
+2017-05-31 10:36:58.5426 |  Info | Program |   Name:      Simple Grand Theft Multiplayer Server 
+2017-05-31 10:36:58.5551 |  Info | Program |   FQDN:                      
+2017-05-31 10:36:58.5551 |  Info | Program |   Players:                50 
+2017-05-31 10:36:58.5551 |  Info | Program |   Announce:             True 
+2017-05-31 10:36:58.5726 |  Info | Program | Starting... 
+2017-05-31 10:36:59.1111 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:36:59.1221 |  Info | GameServer | Loading resources... 
+2017-05-31 10:36:59.2272 |  Info | GameServer | Starting freeroam 
+2017-05-31 10:36:59.5812 |  Info | GameServer | Resource freeroam started. 
+2017-05-31 10:36:59.5872 |  Info | GameServer | Starting doormanager 
+2017-05-31 10:36:59.8212 |  Info | GameServer | Resource doormanager started. 
+2017-05-31 10:36:59.8212 |  Info | GameServer | Starting main 
+2017-05-31 10:37:00.1193 |  Info | GameServer | Resource main started. 
+2017-05-31 10:37:00.1193 |  Info | Program | Started! Waiting for connections. 
+2017-05-31 10:37:36.5201 |  Info | GameServer | Initiating connection: [192.168.0.10:54587] 
+2017-05-31 10:37:36.5801 |  Info | GameServer | Processing connection: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-31 10:37:36.7782 |  Info | GameServer | Connection established: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-31 10:38:59.1156 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:40:59.1167 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:42:59.1226 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:43:23.5631 |  Info | Program | Terminating... 
+2017-05-31 10:43:23.5791 |  Info | GameServer | Stopping main 
+2017-05-31 10:43:23.6271 |  Info | GameServer | Stopped main. 
+2017-05-31 10:43:23.6331 |  Info | GameServer | Stopping doormanager 
+2017-05-31 10:43:23.6486 |  Info | GameServer | Stopped doormanager. 
+2017-05-31 10:43:23.6486 |  Info | GameServer | Stopping freeroam 
+2017-05-31 10:43:23.6691 |  Info | GameServer | Stopped freeroam. 
+2017-05-31 10:43:23.6936 |  Info | Program | Server stopped. 
+2017-05-31 10:43:24.1981 |  Info | Program | Grand Theft Multiplayer Server v0.1.513.599 
+2017-05-31 10:43:24.2687 |  Info | Program |   Interface:         0.0.0.0 
+2017-05-31 10:43:24.2767 |  Info | Program |   Port:                 4499 
+2017-05-31 10:43:24.2767 |  Info | Program |   Name:      Simple Grand Theft Multiplayer Server 
+2017-05-31 10:43:24.2882 |  Info | Program |   FQDN:                      
+2017-05-31 10:43:24.2882 |  Info | Program |   Players:                50 
+2017-05-31 10:43:24.2882 |  Info | Program |   Announce:             True 
+2017-05-31 10:43:24.3067 |  Info | Program | Starting... 
+2017-05-31 10:43:24.8462 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:43:24.8557 |  Info | GameServer | Loading resources... 
+2017-05-31 10:43:24.9442 |  Info | GameServer | Starting freeroam 
+2017-05-31 10:43:25.2898 |  Info | GameServer | Resource freeroam started. 
+2017-05-31 10:43:25.2898 |  Info | GameServer | Starting doormanager 
+2017-05-31 10:43:25.5268 |  Info | GameServer | Resource doormanager started. 
+2017-05-31 10:43:25.5268 |  Info | GameServer | Starting main 
+2017-05-31 10:43:25.8124 |  Info | GameServer | Resource main started. 
+2017-05-31 10:43:25.8184 |  Info | Program | Started! Waiting for connections. 
+2017-05-31 10:45:24.8512 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:47:24.8515 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:49:24.8562 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:51:24.8587 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:53:14.1981 |  Info | Program | Terminating... 
+2017-05-31 10:53:14.2126 |  Info | GameServer | Stopping main 
+2017-05-31 10:53:14.2641 |  Info | GameServer | Stopped main. 
+2017-05-31 10:53:14.2641 |  Info | GameServer | Stopping doormanager 
+2017-05-31 10:53:14.2871 |  Info | GameServer | Stopped doormanager. 
+2017-05-31 10:53:14.2871 |  Info | GameServer | Stopping freeroam 
+2017-05-31 10:53:14.3086 |  Info | GameServer | Stopped freeroam. 
+2017-05-31 10:53:14.3326 |  Info | Program | Server stopped. 
+2017-05-31 10:53:14.8087 |  Info | Program | Grand Theft Multiplayer Server v0.1.513.599 
+2017-05-31 10:53:14.8747 |  Info | Program |   Interface:         0.0.0.0 
+2017-05-31 10:53:14.8817 |  Info | Program |   Port:                 4499 
+2017-05-31 10:53:14.8817 |  Info | Program |   Name:      Simple Grand Theft Multiplayer Server 
+2017-05-31 10:53:14.8817 |  Info | Program |   FQDN:                      
+2017-05-31 10:53:14.8982 |  Info | Program |   Players:                50 
+2017-05-31 10:53:14.8982 |  Info | Program |   Announce:             True 
+2017-05-31 10:53:14.8982 |  Info | Program | Starting... 
+2017-05-31 10:53:15.4082 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:53:15.4172 |  Info | GameServer | Loading resources... 
+2017-05-31 10:53:15.5048 |  Info | GameServer | Starting freeroam 
+2017-05-31 10:53:15.8933 |  Info | GameServer | Resource freeroam started. 
+2017-05-31 10:53:15.8993 |  Info | GameServer | Starting doormanager 
+2017-05-31 10:53:16.1298 |  Info | GameServer | Resource doormanager started. 
+2017-05-31 10:53:16.1358 |  Info | GameServer | Starting main 
+2017-05-31 10:53:16.3874 | Error | GameServer | Error/warning while compiling script! 
+2017-05-31 10:53:16.3874 | Error | GameServer | Error (CS0103) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\interactionmenu\interactionmenu.cs:74: The name 'vehName' does not exist in the current context 
+2017-05-31 10:53:16.3989 | Error | GameServer | Error (CS0103) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\interactionmenu\interactionmenu.cs:76: The name 'vehName' does not exist in the current context 
+2017-05-31 10:53:16.3989 |  Info | GameServer | Resource main started. 
+2017-05-31 10:53:16.4144 |  Info | Program | Started! Waiting for connections. 
+2017-05-31 10:54:02.9569 |  Info | Program | Terminating... 
+2017-05-31 10:54:02.9729 |  Info | GameServer | Stopping main 
+2017-05-31 10:54:02.9914 |  Info | GameServer | Stopped main. 
+2017-05-31 10:54:02.9914 |  Info | GameServer | Stopping doormanager 
+2017-05-31 10:54:03.0189 |  Info | GameServer | Stopped doormanager. 
+2017-05-31 10:54:03.0239 |  Info | GameServer | Stopping freeroam 
+2017-05-31 10:54:03.0409 |  Info | GameServer | Stopped freeroam. 
+2017-05-31 10:54:03.0659 |  Info | Program | Server stopped. 
+2017-05-31 10:54:03.5244 |  Info | Program | Grand Theft Multiplayer Server v0.1.513.599 
+2017-05-31 10:54:03.5934 |  Info | Program |   Interface:         0.0.0.0 
+2017-05-31 10:54:03.6004 |  Info | Program |   Port:                 4499 
+2017-05-31 10:54:03.6004 |  Info | Program |   Name:      Simple Grand Theft Multiplayer Server 
+2017-05-31 10:54:03.6004 |  Info | Program |   FQDN:                      
+2017-05-31 10:54:03.6179 |  Info | Program |   Players:                50 
+2017-05-31 10:54:03.6179 |  Info | Program |   Announce:             True 
+2017-05-31 10:54:03.6179 |  Info | Program | Starting... 
+2017-05-31 10:54:04.1230 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:54:04.1320 |  Info | GameServer | Loading resources... 
+2017-05-31 10:54:04.2190 |  Info | GameServer | Starting freeroam 
+2017-05-31 10:54:04.5711 |  Info | GameServer | Resource freeroam started. 
+2017-05-31 10:54:04.5711 |  Info | GameServer | Starting doormanager 
+2017-05-31 10:54:04.8111 |  Info | GameServer | Resource doormanager started. 
+2017-05-31 10:54:04.8111 |  Info | GameServer | Starting main 
+2017-05-31 10:54:05.1006 |  Info | GameServer | Resource main started. 
+2017-05-31 10:54:05.1006 |  Info | Program | Started! Waiting for connections. 
+2017-05-31 10:54:13.2121 |  Info | GameServer | Initiating connection: [192.168.0.10:54587] 
+2017-05-31 10:54:13.2777 |  Info | GameServer | Processing connection: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-31 10:54:13.4767 |  Info | GameServer | Connection established: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-31 10:54:48.7958 |  Info | GameServer | Player disconnected: godsdead20 (godsdead20) [192.168.0.10], reason: Quit 
+2017-05-31 10:54:53.4052 |  Info | GameServer | Initiating connection: [192.168.0.10:54587] 
+2017-05-31 10:54:53.4052 |  Info | GameServer | Processing connection: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-31 10:54:53.4662 |  Info | GameServer | Connection established: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-31 10:56:04.1233 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:56:26.5147 |  Info | Program | Terminating... 
+2017-05-31 10:56:26.5317 |  Info | GameServer | Stopping main 
+2017-05-31 10:56:26.5827 |  Info | GameServer | Stopped main. 
+2017-05-31 10:56:26.5897 |  Info | GameServer | Stopping doormanager 
+2017-05-31 10:56:26.6047 |  Info | GameServer | Stopped doormanager. 
+2017-05-31 10:56:26.6047 |  Info | GameServer | Stopping freeroam 
+2017-05-31 10:56:26.6267 |  Info | GameServer | Stopped freeroam. 
+2017-05-31 10:56:26.6517 |  Info | Program | Server stopped. 
+2017-05-31 10:56:27.1443 |  Info | Program | Grand Theft Multiplayer Server v0.1.513.599 
+2017-05-31 10:56:27.2163 |  Info | Program |   Interface:         0.0.0.0 
+2017-05-31 10:56:27.2163 |  Info | Program |   Port:                 4499 
+2017-05-31 10:56:27.2303 |  Info | Program |   Name:      Simple Grand Theft Multiplayer Server 
+2017-05-31 10:56:27.2303 |  Info | Program |   FQDN:                      
+2017-05-31 10:56:27.2423 |  Info | Program |   Players:                50 
+2017-05-31 10:56:27.2423 |  Info | Program |   Announce:             True 
+2017-05-31 10:56:27.2423 |  Info | Program | Starting... 
+2017-05-31 10:56:27.7853 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:56:27.7963 |  Info | GameServer | Loading resources... 
+2017-05-31 10:56:27.8903 |  Info | GameServer | Starting freeroam 
+2017-05-31 10:56:28.2369 |  Info | GameServer | Resource freeroam started. 
+2017-05-31 10:56:28.2429 |  Info | GameServer | Starting doormanager 
+2017-05-31 10:56:28.4784 |  Info | GameServer | Resource doormanager started. 
+2017-05-31 10:56:28.4784 |  Info | GameServer | Starting main 
+2017-05-31 10:56:28.7685 |  Info | GameServer | Resource main started. 
+2017-05-31 10:56:28.7745 |  Info | Program | Started! Waiting for connections. 
+2017-05-31 10:56:34.1384 |  Info | GameServer | Initiating connection: [192.168.0.10:54587] 
+2017-05-31 10:56:34.2134 |  Info | GameServer | Processing connection: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-31 10:56:34.4004 |  Info | GameServer | Connection established: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-31 10:58:27.7921 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:58:55.4712 |  Info | Program | Terminating... 
+2017-05-31 10:58:55.4852 |  Info | GameServer | Stopping main 
+2017-05-31 10:58:55.5332 |  Info | GameServer | Stopped main. 
+2017-05-31 10:58:55.5387 |  Info | GameServer | Stopping doormanager 
+2017-05-31 10:58:55.5537 |  Info | GameServer | Stopped doormanager. 
+2017-05-31 10:58:55.5537 |  Info | GameServer | Stopping freeroam 
+2017-05-31 10:58:55.5732 |  Info | GameServer | Stopped freeroam. 
+2017-05-31 10:58:55.5977 |  Info | Program | Server stopped. 
+2017-05-31 10:58:56.0998 |  Info | Program | Grand Theft Multiplayer Server v0.1.513.599 
+2017-05-31 10:58:56.1713 |  Info | Program |   Interface:         0.0.0.0 
+2017-05-31 10:58:56.1788 |  Info | Program |   Port:                 4499 
+2017-05-31 10:58:56.1788 |  Info | Program |   Name:      Simple Grand Theft Multiplayer Server 
+2017-05-31 10:58:56.1788 |  Info | Program |   FQDN:                      
+2017-05-31 10:58:56.1973 |  Info | Program |   Players:                50 
+2017-05-31 10:58:56.1973 |  Info | Program |   Announce:             True 
+2017-05-31 10:58:56.2108 |  Info | Program | Starting... 
+2017-05-31 10:58:56.7569 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:58:56.7569 |  Info | GameServer | Loading resources... 
+2017-05-31 10:58:56.8624 |  Info | GameServer | Starting freeroam 
+2017-05-31 10:58:57.1974 |  Info | GameServer | Resource freeroam started. 
+2017-05-31 10:58:57.1974 |  Info | GameServer | Starting doormanager 
+2017-05-31 10:58:57.4469 |  Info | GameServer | Resource doormanager started. 
+2017-05-31 10:58:57.4469 |  Info | GameServer | Starting main 
+2017-05-31 10:58:57.6885 | Error | GameServer | Error/warning while compiling script! 
+2017-05-31 10:58:57.6940 | Error | GameServer | Error (CS0128) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\interactionmenu\interactionmenu.cs:67: A local variable named 'h' is already defined in this scope 
+2017-05-31 10:58:57.6940 | Error | GameServer | Error (CS0128) at c:\Users\Eric\Desktop\GT-MP-Server\resources\main\interactionmenu\interactionmenu.cs:68: A local variable named 'v' is already defined in this scope 
+2017-05-31 10:58:57.7090 |  Info | GameServer | Resource main started. 
+2017-05-31 10:58:57.7090 |  Info | Program | Started! Waiting for connections. 
+2017-05-31 10:59:48.6465 |  Info | Program | Terminating... 
+2017-05-31 10:59:48.6660 |  Info | GameServer | Stopping main 
+2017-05-31 10:59:48.6840 |  Info | GameServer | Stopped main. 
+2017-05-31 10:59:48.6840 |  Info | GameServer | Stopping doormanager 
+2017-05-31 10:59:48.7115 |  Info | GameServer | Stopped doormanager. 
+2017-05-31 10:59:48.7115 |  Info | GameServer | Stopping freeroam 
+2017-05-31 10:59:48.7335 |  Info | GameServer | Stopped freeroam. 
+2017-05-31 10:59:48.7665 |  Info | Program | Server stopped. 
+2017-05-31 10:59:49.2355 |  Info | Program | Grand Theft Multiplayer Server v0.1.513.599 
+2017-05-31 10:59:49.3020 |  Info | Program |   Interface:         0.0.0.0 
+2017-05-31 10:59:49.3085 |  Info | Program |   Port:                 4499 
+2017-05-31 10:59:49.3085 |  Info | Program |   Name:      Simple Grand Theft Multiplayer Server 
+2017-05-31 10:59:49.3225 |  Info | Program |   FQDN:                      
+2017-05-31 10:59:49.3225 |  Info | Program |   Players:                50 
+2017-05-31 10:59:49.3355 |  Info | Program |   Announce:             True 
+2017-05-31 10:59:49.3355 |  Info | Program | Starting... 
+2017-05-31 10:59:49.8371 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 10:59:49.8371 |  Info | GameServer | Loading resources... 
+2017-05-31 10:59:49.9388 |  Info | GameServer | Starting freeroam 
+2017-05-31 10:59:50.2759 |  Info | GameServer | Resource freeroam started. 
+2017-05-31 10:59:50.2759 |  Info | GameServer | Starting doormanager 
+2017-05-31 10:59:50.5154 |  Info | GameServer | Resource doormanager started. 
+2017-05-31 10:59:50.5154 |  Info | GameServer | Starting main 
+2017-05-31 10:59:50.8350 |  Info | GameServer | Resource main started. 
+2017-05-31 10:59:50.8350 |  Info | Program | Started! Waiting for connections. 
+2017-05-31 10:59:55.7767 |  Info | GameServer | Initiating connection: [192.168.0.10:54587] 
+2017-05-31 10:59:55.8488 |  Info | GameServer | Processing connection: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-31 10:59:56.0163 |  Info | GameServer | Connection established: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-31 11:01:49.8377 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 11:03:49.8413 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 11:05:23.0152 |  Info | Program | Terminating... 
+2017-05-31 11:05:23.0327 |  Info | GameServer | Stopping main 
+2017-05-31 11:05:23.0822 |  Info | GameServer | Stopped main. 
+2017-05-31 11:05:23.0887 |  Info | GameServer | Stopping doormanager 
+2017-05-31 11:05:23.1047 |  Info | GameServer | Stopped doormanager. 
+2017-05-31 11:05:23.1047 |  Info | GameServer | Stopping freeroam 
+2017-05-31 11:05:23.1247 |  Info | GameServer | Stopped freeroam. 
+2017-05-31 11:05:23.1502 |  Info | Program | Server stopped. 
+2017-05-31 11:05:23.6228 |  Info | Program | Grand Theft Multiplayer Server v0.1.513.599 
+2017-05-31 11:05:23.6943 |  Info | Program |   Interface:         0.0.0.0 
+2017-05-31 11:05:23.6943 |  Info | Program |   Port:                 4499 
+2017-05-31 11:05:23.6943 |  Info | Program |   Name:      Simple Grand Theft Multiplayer Server 
+2017-05-31 11:05:23.7138 |  Info | Program |   FQDN:                      
+2017-05-31 11:05:23.7138 |  Info | Program |   Players:                50 
+2017-05-31 11:05:23.7263 |  Info | Program |   Announce:             True 
+2017-05-31 11:05:23.7263 |  Info | Program | Starting... 
+2017-05-31 11:05:24.2643 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 11:05:24.2749 |  Info | GameServer | Loading resources... 
+2017-05-31 11:05:24.3734 |  Info | GameServer | Starting freeroam 
+2017-05-31 11:05:24.7234 |  Info | GameServer | Resource freeroam started. 
+2017-05-31 11:05:24.7294 |  Info | GameServer | Starting doormanager 
+2017-05-31 11:05:24.9584 |  Info | GameServer | Resource doormanager started. 
+2017-05-31 11:05:24.9639 |  Info | GameServer | Starting main 
+2017-05-31 11:05:25.2455 |  Info | GameServer | Resource main started. 
+2017-05-31 11:05:25.2455 |  Info | Program | Started! Waiting for connections. 
+2017-05-31 11:05:32.0320 |  Info | GameServer | Initiating connection: [192.168.0.10:54587] 
+2017-05-31 11:05:32.0905 |  Info | GameServer | Processing connection: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-31 11:05:32.2675 |  Info | GameServer | Connection established: godsdead20 (godsdead20) [192.168.0.10] 
+2017-05-31 11:07:24.2659 | Debug | GameServer | Announcing self to master server... 
+2017-05-31 11:09:24.2669 | Debug | GameServer | Announcing self to master server... 

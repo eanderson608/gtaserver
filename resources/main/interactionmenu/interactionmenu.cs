@@ -20,6 +20,7 @@ namespace Server
 
         private static MySqlConnectionStringBuilder _database;
         private static IVehicleRepository _vehicleRepository;
+        private List<Veh> vehs;
 
         public interactionmenu()
         {
@@ -41,15 +42,43 @@ namespace Server
                 case "query_server_for_vehicle_owner":
                     int charId = API.getEntityData(player.handle, "CHAR_ID");
 
-                    List<Veh> vehs = _vehicleRepository.GetVehicleByPlate(args[0].ToString());
+                    vehs = _vehicleRepository.GetVehicleByPlate(args[0].ToString());
                     API.triggerClientEvent(player, "does_player_have_access_to_vehicle", charId == vehs[0].OwnerId);
                     break;
 
+
                 case "request_toggle_trunk":
-                    List<Veh> vehs = _vehicleRepository.GetVehicleByPlate(args[0].ToString());
-                    bool trunk = API.getVehicleDoorState(v, 5);
-                    API.setVehicleDoorState(v, 5, !trunk);
+
+                    vehs = _vehicleRepository.GetVehicleByPlate(args[0].ToString());
+                    if (API.getEntityData(player.handle, "CHAR_ID") == vehs[0].OwnerId) {
+
+                        NetHandle h = new NetHandle(vehs[0].Handle);
+                        Vehicle v = API.getEntityFromHandle<Vehicle>(h);
+                        bool trunk = API.getVehicleDoorState(v, 5);
+                        API.setVehicleDoorState(v, 5, !trunk);
+                    }
                     break;
+
+                case "request_toggle_door_locks":
+
+                    vehs = _vehicleRepository.GetVehicleByPlate(args[0].ToString());
+                    if (API.getEntityData(player.handle, "CHAR_ID") == vehs[0].OwnerId) {
+
+                        NetHandle h = new NetHandle(vehs[0].Handle);
+                        Vehicle v = API.getEntityFromHandle<Vehicle>(h);
+                        bool locked = API.getVehicleLocked(v);
+                        API.setVehicleLocked(v, !locked);
+
+                        // alert player
+                        string vehName =  API.getVehicleDisplayName((VehicleHash)API.getEntityModel(v));
+                        if (!locked) {
+                            API.sendNotificationToPlayer(player, "~r~" + vehName + " locked");
+                        } else {
+                            API.sendNotificationToPlayer(player, "~g~" + vehName + " unlocked");
+                        }
+                    }
+                    break;
+
             }
         }
 

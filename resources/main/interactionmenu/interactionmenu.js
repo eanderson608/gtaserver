@@ -6,6 +6,7 @@ var player = API.getLocalPlayer();
 var vehicles = null;
 var entMarker = null;  // marker for the currently selected entity
 var entCurr = null;  // variable for the currently selected entity
+var vehListItem = null;
 
 API.onUpdate.connect(function (sender, args) {
 
@@ -94,7 +95,7 @@ API.onKeyUp.connect(function (sender, e) {
             API.setCanOpenChat(false);
 
             // get nearby VehicleHash
-            vehicles = getVehiclesInRadius(50);
+            vehicles = getVehiclesInRadius(5);
 
             // if there are vehicles nearby, add them to a menu
             if (vehicles.length > 0) {
@@ -111,42 +112,17 @@ API.onKeyUp.connect(function (sender, e) {
                     vehList.Add(vehName);
                 }
 
-                var vehListItem = API.createListItem("Vehicle", "", vehList, 0);
+                vehListItem = API.createListItem("Vehicle", "", vehList, 0);
                 interactionMenu.AddItem(vehListItem);
             }
-
-
-            interactionMenu.OnListChange.connect(function (sender, item, index) {
-
-                if (item == vehListItem) {
-
-                    // ask the server if we own this vechicle
-                    API.triggerServerEvent("query_server_for_vehicle_owner", API.getEntitySyncedData(vehicles[index], "PLATE"));
-
-                    // move marker when different vehicles are selected
-                    entCurr = vehicles[index];
-                }
-            });
-
-            interactionMenu.OnItemSelect.connect(function(sender, item, index) {
-
-                switch (item.Text) {
-
-                    case "Door Locks":
-                        API.triggerServerEvent("request_unlock_vehicle", API.getEntitySyncedData(entCurr, "PLATE"));
-                        break;
-
-                    case "Trunk":
-                        API.requestToggleTrunk("request_toggle_trunk", API.getEntitySyncedData(entCurr, "PLATE"));
-                        break;
-                }
-            });
 
             interactionMenu.RefreshIndex();
             interactionMenu.Visible = true;
         }
         else {
-            API.deleteEntity(entMarker);
+            if (entMarker != null) {
+                API.deleteEntity(entMarker);
+            }            
             API.setCanOpenChat(true);
             interactionMenu.Visible = false;
             interactionMenu.Clear();
@@ -188,7 +164,31 @@ function createInteractionMenu() {
     interactionMenu = API.createMenu("", 50, 0, 6);
     API.setMenuTitle(interactionMenu, "Interaction Menu");
 
+    interactionMenu.OnListChange.connect(function (sender, item, index) {
 
+        if (item == vehListItem) {
+
+            // ask the server if we own this vechicle
+            API.triggerServerEvent("query_server_for_vehicle_owner", API.getEntitySyncedData(vehicles[index], "PLATE"));
+
+            // move marker when different vehicles are selected
+            entCurr = vehicles[index];
+        }
+    });
+
+    interactionMenu.OnItemSelect.connect(function(sender, item, index) {
+
+        switch (item.Text) {
+
+            case "Door Locks":
+                API.triggerServerEvent("request_toggle_door_locks", API.getEntitySyncedData(entCurr, "PLATE"));
+                break;
+
+            case "Trunk":
+                API.triggerServerEvent("request_toggle_trunk", API.getEntitySyncedData(entCurr, "PLATE"));
+                break;
+        }
+    });
 
     interactionMenu.ResetKey(menuControl.Back);
     interactionMenu.DisableInstructionalButtons(true);
@@ -234,7 +234,7 @@ function deleteVehicleMenuItems() {
 
     for (var i = 0; i < menuItems.Count; i++) {
         if (menuItems[i].Text == "Door Locks") {
-            interactionMenu.RemoveItemAt(1);
+            interactionMenu.RemoveItemAt(i);
             break;
         }
     }
@@ -244,7 +244,7 @@ function deleteVehicleMenuItems() {
 
     for (var i = 0; i < menuItems.Count; i++) {
         if (menuItems[i].Text == "Trunk") {
-            interactionMenu.RemoveItemAt(1);
+            interactionMenu.RemoveItemAt(i);
             break;
         }
     }
