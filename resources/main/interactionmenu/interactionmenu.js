@@ -85,7 +85,7 @@ API.onUpdate.connect(function (sender, args) {
 
 API.onKeyUp.connect(function (sender, e) {
 
-    if (e.KeyCode === Keys.E && resource.login_local.charChosen) {
+    if (e.KeyCode === Keys.Oemtilde && resource.login_local.charChosen) {
 
         if (!interactionMenu.Visible) {
 
@@ -122,7 +122,7 @@ API.onKeyUp.connect(function (sender, e) {
         else {
             if (entMarker != null) {
                 API.deleteEntity(entMarker);
-            }            
+            }
             API.setCanOpenChat(true);
             interactionMenu.Visible = false;
             interactionMenu.Clear();
@@ -143,7 +143,9 @@ API.onServerEventTrigger.connect(function (eventName, args) {
 
             var hasAccess = args[0];
             if (hasAccess) {
-
+                if (API.getPlayerVehicleSeat(player) == -1) {
+                    interactionMenu.AddItem(API.createMenuItem("Engine", ""));
+                }
                 interactionMenu.AddItem(API.createMenuItem("Door Locks", ""));
                 interactionMenu.AddItem(API.createMenuItem("Trunk", ""));
                 interactionMenu.RefreshIndex();
@@ -179,6 +181,11 @@ function createInteractionMenu() {
     interactionMenu.OnItemSelect.connect(function(sender, item, index) {
 
         switch (item.Text) {
+
+            case "Engine":
+                API.triggerServerEvent("request_toggle_engine", API.getEntitySyncedData(entCurr, "PLATE"));
+                //API.startAudio("dealerships/START_2.wav", false);
+                break;
 
             case "Door Locks":
                 API.triggerServerEvent("request_toggle_door_locks", API.getEntitySyncedData(entCurr, "PLATE"));

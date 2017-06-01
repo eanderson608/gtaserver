@@ -22,7 +22,7 @@
   <resource src="doormanager" />
   <resource src="main" />
 
-  <file src="main/dealerships/car_door_lock.wav" />
+  <file src="main/dealerships/START_2.wav" />
 
   <announce_lan>true</announce_lan>
   <upnp>false</upnp>

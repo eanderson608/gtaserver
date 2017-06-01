@@ -19,6 +19,8 @@
     <script src="charcreator/customchar.cs" type="server" lang="csharp" />
     -->
 
+    <file src="dealerships/START_2.wav" />
+
     <file src="login/bootstrap.min.css" />
     <file src="login/AdminLTE.min.css" />
     <file src="login/blue.css" />

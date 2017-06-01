@@ -28,6 +28,7 @@ namespace Server
             API.onResourceStart += OnResourceStart;
             API.onPlayerConnected += OnPlayerConnected;
             API.onClientEventTrigger += OnClientEventTrigger;
+            API.onPlayerEnterVehicle += OnPlayerEnterVehicle;
         }
 
         public void OnResourceStart()
@@ -58,21 +59,34 @@ namespace Server
 
         }
 
+        private void OnPlayerEnterVehicle(Client player, NetHandle vehicle)
+        {
+            //Vehicle v = API.getEntityFromHandle<Vehicle>(vehicle);
+            //List<Veh> vehs = _vehicleRepository.GetVehicleByPlate(API.getVehicleNumberPlate(vehicle));
+            string json = API.getEntityData(vehicle, "JSON_DATA");
+            dynamic vehData = API.fromJson(json.ToString());
+            if (API.getEntityData(player, "CHAR_ID") == (int)(vehData.OwnerId))
+            {
+                 API.setVehicleEngineStatus(vehicle, true);
+            }
+        }
+
         [Command("veh")]
         public void veh(Client player, VehicleHash model)
         {
             Vector3 pos = API.getEntityPosition(player);
             Vector3 rot = API.getEntityRotation(player);
             Vehicle v = createVehicleHelper(model, pos, rot, API.getEntityData(player, "CHAR_ID"));
-            API.setVehicleEngineStatus(v, true);
+            //API.setVehicleEngineStatus(v, true);
         }
 
-        [Command("trunk")]
-        public void trunk(Client player)
+        [Command("move")]
+        public void move(Client player)
         {
-            NetHandle v = getClosestVehicleToPlayer(player, 5f);
-            bool trunk = API.getVehicleDoorState(v, 5);
-            API.setVehicleDoorState(v, 5, !trunk);
+            NetHandle v = getClosestVehicleToPlayer(player, 50f);
+            Vector3 pos = API.getEntityPosition(v);
+            //API.sendNativeToAllPlayers(Hash.SET_VEHICLE_ENGINE_ON, v, true, false, false);
+
         }
 
         [Command("purchase")]
@@ -158,7 +172,7 @@ namespace Server
             // trigger client event to stream number plate info
             API.setVehicleNumberPlate(vehicle, veh.Plate);
             API.setVehicleEngineStatus(vehicle, false);
-            API.setVehicleLocked(vehicle, true);
+            API.sendNativeToAllPlayers(Hash.SET_VEHICLE_DOORS_LOCKED, API.getEntityFromHandle<Vehicle>(vehicle), 2);
             API.setEntityData(vehicle, "JSON_DATA", API.toJson(veh));
             API.setEntitySyncedData(vehicle, "PLATE", veh.Plate);
 

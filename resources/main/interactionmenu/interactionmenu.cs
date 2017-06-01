@@ -46,6 +46,19 @@ namespace Server
                     API.triggerClientEvent(player, "does_player_have_access_to_vehicle", charId == vehs[0].OwnerId);
                     break;
 
+                case "request_toggle_engine":
+
+                    vehs = _vehicleRepository.GetVehicleByPlate(args[0].ToString());
+                    if (API.getEntityData(player.handle, "CHAR_ID") == vehs[0].OwnerId) {
+
+                        NetHandle h = new NetHandle(vehs[0].Handle);
+                        Vehicle v = API.getEntityFromHandle<Vehicle>(h);
+                        bool engine = API.getVehicleEngineStatus(v);
+                        API.setVehicleEngineStatus(v, !engine);
+
+                    }
+                    break;
+
 
                 case "request_toggle_trunk":
 
@@ -72,8 +85,10 @@ namespace Server
                         // alert player
                         string vehName =  API.getVehicleDisplayName((VehicleHash)API.getEntityModel(v));
                         if (!locked) {
+                            API.sendNativeToAllPlayers(Hash.SET_VEHICLE_DOORS_LOCKED, v, 2);
                             API.sendNotificationToPlayer(player, "~r~" + vehName + " locked");
                         } else {
+                            API.sendNativeToAllPlayers(Hash.SET_VEHICLE_DOORS_LOCKED, v, 0);
                             API.sendNotificationToPlayer(player, "~g~" + vehName + " unlocked");
                         }
                     }
